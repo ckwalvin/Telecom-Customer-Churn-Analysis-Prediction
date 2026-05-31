@@ -1,0 +1,7044 @@
+Customer ID,Top_Feature,SHAP_Value,Influence
+8779-QRDMV,Contract,-2.144601,Negative (抑制流失)
+7495-OOKFY,Contract,-1.3599648,Negative (抑制流失)
+1658-BYGOY,Number of Referrals,-1.5650157,Negative (抑制流失)
+4598-XLKNJ,Number of Referrals,-1.5301702,Negative (抑制流失)
+4846-WHAFZ,Number of Referrals,-1.3541645,Negative (抑制流失)
+4412-YLTKF,Contract,0.6826305,Positive (促使流失)
+0390-DCFDQ,Contract,0.6022112,Positive (促使流失)
+3445-HXXGF,Contract,0.6255283,Positive (促使流失)
+2656-FMOKZ,Contract,0.61552644,Positive (促使流失)
+2070-FNEXE,Contract,0.84592885,Positive (促使流失)
+0094-OIFMO,charge_per_tenure,-0.6258153,Negative (抑制流失)
+9947-OTFQU,Number of Referrals,0.7666718,Positive (促使流失)
+9514-JDSKI,Contract,-1.6422113,Negative (抑制流失)
+7273-TEFQD,Contract,0.6357313,Positive (促使流失)
+3606-TWKGI,Contract,-1.4653698,Negative (抑制流失)
+4385-GZQXV,Contract,-2.1269474,Negative (抑制流失)
+3488-PGMQJ,Contract,0.7458314,Positive (促使流失)
+7534-BFESC,Number of Referrals,-2.0364928,Negative (抑制流失)
+8098-LLAZX,Contract,-1.5016462,Negative (抑制流失)
+0265-EDXBD,Contract,0.568407,Positive (促使流失)
+2840-XANRC,Contract,0.75112015,Positive (促使流失)
+5020-ZSTTY,Contract,0.5700582,Positive (促使流失)
+5804-LEPIM,Contract,-0.7025476,Negative (抑制流失)
+0623-IIHUG,Number of Referrals,-2.6202433,Negative (抑制流失)
+9057-MSWCO,Contract,0.6779746,Positive (促使流失)
+4895-TMWIR,Contract,-1.0500958,Negative (抑制流失)
+0533-BNWKF,Contract,0.8882012,Positive (促使流失)
+0334-GDDSO,Contract,0.72254986,Positive (促使流失)
+5564-NEMQO,Number of Referrals,-1.7113916,Negative (抑制流失)
+6235-VDHOM,Contract,0.57202834,Positive (促使流失)
+5609-CEBID,Contract,0.6072368,Positive (促使流失)
+5956-VKDTT,Contract,-0.6466544,Negative (抑制流失)
+0257-ZESQC,Contract,0.6302927,Positive (促使流失)
+2865-TCHJW,Number of Referrals,-1.4551986,Negative (抑制流失)
+5192-EBGOV,Contract,0.8717104,Positive (促使流失)
+3419-SNJJD,Contract,0.67360747,Positive (促使流失)
+4554-YGZIH,Contract,0.91667557,Positive (促使流失)
+5099-BAILX,Contract,0.562617,Positive (促使流失)
+4913-EHYUI,charge_per_tenure,-0.6605356,Negative (抑制流失)
+1626-ERCMM,Contract,0.72605944,Positive (促使流失)
+5644-PDMZC,Contract,0.63604254,Positive (促使流失)
+4160-AMJTL,Contract,-1.6034551,Negative (抑制流失)
+0823-HSCDJ,Contract,-0.6965323,Negative (抑制流失)
+0067-DKWBL,Number of Referrals,-2.549345,Negative (抑制流失)
+5244-IRFIH,Number of Referrals,1.0649663,Positive (促使流失)
+2684-EIWEO,Contract,-1.9129893,Negative (抑制流失)
+6683-VLCTZ,Contract,0.66618264,Positive (促使流失)
+0691-IFBQW,Contract,-0.9080238,Negative (抑制流失)
+3643-AHCFP,Number of Referrals,-1.7512293,Negative (抑制流失)
+9231-ZJYAM,Contract,0.86320156,Positive (促使流失)
+0727-BMPLR,Number of Referrals,-2.2733824,Negative (抑制流失)
+0947-MUGVO,Number of Referrals,0.5679999,Positive (促使流失)
+0781-LKXBR,Contract,-1.3382354,Negative (抑制流失)
+1907-UBQFC,Contract,-0.6928042,Negative (抑制流失)
+6513-EECDB,Contract,0.5912184,Positive (促使流失)
+7074-IEVOJ,Contract,-1.1817181,Negative (抑制流失)
+4750-ZRXIU,Number of Referrals,-1.849247,Negative (抑制流失)
+7028-DVOIQ,Contract,-0.49032682,Negative (抑制流失)
+4208-UFFGW,Contract,-0.6799985,Negative (抑制流失)
+9889-TMAHG,Number of Referrals,-1.5153801,Negative (抑制流失)
+8919-FYFQZ,Number of Referrals,0.8782037,Positive (促使流失)
+6646-QVXLR,Contract,0.71443605,Positive (促使流失)
+9369-XFEHK,Contract,0.7352288,Positive (促使流失)
+1374-DMZUI,Number of Referrals,-1.9597825,Negative (抑制流失)
+1989-PRJHP,Contract,0.6923582,Positive (促使流失)
+4822-RVYBB,Contract,0.7535193,Positive (促使流失)
+4184-TJFAN,Contract,0.5423546,Positive (促使流失)
+4145-UQXUQ,Contract,0.4957893,Positive (促使流失)
+1236-WFCDV,Contract,-1.5001199,Negative (抑制流失)
+1271-SJBGZ,Contract,0.80085105,Positive (促使流失)
+4441-NIHPT,Number of Referrals,-0.745796,Negative (抑制流失)
+8999-BOHSE,Contract,0.5433827,Positive (促使流失)
+7029-RPUAV,Contract,0.8514314,Positive (促使流失)
+8111-SLLHI,Contract,-0.78712225,Negative (抑制流失)
+5293-WXJAK,Contract,-0.7502622,Negative (抑制流失)
+4086-YQSNZ,Contract,-1.5169159,Negative (抑制流失)
+8399-YNDCH,Number of Referrals,0.7052209,Positive (促使流失)
+5565-FILXA,Contract,0.93482435,Positive (促使流失)
+4187-CINZD,Number of Referrals,-1.7665665,Negative (抑制流失)
+6818-WOBHJ,Contract,0.663697,Positive (促使流失)
+9134-CEQMF,Contract,0.52411526,Positive (促使流失)
+8519-IMDHU,Contract,0.6924541,Positive (促使流失)
+3372-KWFBM,Contract,0.62023175,Positive (促使流失)
+7206-GZCDC,Contract,0.9261276,Positive (促使流失)
+1768-ZAIFU,Contract,-1.5407355,Negative (抑制流失)
+3793-MMFUH,Contract,-1.5993223,Negative (抑制流失)
+6567-HOOPW,charge_per_tenure,-0.5225598,Negative (抑制流失)
+8621-MNIHH,Contract,0.7789238,Positive (促使流失)
+5419-CONWX,Contract,-1.4979699,Negative (抑制流失)
+7024-OHCCK,Contract,-1.2510169,Negative (抑制流失)
+5357-TZHPP,Contract,0.661794,Positive (促使流失)
+0506-LVNGN,Contract,-0.56886363,Negative (抑制流失)
+9809-IMGCQ,Contract,0.6467715,Positive (促使流失)
+3254-YRILK,charge_per_tenure,0.83822435,Positive (促使流失)
+0529-ONKER,Contract,0.6991122,Positive (促使流失)
+5240-IJOQT,Contract,-1.2915657,Negative (抑制流失)
+0661-XEYAN,Contract,-0.86524117,Negative (抑制流失)
+2660-EMUBI,Number of Referrals,0.80347854,Positive (促使流失)
+7675-OZCZG,Age,0.85543066,Positive (促使流失)
+9391-EOYLI,charge_per_tenure,-0.6462999,Negative (抑制流失)
+2761-OCIAX,Number of Referrals,0.8939997,Positive (促使流失)
+3068-OMWZA,Contract,0.57354677,Positive (促使流失)
+4154-AQUGT,Contract,-1.9623499,Negative (抑制流失)
+8017-LXHFA,Contract,0.8263854,Positive (促使流失)
+4248-QPAVC,Contract,0.8840604,Positive (促使流失)
+4690-LLKUA,Contract,-0.6643299,Negative (抑制流失)
+9490-DFPMD,Contract,0.62924623,Positive (促使流失)
+8580-AECUZ,Contract,0.7316711,Positive (促使流失)
+5047-LHVLY,Contract,-1.7449224,Negative (抑制流失)
+8375-DKEBR,Contract,0.6159105,Positive (促使流失)
+7279-BUYWN,Number of Referrals,-0.9982784,Negative (抑制流失)
+7156-MHUGY,Monthly Charge,0.5140211,Positive (促使流失)
+9606-PBKBQ,Contract,0.7874291,Positive (促使流失)
+3536-IQCTX,Number of Referrals,-1.7771965,Negative (抑制流失)
+3132-TVFDZ,Contract,-0.7797508,Negative (抑制流失)
+8080-DDEMJ,Contract,-1.2437274,Negative (抑制流失)
+6702-OHFWR,charge_per_tenure,0.7238514,Positive (促使流失)
+4510-PYUSH,Contract,0.68015665,Positive (促使流失)
+8840-DQLGN,Number of Referrals,-0.69961613,Negative (抑制流失)
+4193-ORFCL,Contract,0.6313952,Positive (促使流失)
+7776-QWNFX,charge_per_tenure,1.1163423,Positive (促使流失)
+6689-TCZHQ,Age,0.838029,Positive (促使流失)
+9497-QCMMS,Contract,-1.5242376,Negative (抑制流失)
+3424-NMNBO,Contract,0.635126,Positive (促使流失)
+4514-GFCFI,Contract,-0.5790143,Negative (抑制流失)
+8000-REIQB,Number of Referrals,-1.811713,Negative (抑制流失)
+4795-KTRTH,Contract,0.6346187,Positive (促使流失)
+9961-JBNMK,Contract,-1.5172246,Negative (抑制流失)
+6179-GJPSO,Contract,0.68761355,Positive (促使流失)
+8290-YWKHZ,Number of Referrals,-0.7057303,Negative (抑制流失)
+8051-HJRLT,Contract,0.7184948,Positive (促使流失)
+4021-RQSNY,Contract,0.6825868,Positive (促使流失)
+9061-TIHDA,Contract,0.6377214,Positive (促使流失)
+8699-ASUFO,Contract,-2.1726286,Negative (抑制流失)
+4695-WJZUE,Number of Referrals,-0.6699636,Negative (抑制流失)
+3988-RQIXO,Number of Referrals,-1.0589241,Negative (抑制流失)
+5931-FLJJF,charge_per_tenure,-0.646302,Negative (抑制流失)
+3207-OYBWH,Contract,-0.60141987,Negative (抑制流失)
+7216-EWTRS,Contract,-1.375911,Negative (抑制流失)
+2528-HFYZX,Contract,0.7881557,Positive (促使流失)
+4140-MUHUG,Number of Referrals,-2.1763806,Negative (抑制流失)
+1587-FKLZB,Number of Referrals,-1.8314133,Negative (抑制流失)
+5440-FLBQG,Age,0.8249378,Positive (促使流失)
+2774-LVQUS,Contract,-0.6881159,Negative (抑制流失)
+4612-THJBS,Contract,-1.3532192,Negative (抑制流失)
+4094-NSEDU,Number of Referrals,-0.9709717,Negative (抑制流失)
+1846-XWOQN,Contract,0.6299108,Positive (促使流失)
+3757-NJYBX,Age,0.76601195,Positive (促使流失)
+9898-KZQDZ,Contract,-1.3447686,Negative (抑制流失)
+8263-JQAIK,Contract,-1.6709712,Negative (抑制流失)
+2205-YMZZJ,Contract,-1.3164139,Negative (抑制流失)
+1254-IZEYF,Contract,0.5830465,Positive (促使流失)
+9221-OTIVJ,Contract,0.65586996,Positive (促使流失)
+5908-QMGOE,Contract,-1.4261341,Negative (抑制流失)
+0397-GZBBC,Number of Referrals,0.5586436,Positive (促使流失)
+7641-EUYET,Contract,-0.548842,Negative (抑制流失)
+8922-LIEGH,Contract,-1.4269829,Negative (抑制流失)
+8245-UMPYT,Contract,0.7509053,Positive (促使流失)
+5186-SAMNZ,Number of Referrals,0.9247961,Positive (促使流失)
+5373-SFODM,Contract,0.73867285,Positive (促使流失)
+0022-TCJCI,Contract,0.6758615,Positive (促使流失)
+5130-IEKQT,Number of Referrals,-0.69517183,Negative (抑制流失)
+3269-ATYWD,Contract,-0.70092183,Negative (抑制流失)
+0354-WYROK,Contract,0.61030173,Positive (促使流失)
+7576-OYWBN,Contract,-1.3261026,Negative (抑制流失)
+5539-TMZLF,Contract,0.76783645,Positive (促使流失)
+3336-JORSO,Contract,-1.527351,Negative (抑制流失)
+6861-XWTWQ,Contract,0.7064839,Positive (促使流失)
+4283-FUTGF,Contract,-0.7227258,Negative (抑制流失)
+2397-BRLOM,Contract,-0.7437899,Negative (抑制流失)
+8510-AWCXC,Contract,-1.367651,Negative (抑制流失)
+8225-BTJAU,charge_per_tenure,0.7979079,Positive (促使流失)
+1724-BQUHA,Contract,0.6626885,Positive (促使流失)
+4826-XTSOH,Contract,0.77126193,Positive (促使流失)
+2408-WITXK,Contract,-0.8629304,Negative (抑制流失)
+2634-HCZGT,Number of Referrals,-2.1524477,Negative (抑制流失)
+7503-QQRVF,Contract,-1.3017517,Negative (抑制流失)
+0709-TVGUR,Contract,0.67897403,Positive (促使流失)
+3001-CBHLQ,Number of Referrals,-1.9693844,Negative (抑制流失)
+4102-OQUPX,Number of Referrals,-2.380067,Negative (抑制流失)
+3999-QGRJH,Contract,0.5730523,Positive (促使流失)
+2454-RPBRZ,Contract,-1.6051434,Negative (抑制流失)
+2265-CYWIV,Contract,0.72062415,Positive (促使流失)
+4550-VBOFE,Contract,0.87628883,Positive (促使流失)
+7409-KIUTL,Number of Referrals,-1.502944,Negative (抑制流失)
+1732-VHUBQ,Number of Referrals,-1.3554634,Negative (抑制流失)
+0679-IDSTG,Contract,-1.7931042,Negative (抑制流失)
+8802-UNOJF,Number of Referrals,0.6312453,Positive (促使流失)
+6313-GIDIT,Contract,0.48855639,Positive (促使流失)
+2845-AFFTX,Contract,-1.1059486,Negative (抑制流失)
+2815-CPTUL,Contract,0.61187214,Positive (促使流失)
+1891-FZYSA,Contract,-1.5065607,Negative (抑制流失)
+9685-WKZGT,Contract,0.7069452,Positive (促使流失)
+6022-UGGSO,Contract,-1.2573608,Negative (抑制流失)
+3923-CSIHK,Number of Referrals,-1.9427204,Negative (抑制流失)
+3677-IYRBF,Number of Referrals,-1.5214797,Negative (抑制流失)
+8118-LSUEL,Number of Referrals,-0.7279814,Negative (抑制流失)
+5277-ZLOOR,Contract,0.5716834,Positive (促使流失)
+4248-HCETZ,Number of Referrals,-1.4320991,Negative (抑制流失)
+9174-FKWZE,Contract,0.6826896,Positive (促使流失)
+5307-DZCVC,Number of Referrals,-1.6592553,Negative (抑制流失)
+8679-JOEVF,Contract,-0.5216172,Negative (抑制流失)
+4803-AXVYP,Number of Referrals,0.7126654,Positive (促使流失)
+5649-ANRML,Contract,-1.5386788,Negative (抑制流失)
+7395-IGJOS,Contract,0.5391048,Positive (促使流失)
+7890-VYYWG,Contract,0.67082936,Positive (促使流失)
+9907-SWKKF,Contract,0.60202473,Positive (促使流失)
+6397-JNZZG,charge_per_tenure,0.8005597,Positive (促使流失)
+7779-LGOVN,Contract,0.45268232,Positive (促使流失)
+9710-ZUSHQ,Number of Referrals,0.64090204,Positive (促使流失)
+3902-FOIGH,charge_per_tenure,0.8296979,Positive (促使流失)
+3318-OSATS,Number of Referrals,-1.8539366,Negative (抑制流失)
+2636-ALXXZ,Contract,0.7453564,Positive (促使流失)
+9885-CSMWE,Contract,0.55334336,Positive (促使流失)
+8058-JMEQO,Number of Referrals,-1.951227,Negative (抑制流失)
+7657-DYEPJ,Number of Referrals,-1.8204409,Negative (抑制流失)
+8276-MQBYC,Contract,-1.3538251,Negative (抑制流失)
+6015-VVHHE,Contract,-0.48370916,Negative (抑制流失)
+2516-VQRRV,Contract,0.69755983,Positive (促使流失)
+7580-UGXNC,Contract,0.7693306,Positive (促使流失)
+5178-LMXOP,Contract,-1.4542322,Negative (抑制流失)
+7056-IMHCC,Number of Referrals,0.6960996,Positive (促使流失)
+8749-JMNKX,Contract,-0.59189785,Negative (抑制流失)
+0917-EZOLA,Contract,-0.6337394,Negative (抑制流失)
+8414-MYSHR,Number of Referrals,-1.8292503,Negative (抑制流失)
+4988-IQIGL,Number of Referrals,-1.7255769,Negative (抑制流失)
+4706-AXVKM,Contract,-0.77866185,Negative (抑制流失)
+5889-JTMUL,Contract,0.6710041,Positive (促使流失)
+9026-RNUJS,charge_per_tenure,0.6857738,Positive (促使流失)
+1624-NALOJ,Number of Referrals,-1.8723205,Negative (抑制流失)
+6210-KBBPI,Contract,-1.6375948,Negative (抑制流失)
+2260-USTRB,Number of Referrals,0.72254586,Positive (促使流失)
+8623-TMRBY,Contract,0.63149595,Positive (促使流失)
+6900-PXRMS,Number of Referrals,-1.6549221,Negative (抑制流失)
+3346-BRMIS,charge_per_tenure,0.82782274,Positive (促使流失)
+2722-JMONI,Number of Referrals,0.5735842,Positive (促使流失)
+7579-OOPEC,Contract,-1.4507797,Negative (抑制流失)
+1771-OADNZ,Number of Referrals,0.9272845,Positive (促使流失)
+0612-RTZZA,Contract,-1.5539187,Negative (抑制流失)
+4433-JCGCG,Contract,0.6682129,Positive (促使流失)
+9488-HGMJH,Contract,0.5509491,Positive (促使流失)
+4818-QIUFN,Contract,0.5863835,Positive (促使流失)
+6961-VCPMC,Contract,-0.6341735,Negative (抑制流失)
+4424-TKOPW,Contract,0.56205636,Positive (促使流失)
+4201-JMNGR,Contract,0.63297665,Positive (促使流失)
+1866-RZZQS,charge_per_tenure,0.8001235,Positive (促使流失)
+8631-NBHFZ,Contract,0.7980053,Positive (促使流失)
+4958-XCBDQ,Contract,-0.7741685,Negative (抑制流失)
+8337-UPOAQ,Contract,0.6470634,Positive (促使流失)
+6712-OAWRH,Number of Referrals,0.75120187,Positive (促使流失)
+5914-DVBWJ,Number of Referrals,-1.5199405,Negative (抑制流失)
+8644-XLFBW,Contract,-1.3411108,Negative (抑制流失)
+1833-VGRUM,charge_per_tenure,-0.60349226,Negative (抑制流失)
+8374-XGEJJ,Contract,-0.60749364,Negative (抑制流失)
+6946-LMSQS,charge_per_tenure,0.8617453,Positive (促使流失)
+4039-HEUNW,Contract,-1.8847866,Negative (抑制流失)
+0812-WUPTB,Contract,-0.63683426,Negative (抑制流失)
+2403-BCASL,Contract,-0.613163,Negative (抑制流失)
+3871-IKPYH,Number of Referrals,-1.8608553,Negative (抑制流失)
+1304-NECVQ,Contract,-0.59144336,Negative (抑制流失)
+5655-JSMZM,charge_per_tenure,0.80328834,Positive (促使流失)
+4505-EXZHB,Number of Referrals,0.5656138,Positive (促使流失)
+8972-HJWNV,Contract,0.86051136,Positive (促使流失)
+2860-RANUS,Contract,0.529247,Positive (促使流失)
+0406-BPDVR,Contract,0.73558635,Positive (促使流失)
+5276-KQWHG,Contract,0.8114427,Positive (促使流失)
+9667-EQRXU,Contract,0.8905853,Positive (促使流失)
+0946-CLJTI,Contract,-1.4956914,Negative (抑制流失)
+0324-BRPCJ,Contract,-1.5278474,Negative (抑制流失)
+9189-JWSHV,Number of Referrals,-1.9499228,Negative (抑制流失)
+0576-WNXXC,Contract,-1.626849,Negative (抑制流失)
+5482-PLVPE,Contract,-0.6432086,Negative (抑制流失)
+4902-OHLSK,Contract,-0.5447466,Negative (抑制流失)
+0495-ZBNGW,Contract,0.5737803,Positive (促使流失)
+2357-COQEK,Contract,-1.502115,Negative (抑制流失)
+2034-CGRHZ,charge_per_tenure,-0.58739865,Negative (抑制流失)
+9360-AHGNL,Contract,0.67504895,Positive (促使流失)
+5485-WUYWF,Contract,-1.3573884,Negative (抑制流失)
+2632-UCGVD,Contract,0.7267406,Positive (促使流失)
+6425-YQLLO,Contract,-1.8999336,Negative (抑制流失)
+2091-RFFBA,Number of Referrals,-1.4653312,Negative (抑制流失)
+6899-PPEEA,Number of Referrals,-2.2982368,Negative (抑制流失)
+4597-NUCQV,Contract,-1.680423,Negative (抑制流失)
+3754-DXMRT,Number of Referrals,-1.5418112,Negative (抑制流失)
+7130-VTEWQ,charge_per_tenure,-0.6499813,Negative (抑制流失)
+7903-CMPEY,Contract,0.6838714,Positive (促使流失)
+1704-NRWYE,Monthly Charge,0.438482,Positive (促使流失)
+7481-ATQQS,Contract,-0.7371042,Negative (抑制流失)
+0023-HGHWL,Contract,0.7116522,Positive (促使流失)
+1792-UXAFY,Contract,-1.4969708,Negative (抑制流失)
+6161-UUUTA,Number of Referrals,0.83969486,Positive (促使流失)
+6543-XRMYR,Number of Referrals,-0.5359224,Negative (抑制流失)
+2479-BRAMR,Contract,0.5463663,Positive (促使流失)
+3714-JTVOV,Contract,-1.3754148,Negative (抑制流失)
+8580-QVLOC,Number of Referrals,0.64485264,Positive (促使流失)
+2012-NWRPA,Contract,0.8124703,Positive (促使流失)
+8808-ELEHO,Contract,-0.67334735,Negative (抑制流失)
+9058-CBREO,Contract,0.7900924,Positive (促使流失)
+8063-GBATB,Number of Referrals,-1.7145509,Negative (抑制流失)
+1069-XAIEM,Contract,0.61691594,Positive (促使流失)
+6987-XQSJT,Contract,-1.507934,Negative (抑制流失)
+0722-TROQR,Number of Referrals,0.6261697,Positive (促使流失)
+6402-ZFPPI,Contract,-1.6133032,Negative (抑制流失)
+9965-YOKZB,Number of Referrals,-2.6156032,Negative (抑制流失)
+0504-HHAPI,Number of Referrals,0.6703027,Positive (促使流失)
+3791-LGQCY,Contract,0.55316603,Positive (促使流失)
+8166-ZZTFS,Contract,0.6732159,Positive (促使流失)
+2956-GGUCQ,Contract,-1.3693432,Negative (抑制流失)
+2778-OCLGR,Contract,0.5196666,Positive (促使流失)
+7067-KSAZT,Number of Referrals,-2.1204507,Negative (抑制流失)
+9300-AGZNL,Contract,-1.6298226,Negative (抑制流失)
+1112-CUNAO,Number of Referrals,-0.7685238,Negative (抑制流失)
+3389-YGYAI,Number of Referrals,-1.7740289,Negative (抑制流失)
+3070-DVEYC,Contract,0.72464406,Positive (促使流失)
+5707-ORNDZ,Contract,0.7797305,Positive (促使流失)
+8696-JKZNU,Contract,0.623764,Positive (促使流失)
+2055-PDADH,Contract,0.5846812,Positive (促使流失)
+2302-ANTDP,Number of Referrals,-1.9990553,Negative (抑制流失)
+5233-GEEAX,Contract,0.5176668,Positive (促使流失)
+7137-RYLPP,Contract,0.77839726,Positive (促使流失)
+3957-LXOLK,Number of Referrals,-1.4617116,Negative (抑制流失)
+5281-BUZGT,Number of Referrals,0.78071874,Positive (促使流失)
+2718-GAXQD,Contract,-1.345172,Negative (抑制流失)
+3217-FZDMN,Number of Referrals,-1.5602046,Negative (抑制流失)
+7480-QNVZJ,Contract,0.6973993,Positive (促使流失)
+7124-UGSUR,Contract,0.5867119,Positive (促使流失)
+1862-SKORY,Number of Referrals,0.578124,Positive (促使流失)
+4816-JBHOV,Contract,0.67421293,Positive (促使流失)
+3247-ZVOUO,Contract,0.72638035,Positive (促使流失)
+1268-ASBGA,Number of Referrals,-2.3988922,Negative (抑制流失)
+4713-LZDRV,Contract,0.81187403,Positive (促使流失)
+4325-NFSKC,charge_per_tenure,0.9187431,Positive (促使流失)
+6502-HCJTI,Number of Referrals,-0.53689957,Negative (抑制流失)
+8258-GSTJK,Contract,-1.72241,Negative (抑制流失)
+2995-UPRYS,Contract,0.54221684,Positive (促使流失)
+6686-YPGHK,Contract,-0.69328445,Negative (抑制流失)
+8020-BWHYL,Contract,0.8791772,Positive (促使流失)
+6892-XPFPU,Contract,0.5656836,Positive (促使流失)
+8010-EZLOU,Contract,-0.52839875,Negative (抑制流失)
+8062-YBDOE,Contract,-0.716879,Negative (抑制流失)
+3672-YITQD,Contract,-0.7491831,Negative (抑制流失)
+8988-ECPJR,Age,0.91861767,Positive (促使流失)
+3776-EKTKM,Contract,0.6877987,Positive (促使流失)
+0643-OKLRP,Contract,0.51697534,Positive (促使流失)
+9381-NDKME,Number of Referrals,0.74364305,Positive (促使流失)
+8327-LZKAS,Number of Referrals,0.6942738,Positive (促使流失)
+1075-BGWOH,Contract,-1.4544691,Negative (抑制流失)
+8485-GJCDN,Contract,0.8027493,Positive (促使流失)
+6029-WTIPC,Number of Referrals,0.65026844,Positive (促使流失)
+3317-HRTNN,Age,0.91949403,Positive (促使流失)
+5569-OUICF,Contract,0.5984107,Positive (促使流失)
+5747-PMBSQ,Contract,0.6047839,Positive (促使流失)
+2982-IHMFT,Contract,-0.5750513,Negative (抑制流失)
+5143-EGQFK,Contract,-1.3127531,Negative (抑制流失)
+6168-WFVVF,Number of Referrals,-0.6936291,Negative (抑制流失)
+7450-NWRTR,Contract,-1.5102357,Negative (抑制流失)
+6005-OBZPH,Contract,-0.82223207,Negative (抑制流失)
+7932-WPTDS,Contract,0.7006562,Positive (促使流失)
+7000-WCEVQ,Contract,-0.74681205,Negative (抑制流失)
+5959-BELXA,Number of Referrals,0.7131632,Positive (促使流失)
+2506-TNFCO,Contract,0.64657164,Positive (促使流失)
+6060-DRTNL,Contract,-0.6515312,Negative (抑制流失)
+8473-VUVJN,Number of Referrals,0.7087102,Positive (促使流失)
+0196-VULGZ,Number of Referrals,-1.2618928,Negative (抑制流失)
+1976-CFOCS,Number of Referrals,-0.97094744,Negative (抑制流失)
+4631-OACRM,Contract,0.77709967,Positive (促使流失)
+3755-JBMNH,Number of Referrals,0.7561437,Positive (促使流失)
+6345-ULYRW,Number of Referrals,-0.81706935,Negative (抑制流失)
+0013-EXCHZ,Contract,0.62080395,Positive (促使流失)
+5550-VFRLC,Contract,0.69170505,Positive (促使流失)
+2657-ALMWY,Contract,0.674185,Positive (促使流失)
+6284-AHOOQ,Contract,0.6347146,Positive (促使流失)
+2460-FPSYH,Contract,0.91781056,Positive (促使流失)
+5028-HTLJB,charge_per_tenure,-0.5032128,Negative (抑制流失)
+0875-CABNR,Number of Referrals,0.86690927,Positive (促使流失)
+6982-UQZLY,Number of Referrals,-0.88096076,Negative (抑制流失)
+0193-ESZXP,Contract,-0.69378746,Negative (抑制流失)
+4369-HTUIF,Contract,-2.0054207,Negative (抑制流失)
+5287-QWLKY,Monthly Charge,0.48124978,Positive (促使流失)
+1891-UAWWU,Contract,-1.5740426,Negative (抑制流失)
+3096-JRDSO,Contract,-1.4393449,Negative (抑制流失)
+2398-YPMUR,Contract,-1.5145441,Negative (抑制流失)
+1265-XTECC,Contract,0.6369648,Positive (促使流失)
+4871-JTKJF,Contract,0.5967551,Positive (促使流失)
+1415-YFWLT,Contract,0.8399211,Positive (促使流失)
+3500-RMZLT,Number of Referrals,-1.5404294,Negative (抑制流失)
+2642-DTVCO,Monthly Charge,0.447534,Positive (促使流失)
+1363-TXLSL,Contract,0.74184746,Positive (促使流失)
+7136-RVDTZ,charge_per_tenure,0.7189312,Positive (促使流失)
+6927-WTFIV,Contract,0.7835579,Positive (促使流失)
+3398-ZOUAA,Contract,0.67316556,Positive (促使流失)
+4844-JJWUY,Number of Referrals,-1.9849213,Negative (抑制流失)
+4785-QRJHC,Contract,-1.015067,Negative (抑制流失)
+1965-AKTSX,Contract,-0.8912699,Negative (抑制流失)
+7248-VZQLC,Contract,0.6334934,Positive (促使流失)
+0011-IGKFF,Contract,0.61119187,Positive (促使流失)
+6496-SLWHQ,Number of Referrals,0.9638814,Positive (促使流失)
+9912-GVSEQ,Contract,-1.3901693,Negative (抑制流失)
+5383-MMTWC,Contract,0.65758395,Positive (促使流失)
+6877-LGWXO,Number of Referrals,0.8695919,Positive (促使流失)
+5167-GBFRE,Contract,-1.6524241,Negative (抑制流失)
+1324-NLTJE,Contract,0.74881005,Positive (促使流失)
+5567-WSELE,Contract,-1.4523126,Negative (抑制流失)
+6646-VRFOL,Contract,-1.180323,Negative (抑制流失)
+9090-SGQXL,Number of Referrals,-2.5540898,Negative (抑制流失)
+6595-YGXIT,Contract,-1.2632129,Negative (抑制流失)
+9835-ZIITK,Contract,0.91907316,Positive (促使流失)
+5649-TJHOV,Contract,0.6431839,Positive (促使流失)
+9253-QXKBE,Contract,-0.48272705,Negative (抑制流失)
+8775-LHDJH,Contract,0.6502733,Positive (促使流失)
+3097-NQYSN,Contract,0.5607914,Positive (促使流失)
+3565-UNOCC,Contract,0.66186947,Positive (促使流失)
+9190-MFJLN,Contract,0.7702166,Positive (促使流失)
+1095-JUDTC,Contract,0.7647779,Positive (促使流失)
+5385-SUIRI,Contract,0.54561704,Positive (促使流失)
+6328-ZPBGN,Number of Referrals,-2.130628,Negative (抑制流失)
+2856-NNASM,Number of Referrals,-2.2174025,Negative (抑制流失)
+6769-DYBQN,Contract,0.6638018,Positive (促使流失)
+2446-BEGGB,Contract,0.59405214,Positive (促使流失)
+1496-GGSUK,charge_per_tenure,0.70151097,Positive (促使流失)
+3296-SILRA,Number of Referrals,-2.207246,Negative (抑制流失)
+5180-UCIIQ,Contract,-1.0702332,Negative (抑制流失)
+1977-STDKI,Contract,0.6680649,Positive (促使流失)
+5813-UECBU,Contract,0.76828784,Positive (促使流失)
+4342-HENTK,Contract,-0.7965978,Negative (抑制流失)
+1597-LHYNC,Age,0.7439058,Positive (促使流失)
+8651-ENBZX,Contract,0.547158,Positive (促使流失)
+9286-DOJGF,Contract,0.5295897,Positive (促使流失)
+9661-MHUMO,Contract,-1.1392245,Negative (抑制流失)
+8884-ADFVN,Number of Referrals,-1.1711322,Negative (抑制流失)
+2720-WGKHP,Contract,-2.0188878,Negative (抑制流失)
+9776-CLUJA,Contract,0.5566459,Positive (促使流失)
+3551-HUAZH,Contract,0.60778886,Positive (促使流失)
+8634-MPHTR,Contract,-0.66751873,Negative (抑制流失)
+2474-BRUCM,Contract,-1.3982371,Negative (抑制流失)
+0616-ATFGB,Contract,0.82081795,Positive (促使流失)
+7235-NXZCP,Number of Referrals,-2.4648066,Negative (抑制流失)
+6661-HBGWL,Age,0.93080395,Positive (促使流失)
+9317-WZPGV,Contract,0.5645499,Positive (促使流失)
+3621-CEOVK,Contract,0.54703885,Positive (促使流失)
+7632-MNYOY,Contract,0.6794858,Positive (促使流失)
+9248-OJYKK,Contract,0.7342999,Positive (促使流失)
+3398-FSHON,Number of Referrals,-1.8115741,Negative (抑制流失)
+3319-DWOEP,Number of Referrals,-2.2637146,Negative (抑制流失)
+0818-OCPZO,Number of Referrals,0.76004803,Positive (促使流失)
+1389-CXMLU,Contract,0.8702098,Positive (促使流失)
+5561-NWEVX,Number of Referrals,-1.331707,Negative (抑制流失)
+2272-QAGFO,Contract,0.65794665,Positive (促使流失)
+3768-NLUBH,Contract,0.48436424,Positive (促使流失)
+7359-SSBJK,Contract,-0.7151391,Negative (抑制流失)
+0685-MLYYM,Contract,0.6357505,Positive (促使流失)
+7957-RYHQD,Contract,-0.6521649,Negative (抑制流失)
+6230-BSUXY,Contract,0.6013324,Positive (促使流失)
+3990-QYKBE,Contract,0.71448374,Positive (促使流失)
+9274-CNFMO,Number of Referrals,0.95986384,Positive (促使流失)
+3005-NFMTA,Contract,0.65541244,Positive (促使流失)
+5389-FFVKB,Contract,0.48610157,Positive (促使流失)
+8444-WRIDW,Contract,-0.771654,Negative (抑制流失)
+5868-YWPDW,Contract,-1.2026118,Negative (抑制流失)
+1273-MTETI,Contract,-0.86539155,Negative (抑制流失)
+5480-HPRRX,Contract,-1.4067032,Negative (抑制流失)
+7234-FECYN,Contract,0.5423611,Positive (促使流失)
+1400-MMYXY,Contract,-0.80721277,Negative (抑制流失)
+7142-HVGBG,Contract,-0.58581847,Negative (抑制流失)
+1564-NTYXF,Contract,-0.60525304,Negative (抑制流失)
+0886-QGENL,charge_per_tenure,-0.62830466,Negative (抑制流失)
+8739-WWKDU,Contract,-1.3238643,Negative (抑制流失)
+8685-WHQPW,Contract,-1.855456,Negative (抑制流失)
+7240-FQLHE,Contract,-0.7723755,Negative (抑制流失)
+6664-FPDAC,Number of Referrals,-1.8651758,Negative (抑制流失)
+0786-VSSUD,Number of Referrals,0.6407601,Positive (促使流失)
+6583-QGCSI,Monthly Charge,0.39209768,Positive (促使流失)
+1980-KXVPM,Age,0.6793791,Positive (促使流失)
+0723-DRCLG,Contract,-1.2591949,Negative (抑制流失)
+6894-LFHLY,Contract,0.7100979,Positive (促使流失)
+8361-LTMKD,Number of Referrals,-2.4242249,Negative (抑制流失)
+3841-NFECX,Number of Referrals,-0.8278312,Negative (抑制流失)
+4929-XIHVW,Contract,0.5453943,Positive (促使流失)
+3413-BMNZE,Contract,0.7627271,Positive (促使流失)
+8012-SOUDQ,Contract,0.6802464,Positive (促使流失)
+6575-SUVOI,Contract,0.6877252,Positive (促使流失)
+4667-QONEA,Contract,0.61191744,Positive (促使流失)
+5067-XJQFU,Number of Referrals,-0.8123222,Negative (抑制流失)
+1891-QRQSA,Number of Referrals,0.7376184,Positive (促使流失)
+2673-CXQEU,Contract,0.6512118,Positive (促使流失)
+0191-ZHSKZ,Contract,-1.3598586,Negative (抑制流失)
+2424-WVHPL,Contract,-1.3551041,Negative (抑制流失)
+5386-THSLQ,Contract,0.80189145,Positive (促使流失)
+2639-UGMAZ,Contract,0.91776466,Positive (促使流失)
+3146-MSEGF,Contract,-1.5676785,Negative (抑制流失)
+1131-QQZEB,Contract,-1.0748123,Negative (抑制流失)
+2504-DSHIH,Number of Referrals,-1.9515822,Negative (抑制流失)
+9058-HRZSV,Number of Referrals,-1.595014,Negative (抑制流失)
+4522-AKYLR,Contract,-1.3949064,Negative (抑制流失)
+0221-WMXNQ,Number of Referrals,-0.91602886,Negative (抑制流失)
+5046-NUHWD,Contract,-1.2368219,Negative (抑制流失)
+7529-ZDFXI,Number of Referrals,0.8049493,Positive (促使流失)
+3197-ARFOY,Contract,0.75580657,Positive (促使流失)
+4716-HHKQH,Contract,-0.88474226,Negative (抑制流失)
+3179-GBRWV,Number of Referrals,-2.2740216,Negative (抑制流失)
+4847-TAJYI,Contract,-1.2877946,Negative (抑制流失)
+6851-WEFYX,Number of Referrals,-2.5518923,Negative (抑制流失)
+3167-SNQPL,Contract,-1.419688,Negative (抑制流失)
+2799-ARNLO,Contract,0.6581129,Positive (促使流失)
+5701-YVSVF,Number of Referrals,-2.8074443,Negative (抑制流失)
+5697-GOMBF,Contract,-1.730363,Negative (抑制流失)
+2739-CACDQ,Number of Referrals,-1.3005414,Negative (抑制流失)
+6035-BXTTY,charge_per_tenure,-0.5748208,Negative (抑制流失)
+0021-IKXGC,Contract,0.67092276,Positive (促使流失)
+4654-DLAMQ,Contract,-0.6104508,Negative (抑制流失)
+4115-NZRKS,Contract,0.7611594,Positive (促使流失)
+3351-NGXYI,Contract,0.5785756,Positive (促使流失)
+8204-YJCLA,Age,0.8154631,Positive (促使流失)
+9774-NRNAU,Contract,-1.6696064,Negative (抑制流失)
+0224-RLWWD,Contract,0.72272515,Positive (促使流失)
+3951-NJCVI,Contract,0.6273156,Positive (促使流失)
+0177-PXBAT,Contract,0.7754171,Positive (促使流失)
+2519-ERQOJ,Contract,0.6154968,Positive (促使流失)
+0111-KLBQG,Contract,0.5286155,Positive (促使流失)
+1996-DBMUS,Contract,-0.65053684,Negative (抑制流失)
+2055-SIFSS,Number of Referrals,-0.91377157,Negative (抑制流失)
+2806-MLNTI,Contract,0.5768979,Positive (促使流失)
+5628-RKIFK,Contract,-1.4747523,Negative (抑制流失)
+5760-WRAHC,Contract,0.6984411,Positive (促使流失)
+1480-BKXGA,Contract,0.8130499,Positive (促使流失)
+9076-AXYIK,Contract,0.94425696,Positive (促使流失)
+4933-IKULF,Number of Referrals,-1.6992431,Negative (抑制流失)
+3780-DDGSE,Number of Referrals,-1.6208181,Negative (抑制流失)
+4612-SSVHJ,Contract,0.72686714,Positive (促使流失)
+5756-OZRIO,Contract,0.6455832,Positive (促使流失)
+4513-CXYIX,Contract,-1.3133862,Negative (抑制流失)
+4332-MUOEZ,Contract,0.6604563,Positive (促使流失)
+6705-LXORM,Contract,-1.3646348,Negative (抑制流失)
+4109-CYRBD,Number of Referrals,0.7351965,Positive (促使流失)
+8606-CIQUL,Contract,0.7097006,Positive (促使流失)
+0356-OBMAC,Contract,0.65453655,Positive (促使流失)
+1297-VQDRP,Contract,-1.349827,Negative (抑制流失)
+4676-MQUEA,Contract,-1.3328995,Negative (抑制流失)
+7025-WCBNE,Contract,0.68081325,Positive (促使流失)
+6030-REHUX,Number of Referrals,0.8148375,Positive (促使流失)
+6522-YRBXD,Contract,0.54420716,Positive (促使流失)
+6689-VRRTK,Number of Referrals,-1.2196205,Negative (抑制流失)
+7134-MJPDY,Contract,0.83935076,Positive (促使流失)
+4881-JVQOD,Monthly Charge,0.38007277,Positive (促使流失)
+6797-UCJHZ,Number of Referrals,-2.146574,Negative (抑制流失)
+2469-DTSGX,Contract,-0.46512476,Negative (抑制流失)
+4908-XAXAY,Contract,-1.1621096,Negative (抑制流失)
+3509-GWQGF,Number of Referrals,-1.6450752,Negative (抑制流失)
+3729-OWRVL,charge_per_tenure,-0.6012133,Negative (抑制流失)
+7251-LJBQN,Contract,-1.4281036,Negative (抑制流失)
+2682-KEVRP,Contract,0.6985314,Positive (促使流失)
+9978-HYCIN,Contract,0.5882074,Positive (促使流失)
+8329-UTMVM,Contract,-0.794594,Negative (抑制流失)
+6952-OMNWB,Contract,0.53384715,Positive (促使流失)
+6549-YMFAW,Contract,-1.9303638,Negative (抑制流失)
+1307-TVUFB,Contract,-1.5323076,Negative (抑制流失)
+7503-MIOGA,Contract,0.70306945,Positive (促使流失)
+2499-AJYUA,Contract,0.7693953,Positive (促使流失)
+6919-ELBGL,Number of Referrals,-0.71451724,Negative (抑制流失)
+3966-HRMZA,Contract,-1.2346976,Negative (抑制流失)
+5671-RQRLP,Contract,-2.0715115,Negative (抑制流失)
+4785-NKHCX,Contract,0.7688156,Positive (促使流失)
+4250-WAROZ,Contract,0.8599372,Positive (促使流失)
+3523-BRGUW,Contract,0.5552355,Positive (促使流失)
+2123-AGEEN,Contract,0.7400955,Positive (促使流失)
+1258-YMZNM,Contract,-1.6303896,Negative (抑制流失)
+6259-WJQLC,Contract,0.8496129,Positive (促使流失)
+7508-SMHXL,Contract,0.8120182,Positive (促使流失)
+3956-CJUST,Contract,0.6477474,Positive (促使流失)
+4824-GUCBY,Number of Referrals,0.78828466,Positive (促使流失)
+6630-UJZMY,Contract,-1.6921307,Negative (抑制流失)
+9904-EHEVJ,Contract,0.74281067,Positive (促使流失)
+2826-DXLQO,Contract,0.8506645,Positive (促使流失)
+9489-UTFKA,charge_per_tenure,0.91293126,Positive (促使流失)
+4849-PYRLQ,Contract,0.7061137,Positive (促使流失)
+2858-EIMXH,Contract,0.5593928,Positive (促使流失)
+6419-ZTTLE,Contract,0.6752652,Positive (促使流失)
+8242-SOQUO,Number of Referrals,-2.1141782,Negative (抑制流失)
+7460-ITWWP,charge_per_tenure,-0.7179388,Negative (抑制流失)
+7868-TMWMZ,Contract,-1.3123652,Negative (抑制流失)
+4829-ZLJTK,Number of Referrals,-1.4249665,Negative (抑制流失)
+8883-GRDWQ,Contract,0.70975083,Positive (促使流失)
+9845-PEEKO,Contract,0.65529674,Positive (促使流失)
+1751-NCDLI,Contract,0.6952793,Positive (促使流失)
+2176-LVPNX,Contract,0.57585293,Positive (促使流失)
+3452-ABWRL,Contract,0.5065653,Positive (促使流失)
+1779-PWPMG,Contract,0.7209828,Positive (促使流失)
+3082-WQRVY,Contract,-1.6137372,Negative (抑制流失)
+2460-NGXBJ,Contract,-1.4873618,Negative (抑制流失)
+5268-DSMNQ,Contract,0.6430137,Positive (促使流失)
+6242-MBHPK,Contract,0.70833975,Positive (促使流失)
+4782-OSFXZ,Contract,-0.71866465,Negative (抑制流失)
+1282-IHQAC,Contract,0.68350756,Positive (促使流失)
+1641-RQDAY,Contract,0.5139461,Positive (促使流失)
+5461-QKNTN,Contract,0.8824255,Positive (促使流失)
+8089-UZWLX,Contract,-0.6992097,Negative (抑制流失)
+4468-KAZHE,Contract,0.613588,Positive (促使流失)
+1543-LLLFT,Contract,0.5644282,Positive (促使流失)
+6507-ZJSUR,Contract,0.8047165,Positive (促使流失)
+9220-ZNKJI,Contract,-1.7206208,Negative (抑制流失)
+0723-VSOBE,Contract,0.5969964,Positive (促使流失)
+1004-NOZNR,Contract,0.59978884,Positive (促使流失)
+1251-STYSZ,Contract,-1.6220657,Negative (抑制流失)
+9681-KYGYB,Contract,0.84967554,Positive (促使流失)
+7005-CYUIL,Contract,-1.0751488,Negative (抑制流失)
+2388-LAESQ,Contract,0.5704172,Positive (促使流失)
+3108-PCCGG,Contract,0.7100099,Positive (促使流失)
+6729-GDNGC,Contract,0.72682136,Positive (促使流失)
+4238-HFHSN,Number of Referrals,-1.66998,Negative (抑制流失)
+2692-BUCFV,Contract,-0.77538854,Negative (抑制流失)
+5651-WYIPH,Number of Referrals,-1.6830075,Negative (抑制流失)
+8752-GHJFU,Number of Referrals,-0.9217349,Negative (抑制流失)
+6896-SRVYQ,Contract,-0.77806824,Negative (抑制流失)
+9052-VKDUW,Number of Referrals,0.6080297,Positive (促使流失)
+2480-EJWYP,Number of Referrals,-1.7960436,Negative (抑制流失)
+6806-YDEUL,Contract,-0.84093535,Negative (抑制流失)
+0222-CNVPT,Number of Referrals,-1.5918238,Negative (抑制流失)
+6048-UWKAL,Number of Referrals,-2.2562835,Negative (抑制流失)
+9290-SHCMB,Contract,0.7774118,Positive (促使流失)
+2277-BKJKN,Contract,0.5790347,Positive (促使流失)
+8016-ZMGMO,Number of Referrals,-0.76652944,Negative (抑制流失)
+1728-CXQBE,Number of Referrals,0.6772392,Positive (促使流失)
+0481-SUMCB,Contract,0.63843954,Positive (促使流失)
+2811-POVEX,Contract,0.51688683,Positive (促使流失)
+7905-NJMXS,Contract,-0.92310864,Negative (抑制流失)
+9957-YODKZ,Contract,0.7149076,Positive (促使流失)
+3223-DWFIO,Contract,-0.7768577,Negative (抑制流失)
+3292-PBZEJ,Contract,0.5833703,Positive (促使流失)
+0993-OSGPT,Age,0.8698244,Positive (促使流失)
+7108-DGVUU,Number of Referrals,-1.857354,Negative (抑制流失)
+9906-NHHVC,Contract,0.67870116,Positive (促使流失)
+8152-UOBNY,Contract,-0.9698816,Negative (抑制流失)
+7351-KYHQH,Contract,0.77616125,Positive (促使流失)
+6374-NTQLP,Contract,-0.70949084,Negative (抑制流失)
+6267-DCFFZ,Contract,0.549643,Positive (促使流失)
+2439-LYPMQ,Number of Referrals,-0.79303384,Negative (抑制流失)
+7426-WEIJX,Contract,0.7313538,Positive (促使流失)
+3761-FLYZI,Contract,-1.1264187,Negative (抑制流失)
+1060-ENTOF,Contract,0.5864615,Positive (促使流失)
+0999-QXNSA,Contract,-0.66947776,Negative (抑制流失)
+9365-SRSZE,Number of Referrals,0.9603802,Positive (促使流失)
+4918-FYJNT,Contract,0.6392352,Positive (促使流失)
+4854-CIDCF,Number of Referrals,-1.7594516,Negative (抑制流失)
+3280-MRDOF,Contract,0.56591487,Positive (促使流失)
+6407-UTSLV,Contract,-1.0943319,Negative (抑制流失)
+5935-FCCNB,Number of Referrals,-1.5766263,Negative (抑制流失)
+9705-IOVQQ,Contract,-1.6543733,Negative (抑制流失)
+1320-REHCS,Contract,0.6024386,Positive (促使流失)
+2057-BOYKM,Contract,0.6877165,Positive (促使流失)
+0134-XWXCE,Contract,0.7804252,Positive (促使流失)
+2307-FYNNL,Number of Referrals,-0.7228981,Negative (抑制流失)
+5605-XNWEN,Contract,-1.7706238,Negative (抑制流失)
+2519-LBNQL,Contract,0.51453525,Positive (促使流失)
+8623-ULFNQ,Contract,0.6574636,Positive (促使流失)
+7789-HKSBS,Contract,0.8586056,Positive (促使流失)
+2070-XYMFH,Contract,-1.7885303,Negative (抑制流失)
+5663-QBGIS,Number of Referrals,-1.933467,Negative (抑制流失)
+3402-XRIUO,Contract,-1.8207271,Negative (抑制流失)
+8058-DMYRU,Contract,-2.2057865,Negative (抑制流失)
+3537-RYBHH,Number of Referrals,0.87680084,Positive (促使流失)
+0523-VNGTF,Contract,0.72409374,Positive (促使流失)
+7105-MXJLL,Number of Referrals,-0.92510843,Negative (抑制流失)
+7064-FRRSW,Number of Referrals,-1.5518832,Negative (抑制流失)
+1636-NTNCO,Number of Referrals,-1.6735588,Negative (抑制流失)
+3219-JQRSL,Number of Referrals,-0.7467471,Negative (抑制流失)
+1845-CSBRZ,Contract,-0.7753418,Negative (抑制流失)
+3723-BFBGR,Number of Referrals,-1.4611121,Negative (抑制流失)
+5692-ICXLW,Contract,-1.4074994,Negative (抑制流失)
+7020-OZKXZ,Contract,0.54713464,Positive (促使流失)
+0308-GIQJT,Contract,-0.7757117,Negative (抑制流失)
+8775-ERLNB,Number of Referrals,-1.8749038,Negative (抑制流失)
+8309-IEYJD,Number of Referrals,-1.548579,Negative (抑制流失)
+7361-YPXFS,Number of Referrals,0.8416029,Positive (促使流失)
+6557-BZXLQ,Contract,0.69530046,Positive (促使流失)
+4832-VRBMR,Contract,0.6999823,Positive (促使流失)
+7901-TBKJX,Contract,0.712109,Positive (促使流失)
+9919-FZDED,Number of Referrals,-1.9729705,Negative (抑制流失)
+7206-PQBBZ,Contract,0.8708337,Positive (促使流失)
+4079-VTGLK,Contract,0.803352,Positive (促使流失)
+2931-VUVJN,Contract,-0.6456429,Negative (抑制流失)
+2878-RMWXY,Contract,-1.4492111,Negative (抑制流失)
+7375-WMVMT,Number of Referrals,-0.949322,Negative (抑制流失)
+7622-FWGEW,charge_per_tenure,-0.611089,Negative (抑制流失)
+0380-NEAVX,Contract,-1.4623884,Negative (抑制流失)
+8495-LJDFO,Number of Referrals,-1.8867736,Negative (抑制流失)
+1302-UHBDD,Number of Referrals,0.69200313,Positive (促使流失)
+3597-YASZG,Number of Referrals,0.843161,Positive (促使流失)
+3420-ZDBMA,Contract,0.74023235,Positive (促使流失)
+3398-GCPMU,Contract,-1.4375465,Negative (抑制流失)
+1013-QCWAM,Contract,-1.4943141,Negative (抑制流失)
+0336-PIKEI,Contract,-1.4777156,Negative (抑制流失)
+7322-OCWHC,Contract,-0.64445627,Negative (抑制流失)
+5732-IKGQH,Number of Referrals,0.6404555,Positive (促使流失)
+0093-EXYQL,Number of Referrals,0.6425064,Positive (促使流失)
+9168-INPSZ,Contract,-1.5149928,Negative (抑制流失)
+0015-UOCOJ,Contract,0.80313015,Positive (促使流失)
+5334-AFQJB,Contract,-0.52644163,Negative (抑制流失)
+2754-SDJRD,Contract,-1.5636625,Negative (抑制流失)
+1465-LNTLJ,Contract,0.57271504,Positive (促使流失)
+4706-DGAHW,Number of Referrals,0.8365015,Positive (促使流失)
+8552-OBVRU,Contract,-1.2074816,Negative (抑制流失)
+9776-OJUZI,Contract,-0.6900064,Negative (抑制流失)
+0869-PAPRP,Contract,0.7464387,Positive (促使流失)
+4238-JSSWH,charge_per_tenure,-0.7459845,Negative (抑制流失)
+9121-PHQSR,Number of Referrals,-1.8468077,Negative (抑制流失)
+9796-MVYXX,Contract,-1.5665287,Negative (抑制流失)
+7268-IGMFD,Contract,0.6628457,Positive (促使流失)
+0013-SMEOE,Contract,0.7909836,Positive (促使流失)
+2573-GYRUU,Contract,-0.5550047,Negative (抑制流失)
+6486-LHTMA,Contract,-1.3293916,Negative (抑制流失)
+4083-BFNYK,Number of Referrals,0.7760761,Positive (促使流失)
+1089-HDMKP,Contract,-1.5015819,Negative (抑制流失)
+0141-YEAYS,Contract,-2.0661473,Negative (抑制流失)
+9603-OAIHC,Contract,0.69038105,Positive (促使流失)
+8406-LNMHF,charge_per_tenure,0.69487256,Positive (促使流失)
+0023-UYUPN,Contract,-1.4563701,Negative (抑制流失)
+6360-SVNWV,Contract,-1.3609107,Negative (抑制流失)
+9050-IKDZA,Number of Referrals,-0.9331324,Negative (抑制流失)
+1197-BVMVG,charge_per_tenure,-0.5890944,Negative (抑制流失)
+5198-EFNBM,Number of Referrals,-1.5521876,Negative (抑制流失)
+7516-GMHUV,Contract,0.6002191,Positive (促使流失)
+6614-YWYSC,Number of Referrals,1.0329888,Positive (促使流失)
+8735-SDUFN,Contract,0.54827946,Positive (促使流失)
+7016-NVRIC,Contract,0.7248588,Positive (促使流失)
+9825-YCXWZ,Contract,-0.7367887,Negative (抑制流失)
+2000-DHJUY,Contract,0.60044163,Positive (促使流失)
+9796-BPKIW,Contract,0.58077055,Positive (促使流失)
+9137-NOQKA,Contract,0.79738444,Positive (促使流失)
+7748-UMTRK,Contract,0.791434,Positive (促使流失)
+6463-MVYRY,Number of Referrals,0.89163285,Positive (促使流失)
+4526-ZJJTM,Contract,-1.4310321,Negative (抑制流失)
+5315-CKEQK,Contract,0.82514083,Positive (促使流失)
+0907-HQNTS,Contract,-1.4661275,Negative (抑制流失)
+8250-ZNGGW,Contract,-0.7000804,Negative (抑制流失)
+8166-ORCHU,Contract,-1.4085045,Negative (抑制流失)
+1855-CFULU,Contract,0.68557364,Positive (促使流失)
+8628-MFKAX,Contract,0.5282237,Positive (促使流失)
+9508-ILZDG,Contract,0.5982146,Positive (促使流失)
+6128-AQBMT,Number of Referrals,-0.74711597,Negative (抑制流失)
+4295-YURET,Contract,0.6965207,Positive (促使流失)
+7693-QPEFS,Contract,0.7028919,Positive (促使流失)
+0924-BJCRC,Number of Referrals,-2.093268,Negative (抑制流失)
+5533-NHFRF,Number of Referrals,-0.77936614,Negative (抑制流失)
+4360-QRAVE,Number of Referrals,0.7120324,Positive (促使流失)
+8433-WPJTV,Contract,0.62761426,Positive (促使流失)
+5387-ASZNZ,Contract,0.8996811,Positive (促使流失)
+2277-DJJDL,Number of Referrals,-1.4069244,Negative (抑制流失)
+6963-EZQEE,Contract,0.5246128,Positive (促使流失)
+2452-KDRRH,Number of Referrals,-0.69554144,Negative (抑制流失)
+5248-RPYWW,Contract,-0.7935125,Negative (抑制流失)
+7923-IYJWY,Contract,-1.6330136,Negative (抑制流失)
+1658-TJVOA,Contract,0.69962066,Positive (促使流失)
+0674-DGMAQ,Contract,0.57029563,Positive (促使流失)
+2761-XECQW,Contract,0.61427397,Positive (促使流失)
+8059-UDZFY,Contract,-0.8025635,Negative (抑制流失)
+7740-BTPUX,Contract,-0.60278606,Negative (抑制流失)
+8648-PFRMP,Contract,-1.8419006,Negative (抑制流失)
+8996-ZROXE,Contract,0.6424267,Positive (促使流失)
+2207-QPJED,Number of Referrals,0.6940961,Positive (促使流失)
+0516-QREYC,Contract,-1.1203941,Negative (抑制流失)
+3865-QBWSJ,Contract,-1.530968,Negative (抑制流失)
+5857-TYBCJ,Number of Referrals,-1.7960885,Negative (抑制流失)
+4176-RELJR,Contract,0.7314747,Positive (促使流失)
+7924-GJZFI,Contract,-1.3666006,Negative (抑制流失)
+5897-ZYEKH,Number of Referrals,-1.508286,Negative (抑制流失)
+5456-ITGIC,Number of Referrals,-1.487656,Negative (抑制流失)
+8070-AAWZP,Contract,0.7090756,Positive (促使流失)
+6860-YRJZP,Monthly Charge,0.5043705,Positive (促使流失)
+9391-DXGGG,Contract,-0.613761,Negative (抑制流失)
+9844-FELAJ,Number of Referrals,-1.5482296,Negative (抑制流失)
+8395-ETZKQ,Number of Referrals,-1.9504843,Negative (抑制流失)
+8336-TAVKX,Contract,-1.4594058,Negative (抑制流失)
+0581-BXBUB,Contract,-0.8634723,Negative (抑制流失)
+5150-ITWWB,Contract,-0.6767387,Negative (抑制流失)
+9281-OFDMF,charge_per_tenure,0.8382633,Positive (促使流失)
+7636-OWBPG,Contract,0.5414435,Positive (促使流失)
+0549-CYCQN,Number of Referrals,-0.68573666,Negative (抑制流失)
+0928-JMXNP,Contract,-1.7625431,Negative (抑制流失)
+3629-ZNKXA,Number of Referrals,0.96361166,Positive (促使流失)
+4827-LTQRJ,Contract,-1.4452142,Negative (抑制流失)
+0136-IFMYD,Contract,0.57131636,Positive (促使流失)
+5144-TVGLP,Age,0.8319576,Positive (促使流失)
+9659-ZTWSM,Contract,-0.6694959,Negative (抑制流失)
+2195-VVRJF,Contract,0.6303112,Positive (促使流失)
+1125-SNVCK,Number of Referrals,-1.6818789,Negative (抑制流失)
+2545-EBUPK,Contract,0.6015766,Positive (促使流失)
+2172-EJXVF,Contract,-0.7466509,Negative (抑制流失)
+8659-HDIYE,Contract,-1.3127067,Negative (抑制流失)
+4680-KUTAJ,Number of Referrals,0.6866503,Positive (促使流失)
+2883-ILGWO,Contract,-0.52047235,Negative (抑制流失)
+1167-OYZJF,Number of Referrals,-2.3084025,Negative (抑制流失)
+4806-DXQCE,Contract,-1.3677558,Negative (抑制流失)
+5996-NRVXR,Number of Referrals,-1.2270522,Negative (抑制流失)
+0100-DUVFC,Contract,-2.1282887,Negative (抑制流失)
+5397-TUPSH,charge_per_tenure,0.8615739,Positive (促使流失)
+6773-LQTVT,Contract,-0.82192415,Negative (抑制流失)
+9402-ORRAH,Contract,0.7020297,Positive (促使流失)
+4840-ORQXB,Number of Referrals,0.944348,Positive (促使流失)
+3982-DQLUS,Contract,0.65635717,Positive (促使流失)
+3756-VNWDH,Contract,0.77677965,Positive (促使流失)
+2921-XWDJH,Contract,-0.71725714,Negative (抑制流失)
+9799-CAYJJ,Number of Referrals,-1.859949,Negative (抑制流失)
+6814-ZPWFQ,Number of Referrals,-2.2015793,Negative (抑制流失)
+5019-GQVCR,Contract,0.6285746,Positive (促使流失)
+2880-FPNAE,Number of Referrals,0.6505887,Positive (促使流失)
+1568-BEKZM,Number of Referrals,-1.7137096,Negative (抑制流失)
+2045-BMBTJ,Contract,-1.5903933,Negative (抑制流失)
+6741-EGCBI,Number of Referrals,-0.77606905,Negative (抑制流失)
+1730-ZMAME,Contract,-0.6322589,Negative (抑制流失)
+5913-INRQV,Contract,0.58640075,Positive (促使流失)
+6185-TASNN,Number of Referrals,-0.95208925,Negative (抑制流失)
+1925-LFCZZ,Number of Referrals,-1.5330695,Negative (抑制流失)
+8707-RMEZH,Number of Referrals,-1.6458097,Negative (抑制流失)
+9373-WSLOY,Contract,0.7234174,Positive (促使流失)
+9819-FBNSV,Number of Referrals,-1.8293608,Negative (抑制流失)
+9544-PYPSJ,Number of Referrals,-0.737947,Negative (抑制流失)
+3878-AVSOQ,Contract,0.7204079,Positive (促使流失)
+3258-SYSWS,Number of Referrals,-0.62079823,Negative (抑制流失)
+0512-FLFDW,Contract,0.77132833,Positive (促使流失)
+2107-FBPTK,charge_per_tenure,-0.8329715,Negative (抑制流失)
+1016-DJTSV,Contract,-0.8714885,Negative (抑制流失)
+5699-BNCAS,Contract,-0.7212109,Negative (抑制流失)
+2900-PHPLN,Contract,-0.5673099,Negative (抑制流失)
+4039-PIMHX,Contract,-1.4029226,Negative (抑制流失)
+7826-VVKWT,Contract,0.8333199,Positive (促使流失)
+5288-AHOUP,Contract,0.6595577,Positive (促使流失)
+7134-HBPBS,Age,0.90866816,Positive (促使流失)
+4415-WNGVR,Contract,-1.3226883,Negative (抑制流失)
+1309-XGFSN,Number of Referrals,0.6111221,Positive (促使流失)
+0650-BWOZN,Contract,0.640856,Positive (促使流失)
+4304-XUMGI,Contract,0.7454194,Positive (促使流失)
+9481-IEBZY,Number of Referrals,-1.3619562,Negative (抑制流失)
+1080-BWSYE,Number of Referrals,-0.75760514,Negative (抑制流失)
+3786-WOVKF,Contract,0.72440207,Positive (促使流失)
+5816-SCGFC,Contract,-2.0691118,Negative (抑制流失)
+9278-VZKCD,Contract,0.52522707,Positive (促使流失)
+8261-GWDBQ,Contract,-1.5528973,Negative (抑制流失)
+6173-GOLSU,Contract,-1.6172198,Negative (抑制流失)
+8720-RQSBJ,Contract,-0.6421684,Negative (抑制流失)
+7225-CBZPL,Number of Referrals,0.838446,Positive (促使流失)
+3692-JHONH,Contract,-1.4379776,Negative (抑制流失)
+1200-TUZHR,Number of Referrals,0.6432544,Positive (促使流失)
+7130-CTCUS,Contract,0.7105999,Positive (促使流失)
+0420-HLGXF,Contract,-1.5041159,Negative (抑制流失)
+3657-COGMW,Contract,0.7459776,Positive (促使流失)
+4334-HOWRP,Number of Referrals,-1.5122346,Negative (抑制流失)
+4098-NAUKP,Contract,-1.3989682,Negative (抑制流失)
+3308-JSGML,charge_per_tenure,0.922682,Positive (促使流失)
+6199-IWKGC,Contract,-1.0953159,Negative (抑制流失)
+2675-DHUTR,charge_per_tenure,0.83906174,Positive (促使流失)
+7446-YPODE,Number of Referrals,-0.97019035,Negative (抑制流失)
+9522-BNTHX,Number of Referrals,-2.3853118,Negative (抑制流失)
+0531-ZZJWQ,Contract,0.67526186,Positive (促使流失)
+2688-BHGOG,Contract,-1.3761133,Negative (抑制流失)
+0916-QOFDP,Contract,0.6448049,Positive (促使流失)
+8910-LEDAG,Contract,-1.9042478,Negative (抑制流失)
+3452-GWUIN,Contract,0.6257103,Positive (促使流失)
+7278-CKDNC,Number of Referrals,-1.473611,Negative (抑制流失)
+8450-UYIBU,Contract,-1.462167,Negative (抑制流失)
+3836-FZSDJ,Contract,-1.6268746,Negative (抑制流失)
+0187-QSXOE,Number of Referrals,0.7117294,Positive (促使流失)
+7733-UDMTP,Monthly Charge,0.38905066,Positive (促使流失)
+6904-JLBGY,Contract,-0.73996145,Negative (抑制流失)
+6917-YACBP,Number of Referrals,-1.9447727,Negative (抑制流失)
+4223-WOZCM,Contract,-0.51865035,Negative (抑制流失)
+5917-RYRMG,Number of Referrals,0.92846113,Positive (促使流失)
+8224-DWCKX,Contract,-0.5624582,Negative (抑制流失)
+1768-HNVGJ,Contract,-1.2658367,Negative (抑制流失)
+4395-PZMSN,Number of Referrals,-2.5648155,Negative (抑制流失)
+5446-DKWYW,Contract,0.6376186,Positive (促使流失)
+8107-KNCIM,Number of Referrals,-1.714801,Negative (抑制流失)
+5451-YHYPW,Contract,0.65891635,Positive (促使流失)
+7629-WFGLW,Contract,0.84732425,Positive (促使流失)
+8818-DOPVL,Contract,-0.7982922,Negative (抑制流失)
+7044-YAACC,Contract,0.6015956,Positive (促使流失)
+8189-XRIKE,Contract,0.8121204,Positive (促使流失)
+3740-RLMVT,Number of Referrals,-1.787838,Negative (抑制流失)
+2186-QZEYA,Contract,-1.3883586,Negative (抑制流失)
+5599-HVLTW,Number of Referrals,-2.1572511,Negative (抑制流失)
+9208-OLGAQ,Number of Referrals,0.77043366,Positive (促使流失)
+3244-CQPHU,Number of Referrals,0.85668015,Positive (促使流失)
+2674-MLXMN,Number of Referrals,-1.9151474,Negative (抑制流失)
+9708-HPXWZ,Number of Referrals,0.8533555,Positive (促使流失)
+5792-JALQC,Contract,0.67306757,Positive (促使流失)
+2675-OTVVJ,Contract,-1.5587596,Negative (抑制流失)
+0537-QYZZN,Contract,-1.552939,Negative (抑制流失)
+3340-QBBFM,Contract,0.73275566,Positive (促使流失)
+2277-VWCNI,Contract,0.71047455,Positive (促使流失)
+7576-JMYWV,Contract,-1.9609315,Negative (抑制流失)
+5227-JSCFE,Number of Referrals,-2.4943304,Negative (抑制流失)
+1608-GMEWB,Contract,0.9114107,Positive (促使流失)
+2665-NPTGL,Contract,0.6540095,Positive (促使流失)
+0442-ZXKVS,Contract,-0.7088329,Negative (抑制流失)
+0575-CUQOV,Contract,-0.75648314,Negative (抑制流失)
+5329-KRDTM,Contract,0.65938467,Positive (促使流失)
+0707-HOVVN,Contract,-1.7286332,Negative (抑制流失)
+9518-XXBXE,Contract,0.56900215,Positive (促使流失)
+0423-UDIJQ,Contract,-1.9892098,Negative (抑制流失)
+9029-FEGVJ,Contract,-1.4006793,Negative (抑制流失)
+8999-XXGNS,Contract,0.5951448,Positive (促使流失)
+0471-ARVMX,Number of Referrals,-1.4369862,Negative (抑制流失)
+7524-VRLPL,Number of Referrals,0.8325633,Positive (促使流失)
+4884-TVUQF,Contract,0.6454731,Positive (促使流失)
+8065-BVEPF,Number of Referrals,-0.7946289,Negative (抑制流失)
+6350-XFYGW,Contract,0.75590086,Positive (促使流失)
+8755-IWJHN,Number of Referrals,-1.8298317,Negative (抑制流失)
+4480-QQRHC,Contract,-0.7534701,Negative (抑制流失)
+0929-PECLO,Number of Referrals,0.65826166,Positive (促使流失)
+9470-YFUYI,Contract,0.63163596,Positive (促使流失)
+7402-EYFXX,Contract,-1.4503903,Negative (抑制流失)
+1986-PHGZF,Contract,0.6186293,Positive (促使流失)
+8024-XNAFQ,Contract,0.70881164,Positive (促使流失)
+2988-GBIVW,Contract,-1.3714074,Negative (抑制流失)
+5956-YHHRX,Contract,-1.4433837,Negative (抑制流失)
+6008-NAIXK,Contract,-0.81483924,Negative (抑制流失)
+4007-NHVHI,Contract,-1.3499889,Negative (抑制流失)
+8979-CAMGB,Contract,-1.6969289,Negative (抑制流失)
+7813-ZGGAW,Number of Referrals,-1.7567778,Negative (抑制流失)
+6583-KQJLK,Contract,-0.62702733,Negative (抑制流失)
+6139-ZZRBQ,Number of Referrals,-2.5199034,Negative (抑制流失)
+7594-LZNWR,Number of Referrals,-1.5393782,Negative (抑制流失)
+3996-ZNWYK,Number of Referrals,0.73807204,Positive (促使流失)
+8760-ZRHKE,Number of Referrals,-1.9597708,Negative (抑制流失)
+5216-WASFJ,Contract,0.7143917,Positive (促使流失)
+4948-WBBKL,Number of Referrals,0.6987946,Positive (促使流失)
+8348-JLBUG,Contract,0.774816,Positive (促使流失)
+3339-EAQNV,Number of Referrals,0.7356048,Positive (促使流失)
+5730-RIITO,charge_per_tenure,0.75759184,Positive (促使流失)
+7515-LODFU,Contract,-1.5912923,Negative (抑制流失)
+8041-TMEID,Number of Referrals,0.9191967,Positive (促使流失)
+6941-KXRRV,Contract,-0.5669476,Negative (抑制流失)
+4501-UYKBC,Contract,-0.47949135,Negative (抑制流失)
+5304-EFJLP,Contract,0.56113434,Positive (促使流失)
+8875-AKBYH,Contract,-1.4581664,Negative (抑制流失)
+0533-UCAAU,Number of Referrals,-1.4395871,Negative (抑制流失)
+1394-SUIUH,Contract,-1.5516063,Negative (抑制流失)
+8565-WUXZU,Contract,-1.0061501,Negative (抑制流失)
+2055-BFOCC,Contract,-1.437625,Negative (抑制流失)
+4584-LBNMK,Contract,-1.4560354,Negative (抑制流失)
+3898-GUYTS,Contract,0.58511007,Positive (促使流失)
+3703-KBKZP,Contract,0.7851846,Positive (促使流失)
+5117-IFGPS,Number of Referrals,-1.6675063,Negative (抑制流失)
+2197-OMWGI,Contract,-1.4263431,Negative (抑制流失)
+7852-LECYP,Number of Referrals,-1.7362431,Negative (抑制流失)
+8595-SIZNC,charge_per_tenure,-0.64174414,Negative (抑制流失)
+8920-NAVAY,Number of Referrals,-2.2423687,Negative (抑制流失)
+9699-UBQFS,Contract,-0.65015596,Negative (抑制流失)
+1261-FWTTE,Contract,-0.7535868,Negative (抑制流失)
+3528-HFRIQ,Contract,0.69280845,Positive (促使流失)
+3320-VEOYC,Contract,0.6447004,Positive (促使流失)
+9758-MFWGD,Contract,0.7076497,Positive (促使流失)
+1360-JYXKQ,Number of Referrals,0.7769155,Positive (促使流失)
+6925-BAYGL,Contract,-1.350811,Negative (抑制流失)
+4135-FRWKJ,Contract,-1.3271568,Negative (抑制流失)
+6551-ZCOTS,Number of Referrals,1.008669,Positive (促使流失)
+5995-SNNEW,Number of Referrals,-2.7074866,Negative (抑制流失)
+5371-VYLSX,Contract,-0.41898265,Negative (抑制流失)
+4128-ETESU,Number of Referrals,-1.6601437,Negative (抑制流失)
+3295-YVUSR,Contract,0.6730599,Positive (促使流失)
+8016-NCFVO,Contract,-0.64351624,Negative (抑制流失)
+4119-ZYPZY,Contract,0.76776373,Positive (促使流失)
+1078-TDCRN,Number of Referrals,-1.799624,Negative (抑制流失)
+5439-WIKXB,Contract,0.7849953,Positive (促使流失)
+2080-CAZNM,Contract,-0.60634696,Negative (抑制流失)
+1028-FFNJK,Number of Referrals,-2.2670848,Negative (抑制流失)
+3001-UNBTL,Contract,-0.71049726,Negative (抑制流失)
+0786-IVLAW,Contract,0.62823623,Positive (促使流失)
+4282-ACRXS,Number of Referrals,-2.1969972,Negative (抑制流失)
+7668-XCFYV,Number of Referrals,1.020657,Positive (促使流失)
+5336-UFNZP,Number of Referrals,-1.7081,Negative (抑制流失)
+9233-PSYHO,Contract,-1.6273553,Negative (抑制流失)
+8777-MBMTS,Number of Referrals,-0.6992904,Negative (抑制流失)
+2615-YVMYX,Contract,0.52930146,Positive (促使流失)
+2851-STERV,Contract,-0.52908355,Negative (抑制流失)
+5419-JKZNQ,Number of Referrals,-1.1643348,Negative (抑制流失)
+1409-PHXTF,Contract,-1.0837187,Negative (抑制流失)
+9591-YVTEB,Number of Referrals,0.5971502,Positive (促使流失)
+9309-BZGNT,Contract,-1.2749103,Negative (抑制流失)
+8075-GXIUB,Number of Referrals,-0.8318695,Negative (抑制流失)
+6723-WSNTY,Contract,0.674164,Positive (促使流失)
+2144-BFDSO,Contract,0.57693374,Positive (促使流失)
+5647-FXOTP,Contract,0.65563864,Positive (促使流失)
+6078-VESFR,Contract,-1.6048478,Negative (抑制流失)
+9866-OCCKE,Contract,-1.0779524,Negative (抑制流失)
+2786-GCDPI,charge_per_tenure,-0.6157888,Negative (抑制流失)
+3733-UOCWF,Number of Referrals,-2.2989118,Negative (抑制流失)
+8490-BXHEO,charge_per_tenure,-0.6213683,Negative (抑制流失)
+7173-TETGO,Contract,0.58450997,Positive (促使流失)
+6435-VWCCY,Contract,-1.4622246,Negative (抑制流失)
+6726-NNFWD,Contract,-1.42928,Negative (抑制流失)
+7856-GANIL,Contract,0.65953296,Positive (促使流失)
+0248-PGHBZ,Contract,-1.6834279,Negative (抑制流失)
+7472-EQOAV,Contract,0.6692159,Positive (促使流失)
+5985-BEHZK,Contract,-1.456032,Negative (抑制流失)
+9279-CJEOJ,Number of Referrals,-0.8729143,Negative (抑制流失)
+8029-XYPWT,Number of Referrals,-1.1961098,Negative (抑制流失)
+6646-JPPHA,Contract,0.57950306,Positive (促使流失)
+7658-UYUQS,Contract,0.681596,Positive (促使流失)
+8746-BFOAJ,Contract,-0.603699,Negative (抑制流失)
+8023-QHAIO,Number of Referrals,-1.1674767,Negative (抑制流失)
+8133-ANHHJ,Contract,0.56861216,Positive (促使流失)
+1707-HABPF,Contract,0.75280476,Positive (促使流失)
+6847-KJLTS,Contract,-1.3331329,Negative (抑制流失)
+4619-EVPHY,Contract,-0.54362166,Negative (抑制流失)
+4462-CYWMH,Contract,-0.7992605,Negative (抑制流失)
+9334-GWGOW,Contract,0.53811294,Positive (促使流失)
+4291-HYEBC,Number of Referrals,0.8998493,Positive (促使流失)
+1576-PFZIW,Contract,0.6497568,Positive (促使流失)
+0147-ESWWR,Contract,0.61550844,Positive (促使流失)
+1217-VASWC,Contract,-0.7958645,Negative (抑制流失)
+2522-WLNSF,Number of Referrals,-2.2304244,Negative (抑制流失)
+5327-XOKKY,Contract,-1.5561486,Negative (抑制流失)
+3312-ZWLGF,Number of Referrals,-2.0202153,Negative (抑制流失)
+0795-XCCTE,Number of Referrals,0.69135404,Positive (促使流失)
+7072-MBHEV,Number of Referrals,-1.5041131,Negative (抑制流失)
+8050-DVOJX,Number of Referrals,-1.2230723,Negative (抑制流失)
+8169-SAEJD,Contract,0.5982721,Positive (促使流失)
+1580-BMCMR,Contract,-1.2658271,Negative (抑制流失)
+4199-QHJNM,Number of Referrals,-1.61671,Negative (抑制流失)
+5135-GRQJV,Contract,0.6559869,Positive (促使流失)
+2384-OVPSA,Contract,-1.6216979,Negative (抑制流失)
+1371-WEPDS,Contract,-0.7782294,Negative (抑制流失)
+3349-ANQNH,Contract,0.59266436,Positive (促使流失)
+5937-EORGB,Contract,-1.4228356,Negative (抑制流失)
+5539-HIVAK,Contract,0.77693665,Positive (促使流失)
+4583-PARNH,Contract,0.54851896,Positive (促使流失)
+1421-HCERK,Contract,-1.4587463,Negative (抑制流失)
+0716-BQNDX,Contract,-1.5478222,Negative (抑制流失)
+1162-ECVII,Contract,-2.0150633,Negative (抑制流失)
+8695-ARGXZ,Number of Referrals,0.73880744,Positive (促使流失)
+1697-NVVGY,Contract,-0.6136155,Negative (抑制流失)
+9112-WSNPU,Number of Referrals,-1.9697434,Negative (抑制流失)
+4976-LNFVV,Number of Referrals,-1.6278306,Negative (抑制流失)
+2077-MPJQO,Contract,0.7292469,Positive (促使流失)
+1480-IVEVR,Contract,0.9397399,Positive (促使流失)
+4118-CEVPF,Contract,0.4838924,Positive (促使流失)
+2428-HYUNX,Contract,0.5417483,Positive (促使流失)
+9693-XMUOB,Number of Referrals,-1.1346955,Negative (抑制流失)
+1635-NZATJ,Contract,-0.72292095,Negative (抑制流失)
+9943-VSZUV,Number of Referrals,-1.3667299,Negative (抑制流失)
+9355-NPPFS,Number of Referrals,0.99803185,Positive (促使流失)
+5828-DWPIL,Contract,0.7629527,Positive (促使流失)
+2931-FSOHN,Contract,-1.5784252,Negative (抑制流失)
+9971-ZWPBF,Number of Referrals,-1.5098816,Negative (抑制流失)
+8421-WZOOW,Contract,-0.467195,Negative (抑制流失)
+2957-JIRMN,charge_per_tenure,0.8213474,Positive (促使流失)
+5271-DBYSJ,Number of Referrals,0.6943161,Positive (促使流失)
+3915-ODIYG,Contract,-1.9825375,Negative (抑制流失)
+5671-UUNXD,Contract,0.5551411,Positive (促使流失)
+4698-KVLLG,Number of Referrals,0.68143934,Positive (促使流失)
+0282-NVSJS,Contract,-1.6260262,Negative (抑制流失)
+7537-CBQUZ,Number of Referrals,0.68893605,Positive (促使流失)
+4750-UKWJK,Number of Referrals,-1.7264132,Negative (抑制流失)
+4884-ZTHVF,Contract,-0.716269,Negative (抑制流失)
+3055-OYMSE,Number of Referrals,-2.4080043,Negative (抑制流失)
+1468-DEFNC,Contract,-0.6900649,Negative (抑制流失)
+9605-WGJVW,Contract,0.88334787,Positive (促使流失)
+4627-MIHJH,Contract,-1.38633,Negative (抑制流失)
+5553-AOINX,Contract,0.8343811,Positive (促使流失)
+3258-SANFR,Contract,-0.6785815,Negative (抑制流失)
+4833-QTJNO,Contract,-1.5659811,Negative (抑制流失)
+2322-VCZHZ,Contract,0.7215464,Positive (促使流失)
+6383-ZTSIW,Contract,-0.886819,Negative (抑制流失)
+0118-JPNOY,Contract,-1.643584,Negative (抑制流失)
+9000-PLFUZ,Contract,0.7322767,Positive (促使流失)
+7779-ORAEL,Contract,-1.3400816,Negative (抑制流失)
+0644-OQMDK,Monthly Charge,0.5243814,Positive (促使流失)
+1658-XUHBX,Number of Referrals,0.7182743,Positive (促使流失)
+2378-HTWFW,Number of Referrals,-1.3065624,Negative (抑制流失)
+3719-TDVQB,Contract,-1.0608617,Negative (抑制流失)
+0201-MIBOL,Contract,0.60194296,Positive (促使流失)
+8495-PRWFH,Number of Referrals,-1.5921754,Negative (抑制流失)
+0439-IFYUN,Contract,0.5248136,Positive (促使流失)
+6458-CYIDZ,Number of Referrals,-1.7376108,Negative (抑制流失)
+1932-UEDCX,Number of Referrals,-2.156338,Negative (抑制流失)
+5188-HGMLP,Contract,-0.5647088,Negative (抑制流失)
+5331-RGMTT,Contract,-1.3520131,Negative (抑制流失)
+4476-OSWTN,Number of Referrals,-1.8693461,Negative (抑制流失)
+6726-WEXXK,Contract,0.5476536,Positive (促使流失)
+4023-RTIQM,Contract,0.6052536,Positive (促使流失)
+7872-RDDLZ,Number of Referrals,-1.542122,Negative (抑制流失)
+3162-KKZXO,Contract,0.5712872,Positive (促使流失)
+8904-OPDCK,Contract,-1.5584662,Negative (抑制流失)
+6048-QBXKL,Contract,0.6783242,Positive (促使流失)
+6734-FQAJX,Contract,0.68437237,Positive (促使流失)
+2378-VTKDH,Contract,-1.3769358,Negative (抑制流失)
+2974-GGUXS,Contract,0.77640826,Positive (促使流失)
+7994-XIRTR,Contract,-1.6642346,Negative (抑制流失)
+5298-GSTLM,charge_per_tenure,-0.5816047,Negative (抑制流失)
+6121-TNHBO,Contract,0.7857394,Positive (促使流失)
+5119-NZPTV,Number of Referrals,-0.877037,Negative (抑制流失)
+3865-ZYKAD,Contract,0.6470393,Positive (促使流失)
+2205-LPVGL,Number of Referrals,-1.3927958,Negative (抑制流失)
+4868-AADLV,Contract,0.72220176,Positive (促使流失)
+3256-EZDBI,Contract,0.5810073,Positive (促使流失)
+4726-DLWQN,Contract,-1.4941047,Negative (抑制流失)
+3518-FSTWG,Number of Referrals,-1.4905075,Negative (抑制流失)
+0230-UBYPQ,Contract,0.65197563,Positive (促使流失)
+1763-KUAAW,Contract,0.77775705,Positive (促使流失)
+1104-TNLZA,Contract,0.6286169,Positive (促使流失)
+5195-KPUNQ,Contract,0.8131192,Positive (促使流失)
+3908-MKIMJ,Contract,0.7663928,Positive (促使流失)
+6969-MVBAI,Contract,-1.7141067,Negative (抑制流失)
+2453-SAFNS,Contract,-0.6917768,Negative (抑制流失)
+7426-GSWPO,Number of Referrals,-0.86431694,Negative (抑制流失)
+4909-JOUPP,Contract,-1.648806,Negative (抑制流失)
+6437-UDQJM,Contract,-0.7011747,Negative (抑制流失)
+1226-IENZN,Number of Referrals,-1.7577496,Negative (抑制流失)
+3411-WLRSQ,Contract,-0.76002914,Negative (抑制流失)
+0822-QGCXA,Contract,0.5391899,Positive (促使流失)
+3588-WSTTJ,Contract,0.7002766,Positive (促使流失)
+3798-EPWRR,Contract,-1.4135969,Negative (抑制流失)
+2452-MRMZF,Contract,0.7006587,Positive (促使流失)
+4989-LIXVT,Contract,0.6093006,Positive (促使流失)
+5481-NTDOH,Contract,-0.70445913,Negative (抑制流失)
+0749-IRGQE,Number of Referrals,-1.6722132,Negative (抑制流失)
+1754-GKYPY,Contract,0.6123469,Positive (促使流失)
+1591-MQJTP,Contract,0.7144418,Positive (促使流失)
+7471-MQPOS,Contract,0.5567761,Positive (促使流失)
+3259-KNMRR,Number of Referrals,-1.7104185,Negative (抑制流失)
+6120-RJKLU,Contract,0.73257196,Positive (促使流失)
+4323-OHFOW,Contract,-1.5800629,Negative (抑制流失)
+6563-VNPMN,Contract,-1.3810399,Negative (抑制流失)
+2267-WTPYD,Contract,-0.7194872,Negative (抑制流失)
+9129-UXERG,Contract,-2.0954347,Negative (抑制流失)
+6229-LSCKB,Number of Referrals,-1.8071624,Negative (抑制流失)
+6127-IYJOZ,Contract,-1.6650151,Negative (抑制流失)
+8065-QBYTO,Contract,0.7906219,Positive (促使流失)
+7921-LMDFQ,Contract,-2.0108366,Negative (抑制流失)
+5820-PTRYM,Contract,0.6475364,Positive (促使流失)
+6211-WHMYA,Contract,-0.5939276,Negative (抑制流失)
+3454-JFUBC,Contract,0.6625585,Positive (促使流失)
+2451-YMUXS,Number of Referrals,-2.1845787,Negative (抑制流失)
+4690-PKDQG,Contract,0.7469192,Positive (促使流失)
+7789-CRUVC,Number of Referrals,-1.8429596,Negative (抑制流失)
+9972-VAFJJ,Contract,0.6763023,Positive (促使流失)
+5981-ZVXOT,Contract,-1.3736129,Negative (抑制流失)
+2274-XUATA,Contract,0.63832176,Positive (促使流失)
+0666-UXTJO,Contract,0.7061613,Positive (促使流失)
+1035-IPQPU,Contract,0.6834009,Positive (促使流失)
+2235-DWLJU,Contract,-1.7145561,Negative (抑制流失)
+3605-JISKB,Contract,-1.5281036,Negative (抑制流失)
+3668-QPYBK,Contract,-1.4753157,Negative (抑制流失)
+9237-HQITU,Number of Referrals,0.9943989,Positive (促使流失)
+9305-CDSKC,Number of Referrals,-1.7032032,Negative (抑制流失)
+7892-POOKP,Contract,-0.5551516,Negative (抑制流失)
+0280-XJGEX,Age,0.8060495,Positive (促使流失)
+4190-MFLUW,Contract,-1.4123049,Negative (抑制流失)
+1066-JKSGK,Contract,0.7085277,Positive (促使流失)
+6467-CHFZW,Contract,0.45019275,Positive (促使流失)
+8665-UTDHZ,Number of Referrals,-0.6799019,Negative (抑制流失)
+8773-HHUOZ,Contract,0.77511215,Positive (促使流失)
+6047-YHPVI,Contract,0.60790706,Positive (促使流失)
+5380-WJKOV,Contract,-1.8210858,Negative (抑制流失)
+8168-UQWWF,Contract,-1.1698148,Negative (抑制流失)
+7760-OYPDY,charge_per_tenure,0.77457905,Positive (促使流失)
+9420-LOJKX,Contract,-1.3437742,Negative (抑制流失)
+5698-BQJOH,Contract,0.80809087,Positive (促使流失)
+5919-TMRGD,charge_per_tenure,0.7771615,Positive (促使流失)
+9191-MYQKX,Contract,0.8603453,Positive (促使流失)
+8637-XJIVR,Contract,-0.94670445,Negative (抑制流失)
+0278-YXOOG,Contract,0.5942813,Positive (促使流失)
+3192-NQECA,Contract,-1.4970989,Negative (抑制流失)
+0486-HECZI,Number of Referrals,0.9975152,Positive (促使流失)
+5299-RULOA,Contract,0.6241633,Positive (促使流失)
+0404-SWRVG,Contract,0.56923264,Positive (促使流失)
+6207-WIOLX,Contract,0.5166576,Positive (促使流失)
+3091-FYHKI,Contract,0.7481386,Positive (促使流失)
+2372-HWUHI,Contract,-1.4380369,Negative (抑制流失)
+4080-OGPJL,Contract,-1.6406754,Negative (抑制流失)
+2135-RXIHG,Number of Referrals,-0.8913833,Negative (抑制流失)
+3874-EQOEP,Number of Referrals,0.7643125,Positive (促使流失)
+0867-MKZVY,Contract,0.59965956,Positive (促使流失)
+3376-BMGFE,Contract,0.7780259,Positive (促使流失)
+1875-QIVME,Contract,-1.18622,Negative (抑制流失)
+0691-JVSYA,Contract,0.7034593,Positive (促使流失)
+6317-YPKDH,Contract,-1.4718105,Negative (抑制流失)
+9367-WXLCH,Contract,-0.87359405,Negative (抑制流失)
+1918-ZBFQJ,Contract,0.81665236,Positive (促使流失)
+1024-GUALD,Contract,-1.4554514,Negative (抑制流失)
+2472-OVKUP,Number of Referrals,-2.1559033,Negative (抑制流失)
+1285-OKIPP,Contract,0.9145571,Positive (促使流失)
+7825-ECJRF,Number of Referrals,0.8474995,Positive (促使流失)
+7841-TZDMQ,Contract,-1.8630803,Negative (抑制流失)
+9408-SSNVZ,Contract,0.7050284,Positive (促使流失)
+0742-MOABM,Contract,-1.3568543,Negative (抑制流失)
+2232-DMLXU,Contract,0.8283371,Positive (促使流失)
+8937-RDTHP,Contract,-1.237762,Negative (抑制流失)
+1251-KRREG,Contract,0.68614984,Positive (促使流失)
+0322-YINQP,Number of Referrals,-1.0772291,Negative (抑制流失)
+4629-NRXKX,Number of Referrals,-1.8685043,Negative (抑制流失)
+4959-JOSRX,Contract,0.73450124,Positive (促使流失)
+6323-AYBRX,Contract,-1.4150977,Negative (抑制流失)
+6366-ZGQGL,Number of Referrals,-2.5658596,Negative (抑制流失)
+5940-AHUHD,Number of Referrals,0.6732346,Positive (促使流失)
+6432-TWQLB,Contract,-1.2825311,Negative (抑制流失)
+4484-GLZOU,Contract,0.66175616,Positive (促使流失)
+9512-UIBFX,Contract,0.81957555,Positive (促使流失)
+5583-SXDAG,Number of Referrals,0.9924698,Positive (促使流失)
+3580-REOAC,Monthly Charge,0.5057753,Positive (促使流失)
+6390-DSAZX,Age,0.86586004,Positive (促使流失)
+7563-BIUPC,Number of Referrals,-0.72921824,Negative (抑制流失)
+2321-OMBXY,Contract,-0.64379054,Negative (抑制流失)
+0122-OAHPZ,Contract,-1.6692691,Negative (抑制流失)
+2868-SNELZ,Contract,-1.3375463,Negative (抑制流失)
+4322-RCYMT,charge_per_tenure,0.70441276,Positive (促使流失)
+6680-NENYN,Contract,-1.7733567,Negative (抑制流失)
+1343-EHPYB,Contract,-1.2648937,Negative (抑制流失)
+2034-GDRCN,Contract,-1.5177176,Negative (抑制流失)
+0219-YTZUE,Contract,-1.1294345,Negative (抑制流失)
+4572-DVCGN,Contract,-0.78763723,Negative (抑制流失)
+1010-DIAUQ,Contract,0.73276466,Positive (促使流失)
+0259-GBZSH,Number of Referrals,-1.9668945,Negative (抑制流失)
+9601-BRXPO,charge_per_tenure,-0.55545175,Negative (抑制流失)
+6905-NIQIN,Contract,0.52870667,Positive (促使流失)
+5167-ZFFMM,Contract,0.6108303,Positive (促使流失)
+6599-CEBNN,Number of Referrals,0.89971274,Positive (促使流失)
+0979-PHULV,Contract,0.9247065,Positive (促使流失)
+4800-VHZKI,Contract,0.8181917,Positive (促使流失)
+7989-CHGTL,Age,0.6940058,Positive (促使流失)
+0578-SKVMF,Number of Referrals,-2.4861424,Negative (抑制流失)
+9063-ZGTUY,Contract,-0.6933699,Negative (抑制流失)
+2957-LOLHO,Number of Referrals,-1.344967,Negative (抑制流失)
+7752-XUSCI,Contract,0.79359263,Positive (促使流失)
+4110-PFEUZ,Contract,0.46613535,Positive (促使流失)
+0256-LTHVJ,Number of Referrals,-2.4901967,Negative (抑制流失)
+0880-TKATG,charge_per_tenure,-0.61618096,Negative (抑制流失)
+3811-VBYBZ,Contract,-1.3472838,Negative (抑制流失)
+4640-UHDOS,Number of Referrals,-2.2980764,Negative (抑制流失)
+3583-EKAPL,Contract,0.7185566,Positive (促使流失)
+9399-APLBT,Number of Referrals,-1.5625206,Negative (抑制流失)
+2359-KMGLI,Number of Referrals,-1.4730648,Negative (抑制流失)
+0306-JAELE,Number of Referrals,-1.3928893,Negative (抑制流失)
+6227-HWPWX,Contract,0.8793919,Positive (促使流失)
+0447-BEMNG,Contract,0.5824539,Positive (促使流失)
+5949-XIKAE,Contract,0.6959281,Positive (促使流失)
+8372-JUXUI,Number of Referrals,0.8227696,Positive (促使流失)
+0388-EOPEX,Contract,-1.8287951,Negative (抑制流失)
+8205-OTCHB,Contract,-1.421582,Negative (抑制流失)
+7783-YKGDV,Contract,-1.3730069,Negative (抑制流失)
+7218-HKQFK,Number of Referrals,-1.4073318,Negative (抑制流失)
+4636-QRJKY,Contract,-1.3123432,Negative (抑制流失)
+9412-GHEEC,Contract,-0.5938996,Negative (抑制流失)
+6825-UYPFK,Number of Referrals,-1.5064343,Negative (抑制流失)
+8397-MVTAZ,charge_per_tenure,0.73200446,Positive (促使流失)
+9282-IZGQK,Number of Referrals,0.6666319,Positive (促使流失)
+1342-JPNKI,Number of Referrals,-1.2407613,Negative (抑制流失)
+2817-NTQDO,Number of Referrals,0.6895524,Positive (促使流失)
+6986-IJDHX,Number of Referrals,-0.97182935,Negative (抑制流失)
+5301-GAUUY,Number of Referrals,-1.5419556,Negative (抑制流失)
+0939-YAPAF,charge_per_tenure,0.83827,Positive (促使流失)
+4710-FDUIZ,Number of Referrals,0.9949277,Positive (促使流失)
+1218-VKFPE,Contract,0.74219596,Positive (促使流失)
+3627-FHKBK,Contract,-1.3852774,Negative (抑制流失)
+0719-SYFRB,Contract,-0.5340659,Negative (抑制流失)
+6543-CPZMK,Number of Referrals,-0.84798646,Negative (抑制流失)
+4765-OXPPD,Number of Referrals,0.88229173,Positive (促使流失)
+1009-IRMNA,Contract,0.43879426,Positive (促使流失)
+7207-RMRDB,Contract,-1.1323227,Negative (抑制流失)
+0195-IESCP,Contract,0.69095623,Positive (促使流失)
+4580-TMHJU,Contract,-2.2965295,Negative (抑制流失)
+0970-ETWGE,Number of Referrals,0.929257,Positive (促使流失)
+0887-HJGAR,Contract,-0.79239017,Negative (抑制流失)
+9576-ANLXO,Number of Referrals,-1.347111,Negative (抑制流失)
+2024-BASKD,Contract,-2.034261,Negative (抑制流失)
+4464-JCOLN,Contract,-1.3605345,Negative (抑制流失)
+5650-VDUDS,Contract,0.6612297,Positive (促使流失)
+7538-GWHML,Contract,0.5733458,Positive (促使流失)
+3859-CVCET,Contract,0.5051243,Positive (促使流失)
+3276-HDUEG,Contract,-0.69417185,Negative (抑制流失)
+0822-GAVAP,Number of Referrals,-0.9850047,Negative (抑制流失)
+1448-PWKYE,Number of Referrals,0.8596702,Positive (促使流失)
+2276-YDAVZ,Contract,0.7455636,Positive (促使流失)
+5896-NPFWW,Number of Referrals,-1.3241339,Negative (抑制流失)
+7133-VBDCG,Number of Referrals,0.9077211,Positive (促使流失)
+1029-QFBEN,Number of Referrals,-0.8007099,Negative (抑制流失)
+4952-YSOGZ,Number of Referrals,-0.9740249,Negative (抑制流失)
+1589-AGTLK,Contract,0.89018035,Positive (促使流失)
+6439-GTPCA,Number of Referrals,0.79901993,Positive (促使流失)
+5138-WVKYJ,Number of Referrals,-2.3874722,Negative (抑制流失)
+2189-WWOEW,Contract,-1.4381971,Negative (抑制流失)
+1894-IGFSG,Contract,0.5666326,Positive (促使流失)
+7379-POKDZ,Contract,-0.606041,Negative (抑制流失)
+0236-HFWSV,Contract,0.64183164,Positive (促使流失)
+3900-AQPHZ,Contract,0.75014395,Positive (促使流失)
+5842-POCOP,Contract,-1.6375118,Negative (抑制流失)
+2037-XJFUP,Contract,0.80301493,Positive (促使流失)
+7314-OXENN,Contract,0.64953256,Positive (促使流失)
+0322-CHQRU,Contract,0.8018874,Positive (促使流失)
+4678-DVQEO,Number of Referrals,-0.8219478,Negative (抑制流失)
+3009-JWMPU,Contract,-0.7089791,Negative (抑制流失)
+1450-GALXR,Contract,-2.3344889,Negative (抑制流失)
+3138-BKYAV,Contract,0.70314366,Positive (促使流失)
+4289-DTDKW,Number of Referrals,-0.8245939,Negative (抑制流失)
+1820-TQVEV,Contract,-1.3435526,Negative (抑制流失)
+2239-JALAW,Contract,-1.7669415,Negative (抑制流失)
+4853-RULSV,Number of Referrals,-1.3810021,Negative (抑制流失)
+6275-YDUVO,Contract,0.61555076,Positive (促使流失)
+0115-TFERT,Contract,-1.5729414,Negative (抑制流失)
+2311-QYMUQ,Contract,-0.5916588,Negative (抑制流失)
+3104-OWCGK,Contract,0.77917475,Positive (促使流失)
+9101-BWFSS,Contract,-1.2888176,Negative (抑制流失)
+6982-SSHFK,charge_per_tenure,0.7478918,Positive (促使流失)
+1038-ZAGBI,Contract,-0.6815835,Negative (抑制流失)
+3027-ZTDHO,Contract,-2.1656833,Negative (抑制流失)
+2382-BCKQJ,Contract,-1.5687555,Negative (抑制流失)
+2207-NHRJK,Contract,-1.6423728,Negative (抑制流失)
+9944-HKVVB,Contract,-1.0598295,Negative (抑制流失)
+4124-MMETB,charge_per_tenure,0.8416058,Positive (促使流失)
+3671-SHRSP,Number of Referrals,-1.0794442,Negative (抑制流失)
+3313-QKNKB,Contract,0.6271441,Positive (促使流失)
+5073-WXOYN,charge_per_tenure,-0.6036144,Negative (抑制流失)
+0207-MDKNV,charge_per_tenure,-0.6853368,Negative (抑制流失)
+9851-KIELU,Contract,-0.6078545,Negative (抑制流失)
+3908-BLSYF,Contract,-0.7289107,Negative (抑制流失)
+7549-MYGPK,Contract,-1.0150505,Negative (抑制流失)
+3804-RVTGV,Contract,-1.2294956,Negative (抑制流失)
+9227-LUNBG,Contract,-1.378641,Negative (抑制流失)
+4315-MURBD,Contract,0.76686764,Positive (促使流失)
+9734-YWGEX,Contract,0.6460375,Positive (促使流失)
+2719-BDAQO,Contract,0.7033315,Positive (促使流失)
+9625-QSTYE,Contract,0.63949794,Positive (促使流失)
+6400-BWQKW,Contract,0.7853042,Positive (促使流失)
+6680-WKXRZ,Contract,0.6636584,Positive (促使流失)
+9448-REEVD,Contract,0.51202196,Positive (促使流失)
+9117-SHLZX,Contract,-1.3694401,Negative (抑制流失)
+4541-RMRLG,Number of Referrals,-2.1604934,Negative (抑制流失)
+3158-MOERK,Contract,0.7056213,Positive (促使流失)
+7294-TMAOP,Number of Referrals,-2.1541858,Negative (抑制流失)
+2834-JRTUA,Contract,0.55727327,Positive (促使流失)
+5875-YPQFJ,Contract,-1.6688551,Negative (抑制流失)
+8603-IJWDN,Contract,0.6578048,Positive (促使流失)
+3842-IYKUE,Contract,-1.0882483,Negative (抑制流失)
+6641-XRPSU,Contract,-0.6806221,Negative (抑制流失)
+8357-EQXFO,Contract,0.8024879,Positive (促使流失)
+9524-EGPJC,Contract,-1.6736196,Negative (抑制流失)
+6993-OHLXR,Contract,-0.76661736,Negative (抑制流失)
+8818-XYFCQ,Number of Referrals,-2.4241054,Negative (抑制流失)
+4695-VADHF,Contract,0.9113714,Positive (促使流失)
+3863-IUBJR,Contract,0.5526208,Positive (促使流失)
+8436-BJUMM,Contract,-1.766584,Negative (抑制流失)
+9948-YPTDG,Contract,0.541882,Positive (促使流失)
+4883-QICIH,Contract,-1.5159111,Negative (抑制流失)
+8329-IBCTI,Contract,-1.4816947,Negative (抑制流失)
+5669-SRAIP,Contract,-0.62806976,Negative (抑制流失)
+5981-ITEMU,Number of Referrals,-1.669275,Negative (抑制流失)
+6941-PMGEP,Contract,0.7658523,Positive (促使流失)
+1624-WOIWJ,Contract,0.8262664,Positive (促使流失)
+2074-GKOWZ,Contract,-0.6677975,Negative (抑制流失)
+0376-YMCJC,Number of Referrals,0.76471776,Positive (促使流失)
+0634-SZPQA,Contract,0.57763594,Positive (促使流失)
+5536-RTPWK,Contract,0.6678685,Positive (促使流失)
+6166-ILMNY,Number of Referrals,0.7341118,Positive (促使流失)
+3097-NNSPB,Contract,-0.6191256,Negative (抑制流失)
+0655-RBDUG,Contract,-1.4843127,Negative (抑制流失)
+4361-BKAXE,Contract,-0.7086059,Negative (抑制流失)
+9878-TNQGW,Contract,-0.703289,Negative (抑制流失)
+4607-CHPCA,Number of Referrals,-1.2697123,Negative (抑制流失)
+8824-RWFXJ,Contract,0.6176511,Positive (促使流失)
+9763-PDTKK,Contract,-0.7638807,Negative (抑制流失)
+7627-JKIAZ,Number of Referrals,-1.7742996,Negative (抑制流失)
+4081-DYXAV,Number of Referrals,-0.7246246,Negative (抑制流失)
+0927-LCSMG,Contract,0.8831392,Positive (促使流失)
+8257-RZAHR,Number of Referrals,0.91743934,Positive (促使流失)
+0841-NULXI,Contract,-1.5040158,Negative (抑制流失)
+7851-WZEKY,Number of Referrals,-0.6845524,Negative (抑制流失)
+8844-TONUD,Number of Referrals,0.7130885,Positive (促使流失)
+5868-CZJDR,Contract,-0.70044255,Negative (抑制流失)
+0135-NMXAP,Contract,0.7012904,Positive (促使流失)
+6270-OMFIW,Number of Referrals,-1.5465708,Negative (抑制流失)
+0107-WESLM,Contract,-0.6790169,Negative (抑制流失)
+3992-YWPKO,Contract,-0.64736956,Negative (抑制流失)
+0125-LZQXK,Contract,-2.028017,Negative (抑制流失)
+5673-FSSMF,Contract,0.4953945,Positive (促使流失)
+1579-KLYDT,Contract,0.7902045,Positive (促使流失)
+3927-NLNRY,Contract,-1.3855956,Negative (抑制流失)
+6358-LYNGM,Number of Referrals,-0.85150975,Negative (抑制流失)
+5494-HECPR,charge_per_tenure,0.9161652,Positive (促使流失)
+9824-BEMCV,Contract,0.6798914,Positive (促使流失)
+1373-ORVIZ,Contract,0.87537485,Positive (促使流失)
+9866-QEVEE,Contract,-1.4737741,Negative (抑制流失)
+9897-KXHCM,Number of Referrals,-0.72985005,Negative (抑制流失)
+7979-CORPM,Contract,-0.5682172,Negative (抑制流失)
+1618-CFHME,Contract,-1.2506558,Negative (抑制流失)
+3165-HDOEW,Contract,0.71255803,Positive (促使流失)
+6581-NQCBA,Age,0.87827814,Positive (促使流失)
+1689-MRZQR,Contract,0.80169094,Positive (促使流失)
+5835-BEQEU,Contract,-1.5212191,Negative (抑制流失)
+5552-ZNFSJ,Number of Referrals,0.6484438,Positive (促使流失)
+2223-KAGMX,Contract,0.5385974,Positive (促使流失)
+7321-PKUYW,Contract,-0.57750887,Negative (抑制流失)
+2833-SLKDQ,Contract,0.5319424,Positive (促使流失)
+7595-EUIVN,Contract,-1.668283,Negative (抑制流失)
+2026-TGDHM,Contract,0.5482767,Positive (促使流失)
+4030-VPZBD,Contract,-1.5542253,Negative (抑制流失)
+2408-TZMJL,Number of Referrals,-1.4359345,Negative (抑制流失)
+7993-PYKOF,Contract,0.6367512,Positive (促使流失)
+5027-XWQHA,Number of Referrals,-1.552724,Negative (抑制流失)
+4566-QVRRW,Number of Referrals,-0.71144634,Negative (抑制流失)
+0201-OAMXR,Contract,0.7823607,Positive (促使流失)
+7831-QGOXH,Number of Referrals,-2.6140769,Negative (抑制流失)
+6393-WRYZE,Contract,-0.9674993,Negative (抑制流失)
+6599-RCLCJ,Contract,0.5851871,Positive (促使流失)
+9831-BPFRI,charge_per_tenure,0.69957227,Positive (促使流失)
+1725-MIMXW,Contract,-1.3201904,Negative (抑制流失)
+0031-PVLZI,Contract,-1.2504268,Negative (抑制流失)
+4791-QRGMF,Contract,-0.7158071,Negative (抑制流失)
+4671-LXRDQ,charge_per_tenure,-0.58925176,Negative (抑制流失)
+1934-SJVJK,Number of Referrals,0.6874229,Positive (促使流失)
+3838-OZURD,,,
+9269-CQOOL,,,
+2845-HSJCY,,,
+1184-PJVDB,,,
+9415-DPEWS,,,
+7943-RQCHR,,,
+3249-ZPQRG,,,
+2568-BRGYX,,,
+7721-JXEAW,,,
+7249-WBIYX,,,
+3164-AALRN,,,
+3334-CTHOL,,,
+4704-ERYFC,,,
+0471-LVHGK,,,
+9518-RWHZL,,,
+6240-EURKS,,,
+6960-HVYXR,,,
+7861-UVUFT,,,
+0680-DFNNY,,,
+7767-UXAGJ,,,
+1571-SAVHK,,,
+9546-CQJSU,,,
+2951-QOQTK,,,
+3473-XIIIT,,,
+7893-IXHRQ,,,
+2952-QAYZF,,,
+4763-PGDPO,,,
+5394-SVGJV,,,
+9283-LZQOH,,,
+7079-QRCBC,,,
+5469-CTCWN,,,
+9851-QXEEQ,,,
+5208-HFSBT,,,
+2667-WYLWJ,,,
+1092-GANHU,,,
+7881-EVUAD,,,
+5766-XQXMQ,,,
+3703-VAVCL,,,
+8519-QJGJD,,,
+6326-MTTXK,,,
+0330-IVZHA,,,
+2886-KEFUM,,,
+4237-RLAQD,,,
+9651-GTSAQ,,,
+3186-BAXNB,,,
+0637-YLETY,,,
+1157-BQCUW,,,
+2003-CKLOR,,,
+9254-RBFON,,,
+1205-WNWPJ,,,
+8387-MOJJT,,,
+6032-KRXXO,,,
+7459-RRWQZ,,,
+3092-IGHWF,,,
+6352-TWCAU,,,
+2929-QNSRW,,,
+1262-OPMFY,,,
+1899-VXWXM,,,
+3331-HQDTW,,,
+5442-XSDCW,,,
+3049-NDXFL,,,
+7963-GQRMY,,,
+1228-FZFRV,,,
+2058-DCJBE,,,
+5364-XYIRR,,,
+4829-AUOAX,,,
+9158-VCTQB,,,
+6311-UEUME,,,
+6839-ITVZJ,,,
+0375-HVGXO,,,
+8593-WHYHV,,,
+6097-EQISJ,,,
+4423-YLHDV,,,
+0107-YHINA,,,
+8640-SDGKB,,,
+4116-TZAQJ,,,
+3877-JRJIP,,,
+7511-YMXVQ,,,
+7551-JOHTI,,,
+9804-ICWBG,,,
+5318-IXUZF,,,
+3198-VELRD,,,
+9436-ZBZCT,,,
+7198-GLXTC,,,
+0516-VRYBW,,,
+8380-PEFPE,,,
+5687-DKDTV,,,
+7530-HDYDS,,,
+3096-IZETN,,,
+5922-ABDVO,,,
+9172-ANCRX,,,
+6910-HADCM,,,
+4816-LXZYW,,,
+4911-BANWH,,,
+8496-EJAUI,,,
+6365-MTGZX,,,
+1349-WXNGG,,,
+6990-YNRIO,,,
+0621-TWIEM,,,
+2485-ITVKB,,,
+3669-OYSJI,,,
+1612-EOHDH,,,
+7517-SAWMO,,,
+4143-HHPMK,,,
+7054-LGEQW,,,
+0923-PNFUB,,,
+3494-JCHRQ,,,
+6474-FVJLC,,,
+4547-LYTDD,,,
+6770-XUAGN,,,
+3143-ILDAL,,,
+4720-VSTSI,,,
+3946-MHCZW,,,
+6651-AZVTJ,,,
+4566-GOLUK,,,
+2484-DGXPZ,,,
+4587-NUKOX,,,
+0420-BWTPW,,,
+8183-ONMXC,,,
+9614-RMGHA,,,
+5054-IEXZT,,,
+5834-ASPWA,,,
+3948-XHGNA,,,
+0565-IYCGT,,,
+5445-UTODQ,,,
+1024-VRZHF,,,
+0348-SDKOL,,,
+4373-MAVJG,,,
+8901-HJXTF,,,
+5419-KLXBN,,,
+9828-AOQLM,,,
+7615-ESMYF,,,
+3858-VOBET,,,
+1447-PJGGA,,,
+8565-CLBZW,,,
+9139-WQQDY,,,
+0224-HJAPT,,,
+8086-OVPWV,,,
+9430-FRQOC,,,
+3074-GQWYX,,,
+6845-RGTYS,,,
+8861-HGGKB,,,
+7065-YUNRY,,,
+7694-VLBWQ,,,
+6481-OGDOO,,,
+3753-TSEMP,,,
+8305-VHZBZ,,,
+9172-JITSM,,,
+6298-QDFNH,,,
+6173-ITPWD,,,
+9734-UYXQI,,,
+2189-UXTKY,,,
+4958-GZWIY,,,
+6356-ELRKD,,,
+8624-GIOUT,,,
+3177-LASXD,,,
+4897-QSUYC,,,
+1084-UQCHV,,,
+2955-BJZHG,,,
+3806-DXQOM,,,
+9300-RENDD,,,
+0761-AETCS,,,
+2153-MREFK,,,
+3106-ULWFW,,,
+0925-VYDLG,,,
+4349-GFQHK,,,
+7802-EFKNY,,,
+8035-BUYVG,,,
+9787-XVQIU,,,
+8945-MUQUF,,,
+3023-GFLBR,,,
+0524-IAVZO,,,
+2737-YNGYW,,,
+5159-YFPKQ,,,
+7927-AUXBZ,,,
+7619-ODSGN,,,
+2514-GINMM,,,
+2659-VXMWZ,,,
+4285-GYRQC,,,
+8337-MSSXB,,,
+8182-BJDSI,,,
+2482-CZGBB,,,
+0866-QLSIR,,,
+7181-BQYBV,,,
+6204-IEUXJ,,,
+4529-CKBCL,,,
+2506-CLAKW,,,
+1583-IHQZE,,,
+0151-ONTOV,,,
+0320-JDNQG,,,
+7180-PISOG,,,
+3571-RFHAR,,,
+9578-VRMNM,,,
+6140-QNRQQ,,,
+4307-KTUMW,,,
+7470-MCQTK,,,
+7488-MXJIV,,,
+2027-FECZV,,,
+2672-DZUOY,,,
+3870-MQAMG,,,
+4800-CZMPC,,,
+7377-DMMRI,,,
+8949-JTMAY,,,
+3211-ILJTT,,,
+5103-MHMHY,,,
+0235-KGSLC,,,
+2884-GBPFB,,,
+5136-KCKGI,,,
+3722-WPXTK,,,
+2929-ERCFZ,,,
+7548-SEPYI,,,
+8835-VSDSE,,,
+1623-NLDOT,,,
+5236-PERKL,,,
+7854-FOKSF,,,
+2519-FAKOD,,,
+7089-IVVAZ,,,
+9492-TOKRI,,,
+3325-FUYCG,,,
+8481-YYXWG,,,
+2609-IAICY,,,
+1740-CSDJP,,,
+2636-OHFMN,,,
+1323-OOEPC,,,
+9921-ZVRHG,,,
+4701-MLJPN,,,
+9206-GVPEQ,,,
+1596-BBVTG,,,
+8433-WXGNA,,,
+3707-GNWHM,,,
+5766-ZJYBB,,,
+8931-GJJIQ,,,
+4277-PVRAN,,,
+0203-HHYIJ,,,
+0952-KMEEH,,,
+8178-EYZUO,,,
+3230-WYKIR,,,
+0407-BDJKB,,,
+9600-UDOPK,,,
+4074-SJFFA,,,
+4910-GMJOT,,,
+4323-SADQS,,,
+4446-BZKHU,,,
+5202-IVJNU,,,
+5976-JCJRH,,,
+0137-OCGAB,,,
+3351-NQLDI,,,
+7593-JNWRU,,,
+4588-YBNIB,,,
+5028-GZLDO,,,
+6877-TJMBR,,,
+6769-DCQLI,,,
+2433-KMEAS,,,
+2195-ZRVAX,,,
+3550-SAHFP,,,
+2011-TRQYE,,,
+4873-ILOLJ,,,
+2725-KXXWT,,,
+9565-DJPIB,,,
+8348-HFYIV,,,
+6849-WLEYG,,,
+4659-NZRUF,,,
+8429-XIBUM,,,
+2608-BHKFN,,,
+7341-LXCAF,,,
+9462-MJUAW,,,
+8128-YVJRG,,,
+1569-TTNYJ,,,
+4749-VFKVB,,,
+7598-UAASY,,,
+7938-OUHIO,,,
+0431-APWVY,,,
+3426-NIYYL,,,
+3387-VATUS,,,
+1143-NMNQJ,,,
+0415-MOSGF,,,
+2495-INZWQ,,,
+4139-SUGLD,,,
+6857-VWJDT,,,
+5624-BQSSA,,,
+5577-OTWWW,,,
+6100-QQHEB,,,
+2691-NZETQ,,,
+4404-HIBDJ,,,
+7295-JOMMD,,,
+5013-SBUIH,,,
+6023-YEBUP,,,
+7209-JCUDS,,,
+6158-DWPZT,,,
+3763-GCZHZ,,,
+0772-GYEQQ,,,
+4831-EOBFE,,,
+9170-GYZJC,,,
+2002-MZHWP,,,
+2004-OCQXK,,,
+5027-QPKTE,,,
+2672-HUYVI,,,
+7508-MYBOG,,,
+0148-DCDOS,,,
+9992-RRAMN,,,
+0310-MVLET,,,
+5696-QURRL,,,
+0495-RVCBF,,,
+7854-EDSSA,,,
+8869-TORSS,,,
+2115-BFTIW,,,
+0611-DFXKO,,,
+7780-OTDSO,,,
+9747-DDZOS,,,
+0564-JJHGS,,,
+3348-CFRNX,,,
+1428-GTBJJ,,,
+2249-YPRNG,,,
+7410-YTJIK,,,
+4626-GYCZP,,,
+5590-BYNII,,,
+3237-AJGEH,,,
+1591-NFNLQ,,,
+0596-BQCEQ,,,
+1481-ZUWZA,,,
+2309-OSFEU,,,
+7613-LLQFO,,,
+2640-PMGFL,,,
+3801-HMYNL,,,
+4484-CGXFK,,,
+6214-EDAKZ,,,
+6127-ISGTU,,,
+8740-XLHDR,,,
+1208-DNHLN,,,
+1761-AEZZR,,,
+7120-RFMVS,,,
+7317-GGVPB,,,
+1322-AGOQM,,,
+5692-FPTAH,,,
+1550-LOAHA,,,
+0268-QKIWO,,,
+0876-WDUUZ,,,
+0617-FHSGK,,,
+2858-MOFSQ,,,
+7005-CCBKV,,,
+4250-FDVOU,,,
+2141-RRYGO,,,
+6376-GAHQE,,,
+5052-PNLOS,,,
+6979-ZNSFF,,,
+2386-LAHRK,,,
+6032-IGALN,,,
+0516-WJVXC,,,
+8809-RIHDD,,,
+4822-NGOCH,,,
+1432-FPAXX,,,
+3884-HCSWG,,,
+5077-DXTCG,,,
+1142-WACZW,,,
+4892-VLANZ,,,
+2919-HBCJO,,,
+4236-XPXAV,,,
+3030-YZADT,,,
+7410-KTVFV,,,
+8393-DLHGA,,,
+2834-SPCJV,,,
+0587-DMGBH,,,
+3523-QRQLL,,,
+0895-DQHEW,,,
+8149-RSOUN,,,
+7250-EQKIY,,,
+4013-UBXWQ,,,
+5519-NPHVG,,,
+8849-GYOKR,,,
+3148-BLQJT,,,
+0461-CVKMU,,,
+8806-EAGWC,,,
+4183-WCSEP,,,
+5498-TXHLF,,,
+9722-UJOJR,,,
+6772-KSATR,,,
+7112-OPOTK,,,
+4210-QFJMF,,,
+5828-AVIPD,,,
+1086-LXKFY,,,
+7774-OJSXI,,,
+7786-WBJYI,,,
+5016-ETTFF,,,
+3866-MDTUB,,,
+0697-ZMSWS,,,
+7593-XFKDI,,,
+0337-CNPZE,,,
+1513-XNPPH,,,
+6347-DCUIK,,,
+0897-FEGMU,,,
+7663-RGWBC,,,
+1120-BMWUB,,,
+9124-LHCJQ,,,
+2235-ZGKPT,,,
+3891-PUQOD,,,
+0689-NKYLF,,,
+3658-KIBGF,,,
+5519-YLDGW,,,
+4946-EDSEW,,,
+8185-UPYBR,,,
+4585-HETAI,,,
+7526-BEZQB,,,
+4951-UKAAQ,,,
+2108-YKQTY,,,
+4918-QLLIW,,,
+1625-JAIIY,,,
+2947-DOMLJ,,,
+4112-LUEIZ,,,
+4510-HIMLV,,,
+2430-USGXP,,,
+5955-ERIHD,,,
+5949-EBSQK,,,
+7274-RTAPZ,,,
+0311-UNPFF,,,
+3834-XUIFC,,,
+7599-FKVXZ,,,
+8229-TNIQA,,,
+6221-AVQYL,,,
+7743-EXURX,,,
+5569-KGJHX,,,
+7730-IUTDZ,,,
+0426-TIRNE,,,
+7587-RZNME,,,
+0748-RDGGM,,,
+3746-EUBYR,,,
+2332-EFBJY,,,
+9474-PHLYD,,,
+2165-VOEGB,,,
+2219-MVUSO,,,
+8914-RBTSB,,,
+0963-ZBDRN,,,
+7594-RQHXR,,,
+6331-EWIEB,,,
+5998-VVEJY,,,
+4317-VTEOA,,,
+1670-SVOWZ,,,
+7541-YLXCL,,,
+0260-ZDLGK,,,
+8722-NGNBH,,,
+0133-BMFZO,,,
+6128-CZOMY,,,
+9540-JYROE,,,
+3656-TKRVZ,,,
+1501-SGHBW,,,
+3208-YPIOE,,,
+2612-RANWT,,,
+2933-FILNV,,,
+9986-BONCE,,,
+4083-EUGRJ,,,
+6410-LEFEN,,,
+3194-ORPIK,,,
+8816-VXNZD,,,
+9378-FXTIZ,,,
+1723-HKXJQ,,,
+7825-GKXMW,,,
+1240-KNSEZ,,,
+0836-SEYLU,,,
+3716-BDVDB,,,
+5899-MQZZL,,,
+6849-OYAMU,,,
+6038-GCYEC,,,
+1150-WFARN,,,
+3144-AUDBS,,,
+5616-PRTNT,,,
+6688-UZPWD,,,
+2839-RFSQE,,,
+0968-GSIKN,,,
+1965-DDBWU,,,
+9057-SIHCH,,,
+6771-XWBDM,,,
+8601-QACRS,,,
+2391-SOORI,,,
+2645-QTLMB,,,
+4806-HIPDW,,,
+8443-ZRDBZ,,,
+9136-ALYBR,,,
+7479-NITWS,,,
+2959-MJHIC,,,
+5960-WPXQM,,,
+0684-AOSIH,,,
+8260-NGFNY,,,
+1725-IQNIY,,,
+6598-RFFVI,,,
+8614-VGMMV,,,
+2930-UOTMB,,,
+2533-QVMSK,,,
+8625-AZYZY,,,
+9306-CPCBC,,,
+2656-TABEH,,,
+2325-ZUSFD,,,
+3932-CMDTD,,,
+3594-UVONA,,,
+0004-TLHLJ,,,
+5089-IFSDP,,,
+4817-VYYWS,,,
+1396-QWFBJ,,,
+5299-SJCZT,,,
+2898-LSJGD,,,
+7359-PTSXY,,,
+4503-BDXBD,,,
+6086-ESGRL,,,
+3886-CERTZ,,,
+5759-RCVCB,,,
+6372-RFVNS,,,
+8938-UMKPI,,,
+0991-BRRFB,,,
+6319-IEJWJ,,,
+9025-AOMKI,,,
+5275-SQEIZ,,,
+7716-YTYHG,,,
+4390-KYULV,,,
+8945-GRKHX,,,
+6959-UWKHF,,,
+3815-SLMEF,,,
+5154-VEKBL,,,
+4587-VVTOX,,,
+4652-NNHNY,,,
+8515-OCTJS,,,
+5261-QSHQM,,,
+8868-WOZGU,,,
+1334-FJSVR,,,
+7625-XCQRH,,,
+1731-TVIUK,,,
+0618-XWMSS,,,
+2565-JSLRY,,,
+6689-KXGBO,,,
+6615-NGGZJ,,,
+4255-DDUOU,,,
+2984-MIIZL,,,
+5590-YRFJT,,,
+3677-TNKIO,,,
+3329-WDIOK,,,
+2873-ZLIWT,,,
+3415-TAILE,,,
+1915-IOFGU,,,
+3045-XETSH,,,
+7239-HZZCX,,,
+7683-CBDKJ,,,
+0628-CNQRM,,,
+7665-TOALD,,,
+0112-QWPNC,,,
+2777-PHDEI,,,
+1196-AMORA,,,
+4282-YMKNA,,,
+5356-RHIPP,,,
+0746-JTRFU,,,
+4628-CTTLA,,,
+2876-VBBBL,,,
+6834-NXDCA,,,
+5597-GLBUC,,,
+2748-MYRVK,,,
+4822-YCXMX,,,
+9821-POOTN,,,
+6559-ILWKJ,,,
+4229-CZMLL,,,
+3663-MITLP,,,
+9025-ZRPVR,,,
+3285-UCQVC,,,
+3737-GCSPV,,,
+4088-YLDSU,,,
+5797-APWZC,,,
+3683-QKIUE,,,
+4228-ZGYUW,,,
+3519-ZKXGG,,,
+6416-TVAIH,,,
+5108-ADXWO,,,
+3066-RRJIO,,,
+6715-OFDBP,,,
+1567-DSCIC,,,
+2150-UWTFY,,,
+2683-BPJSO,,,
+2157-MXBJS,,,
+1087-UDSIH,,,
+5445-PZWGX,,,
+9170-CCKOU,,,
+1043-YCUTE,,,
+3814-MLAXC,,,
+1226-UDFZR,,,
+5442-UTCVD,,,
+7734-DBOAI,,,
+2114-MGINA,,,
+4489-SNOJF,,,
+2187-LZGPL,,,
+9019-QVLZD,,,
+3707-LRWZD,,,
+1455-ESIQH,,,
+2979-SXESE,,,
+4013-TLDHQ,,,
+6121-VZNQB,,,
+6996-KNSML,,,
+2592-SEIFQ,,,
+8642-GVWRF,,,
+3400-ESFUW,,,
+2057-ZBLPD,,,
+5502-RLUYV,,,
+9039-RBEEE,,,
+8417-FMLZI,,,
+0515-YPMCW,,,
+0378-XSZPU,,,
+4729-XKASR,,,
+5449-FIBXJ,,,
+9837-BMCLM,,,
+0137-UDEUO,,,
+4925-LMHOK,,,
+1455-UGQVH,,,
+8280-MQRQN,,,
+2037-SGXHH,,,
+3178-FESZO,,,
+6087-MVHJH,,,
+4603-JANFB,,,
+3018-TFTSU,,,
+4806-KEXQR,,,
+7083-YNSKY,,,
+7434-SHXLS,,,
+7908-QCBCA,,,
+6711-FLDFB,,,
+4702-IOQDC,,,
+6178-KFNHS,,,
+1264-BYWMS,,,
+9658-WYUFB,,,
+2013-SGDXK,,,
+3506-LCJDC,,,
+3934-HXCFZ,,,
+7666-WKRON,,,
+4910-AQFFX,,,
+2154-KVJFF,,,
+9647-ERGBE,,,
+3428-XZMAZ,,,
+0378-TOVMS,,,
+4355-HBJHH,,,
+0318-QUUOB,,,
+5520-FVEWJ,,,
+5572-ZDXHY,,,
+3750-CKVKH,,,
+4547-KQRTM,,,
+4877-EVATK,,,
+7639-SUPCW,,,
+4658-HCOHW,,,
+3440-JPSCL,,,
+2889-FPWRM,,,
+4290-BSXUX,,,
+0325-XBFAC,,,
+2462-XIIJB,,,
+4760-XOHVN,,,
+7817-BOQPW,,,
+1853-UDXBW,,,
+5458-CQJTA,,,
+5219-YIPTK,,,
+3540-RZJYU,,,
+2091-MJTFX,,,
+0883-EIBTI,,,
+7571-YXDAD,,,
+3393-FMZPV,,,
+7486-KSRVI,,,
+8443-WVPSS,,,
+3006-XIMLN,,,
+6305-YLBMM,,,
+3647-GMGDH,,,
+6595-COKXZ,,,
+0362-ZBZWJ,,,
+4211-MMAZN,,,
+4274-OWWYO,,,
+1541-ETJZO,,,
+4106-HADHQ,,,
+2369-UAPKZ,,,
+0637-KVDLV,,,
+6633-MPWBS,,,
+8785-EPNCG,,,
+5729-KLZAR,,,
+1582-RAFML,,,
+8740-CRYFY,,,
+2962-XPMCQ,,,
+1678-FYZOW,,,
+8627-EHGIP,,,
+5480-TBGPH,,,
+8854-CCVSQ,,,
+0511-JTEOY,,,
+6532-YLWSI,,,
+5175-AOBHI,,,
+5174-RNGBH,,,
+7270-BDIOA,,,
+9565-JSNFM,,,
+0607-DAAHE,,,
+9732-KPKBW,,,
+9560-ARGQJ,,,
+5134-IKDAY,,,
+5380-AFSSK,,,
+8714-EUHJO,,,
+3721-CNEYS,,,
+2568-OIADY,,,
+1193-RTSLK,,,
+5923-GXUOC,,,
+4432-ADRLB,,,
+8993-PHFWD,,,
+1565-RHDJD,,,
+3765-JXVKY,,,
+7330-WZLNC,,,
+6635-MYYYZ,,,
+5378-IKEEG,,,
+6413-XKKPU,,,
+1449-XQEMT,,,
+2626-URJFX,,,
+2612-RRIDN,,,
+4735-ASGMA,,,
+3669-LVWZB,,,
+6892-EZDTG,,,
+9725-SCPZG,,,
+5884-GCYMI,,,
+7853-GVUDZ,,,
+3943-KDREE,,,
+9239-ZBZZV,,,
+4398-HSCJH,,,
+4430-UZIPO,,,
+4855-SNKMY,,,
+8008-HAWED,,,
+1502-XFCVR,,,
+9692-TUSXH,,,
+7912-SYRQT,,,
+8292-TYSPY,,,
+1867-BDVFH,,,
+2359-QWQUL,,,
+9103-TCIHJ,,,
+4140-WJAWW,,,
+6653-CBBOM,,,
+6101-IMRMM,,,
+8943-URTMR,,,
+2955-PSXOE,,,
+7762-URZQH,,,
+6907-NZZIJ,,,
+2911-UREFD,,,
+3744-ZRRDZ,,,
+5673-TIYIB,,,
+1602-IJQQE,,,
+4628-WQCQQ,,,
+1644-IRKSF,,,
+3705-PSNGL,,,
+2606-RMDHZ,,,
+6861-OKBCE,,,
+9940-RHLFB,,,
+1383-EZRWL,,,
+4759-TRPLW,,,
+8563-IIOXK,,,
+2982-VPSGI,,,
+8199-ZLLSA,,,
+4625-EWPTF,,,
+5980-NOPLP,,,
+9874-QLCLH,,,
+6000-APYLU,,,
+0947-IDHRQ,,,
+9048-JVYVF,,,
+1902-XBTFB,,,
+2794-XIMMO,,,
+8382-SHQEH,,,
+2983-ZANRP,,,
+7845-URHJN,,,
+3034-ZBEQN,,,
+0302-JOIVN,,,
+5366-IJEQJ,,,
+1981-INRFU,,,
+4971-PUYQO,,,
+1527-SXDPN,,,
+8634-CILSZ,,,
+6682-QJDGB,,,
+8780-IXSTS,,,
+9530-EHPOH,,,
+0345-HKJVM,,,
+3049-SOLAY,,,
+3235-ETOOB,,,
+8058-INTPH,,,
+8821-XNHVZ,,,
+2082-OJVTK,,,
+5940-NFXKV,,,
+8053-WWDRO,,,
+9564-KCLHR,,,
+2082-CEFLT,,,
+1213-NGCUN,,,
+5688-KZTSN,,,
+2894-QOJRX,,,
+3143-JQEGI,,,
+6386-SZZKH,,,
+3521-SYVOR,,,
+9526-JAWYF,,,
+5649-VUKMC,,,
+4919-IKATY,,,
+9050-QLROH,,,
+0877-SDMBN,,,
+8065-YKXKD,,,
+9637-EIHEQ,,,
+9689-PTNPG,,,
+9465-RWMXL,,,
+2362-IBOOY,,,
+0843-WTBXE,,,
+5515-IDEJJ,,,
+5376-DEQCP,,,
+9095-HFAFX,,,
+2379-ENZGV,,,
+2722-VOJQL,,,
+5228-EXCET,,,
+7394-FKDNK,,,
+6331-LWDTQ,,,
+1597-FZREH,,,
+0727-IWKVK,,,
+3512-IZIKN,,,
+6141-OOXUQ,,,
+7503-ZGUZJ,,,
+8718-PTMEZ,,,
+2207-OBZNX,,,
+6142-VSJQO,,,
+6437-UKHMV,,,
+1114-CENIM,,,
+6289-CPNLD,,,
+5536-SLHPM,,,
+8837-VVWLQ,,,
+2696-NARTR,,,
+7614-QVWQL,,,
+1809-DMJHQ,,,
+6923-EFPNL,,,
+9574-RKJIF,,,
+2619-WFQWU,,,
+0778-NELLA,,,
+4614-NUVZD,,,
+3803-KMQFW,,,
+6804-GDMOI,,,
+9572-MTILT,,,
+9611-CTWIH,,,
+0329-GTIAJ,,,
+6629-CZTTH,,,
+5364-EVNIB,,,
+5087-SUURX,,,
+4929-BSTRX,,,
+2225-ZRGSG,,,
+5271-YNWVR,,,
+6330-JKLPC,,,
+4667-OHGKG,,,
+1660-HSOOQ,,,
+7253-UVNDW,,,
+7228-OMTPN,,,
+2344-JMOGN,,,
+3799-ISUZQ,,,
+1794-HBQTJ,,,
+4818-DRBQT,,,
+1320-HTRDR,,,
+1493-AMTIE,,,
+6424-ELEYH,,,
+4391-RESHN,,,
+6821-BUXUX,,,
+9801-GDWGV,,,
+2320-JRSDE,,,
+0601-WZHJF,,,
+5143-WMWOG,,,
+5393-RXQSZ,,,
+0231-LXVAP,,,
+9444-JTXHZ,,,
+5510-BOIUJ,,,
+4471-KXAUH,,,
+7638-QVMVY,,,
+3244-DCJWY,,,
+7812-FZHPE,,,
+4797-AXPXK,,,
+5229-PRWKT,,,
+5057-LCOUI,,,
+0156-FVPTA,,,
+1984-FCOWB,,,
+0654-HMSHN,,,
+5196-SGOAK,,,
+6108-OQZDQ,,,
+0363-QJVFX,,,
+9840-DVNDC,,,
+8042-JVNFH,,,
+3374-LXDEV,,,
+5049-GLYVG,,,
+5883-GTGVD,,,
+4817-QRJSX,,,
+9985-MWVIX,,,
+2237-ZFSMY,,,
+6711-VTNRE,,,
+4548-SDBKE,,,
+8066-POXGX,,,
+4143-OOBWZ,,,
+7854-EKTJL,,,
+9102-IAYHT,,,
+3422-LYEPQ,,,
+4361-JEIVL,,,
+9507-EXLTT,,,
+9846-GKXAS,,,
+6017-PPLPX,,,
+4581-SSPWD,,,
+0378-NHQXU,,,
+4512-ZUIYL,,,
+7969-AULMZ,,,
+0568-ONFPC,,,
+0733-VUNUW,,,
+4550-EVXNY,,,
+2968-SSGAA,,,
+6777-TGHTM,,,
+3538-WZPHD,,,
+8610-WFCJF,,,
+4905-JEFDW,,,
+7881-INRLC,,,
+0117-LFRMW,,,
+6172-FECYY,,,
+4786-UKSNZ,,,
+4192-GORJT,,,
+7240-ETPTR,,,
+2202-CUYXZ,,,
+5995-OIGLP,,,
+6261-RCVNS,,,
+7951-QKZPL,,,
+3640-PHQXK,,,
+8019-ENHXU,,,
+9033-EOXWV,,,
+1522-VVDMG,,,
+9185-TQCVP,,,
+8063-RJYNF,,,
+0687-ZVTHB,,,
+9661-ACXBS,,,
+3727-RJMEO,,,
+5685-IIXLY,,,
+4250-ZBWLV,,,
+5095-AESKG,,,
+1871-MOWRM,,,
+2027-OAQQC,,,
+1555-DJEQW,,,
+0519-XUZJU,,,
+6338-AVWCY,,,
+9445-SZLCH,,,
+7568-PODML,,,
+5349-IECLD,,,
+3945-GFWQL,,,
+3797-VTIDR,,,
+9526-BIHHD,,,
+4523-WXCEF,,,
+8364-TRMMK,,,
+3063-QFSZL,,,
+9249-FXSCK,,,
+5493-SDRDQ,,,
+0871-URUWO,,,
+0870-VEMYL,,,
+3982-XWFZQ,,,
+4009-ALQFH,,,
+3627-FCRDW,,,
+7562-GSUHK,,,
+4903-UYAVB,,,
+6776-TLWOI,,,
+4077-CROMM,,,
+2868-MZAGQ,,,
+4847-QNOKA,,,
+6379-RXJRQ,,,
+8650-RHRKE,,,
+0475-RIJEP,,,
+1260-TTRXI,,,
+4789-KWMXN,,,
+2867-UIMSS,,,
+8111-RKSPX,,,
+1585-MQSSU,,,
+8559-CIZFV,,,
+7547-EKNFS,,,
+4439-JMPMT,,,
+2575-GFSOE,,,
+2842-JTCCU,,,
+9681-OXGVC,,,
+7153-OANIO,,,
+6521-YYTYI,,,
+8878-HMWBV,,,
+3751-KTZEL,,,
+0328-GRPMV,,,
+4195-SMMNX,,,
+6956-SMUCM,,,
+3223-WZWJM,,,
+9053-JZFKV,,,
+2530-ENDWQ,,,
+6615-ZGEDR,,,
+9250-WYPLL,,,
+2754-XBHTB,,,
+7055-VKGDA,,,
+0754-UKWQP,,,
+7493-TPUWZ,,,
+1577-HKTFG,,,
+8752-STIVR,,,
+4558-FANTW,,,
+7623-TRNQN,,,
+9330-IJWIO,,,
+1842-EZJMK,,,
+8079-XRJRS,,,
+8073-IJDCM,,,
+2869-ADAWR,,,
+9894-EZEWG,,,
+7851-FLGGQ,,,
+0637-UBJRP,,,
+0940-OUQEC,,,
+0702-PGIBZ,,,
+1963-VAUKV,,,
+3058-HJCUY,,,
+3259-FDWOY,,,
+0807-ZABDG,,,
+5748-RNCJT,,,
+7739-LAXOG,,,
+6034-ZRYCV,,,
+2079-FBMZK,,,
+6608-QQLVK,,,
+6302-JGYRJ,,,
+3685-YLCMQ,,,
+8761-NSOBC,,,
+8413-VONUO,,,
+9223-UCPVT,,,
+4351-QLCSU,,,
+5419-JPRRN,,,
+2100-BDNSN,,,
+0488-GSLFR,,,
+9318-NKNFC,,,
+9728-FTTVZ,,,
+7254-IQWOZ,,,
+0742-NXBGR,,,
+6110-OHIHY,,,
+5889-LFOLL,,,
+5708-EVONK,,,
+8708-XPXHZ,,,
+7016-BPGEU,,,
+6876-ADESB,,,
+1963-SVUCV,,,
+0220-EBGCE,,,
+2754-VDLTR,,,
+3190-XFANI,,,
+7551-DACSP,,,
+0520-FDVVT,,,
+1444-VVSGW,,,
+5712-PTIWW,,,
+3315-TOTBP,,,
+1518-VOWAV,,,
+5909-ECHUI,,,
+1309-BXVOQ,,,
+2856-HYAPG,,,
+4488-PSYCG,,,
+6906-ANDWJ,,,
+1031-IIDEO,,,
+5832-XKAES,,,
+4701-AHWMW,,,
+9210-IAHGH,,,
+0023-XUOPT,,,
+4592-IWTJI,,,
+6518-LGAOV,,,
+7242-QZLXF,,,
+4576-CSAJH,,,
+1000-AJSLD,,,
+1062-LHZOD,,,
+9600-NAXZN,,,
+6457-USBER,,,
+4662-EKDPQ,,,
+9259-PACGQ,,,
+4415-IJZTP,,,
+1465-VINDH,,,
+2810-FTLEM,,,
+1925-TIBLE,,,
+1447-GIQMR,,,
+0872-NXJYS,,,
+9412-ARGBX,,,
+2737-WFVYW,,,
+9850-OWRHQ,,,
+8676-TRMJS,,,
+8182-PNAGI,,,
+2180-DXNEG,,,
+5515-AKOAJ,,,
+8976-OQHGT,,,
+5294-CDGWY,,,
+5295-PCJOO,,,
+9863-JZAIC,,,
+7660-HDPJV,,,
+7931-PXHFC,,,
+4919-MOAVT,,,
+3090-HAWSU,,,
+9820-RMCQV,,,
+7839-QRKXN,,,
+5204-QZXPU,,,
+4597-ELFTS,,,
+8450-JOVAH,,,
+1113-IUJYX,,,
+7758-XKCBS,,,
+8992-JQYUN,,,
+0617-AQNWT,,,
+2446-PLQVO,,,
+8784-CGILN,,,
+9451-LPGOO,,,
+2025-JKFWI,,,
+4078-SAYYN,,,
+9940-HPQPG,,,
+6618-RYATB,,,
+9079-YEXQJ,,,
+2685-SREOM,,,
+0402-CQAJN,,,
+6692-UDPJC,,,
+0295-PPHDO,,,
+1195-OIYEJ,,,
+5906-CVLHP,,,
+4501-EQDRN,,,
+2990-HWIML,,,
+7384-GHBPI,,,
+7603-USHJS,,,
+5876-HZVZM,,,
+3085-QUOZK,,,
+3926-CUQZX,,,
+1041-RXHRA,,,
+1750-CSKKM,,,
+8267-ZNYVZ,,,
+6457-GIRWB,,,
+1450-SKCVI,,,
+5570-PTWEH,,,
+6502-MJQAE,,,
+7693-LCKZL,,,
+0032-PGELS,,,
+6797-LNAQX,,,
+6394-MFYNG,,,
+8155-IBNHG,,,
+4745-LSPLO,,,
+8083-YTZES,,,
+3976-BWUCK,,,
+3585-ISXZP,,,
+4174-LPGTI,,,
+2108-XWMPY,,,
+6304-IJFSQ,,,
+0093-XWZFY,,,
+7703-ZEKEF,,,
+5482-NUPNA,,,
+1122-JWTJW,,,
+1699-HPSBG,,,
+8775-CEBBJ,,,
+0639-TSIQW,,,
+7590-VHVEG,,,
+5575-GNVDE,,,
+7795-CFOCW,,,
+1452-KIOVK,,,
+6713-OKOMC,,,
+6388-TABGU,,,
+9763-GRSKD,,,
+7469-LKBCI,,,
+8091-TTVAX,,,
+5129-JLPIS,,,
+3655-SNQYZ,,,
+8191-XWSZG,,,
+9959-WOFKT,,,
+4183-MYFRB,,,
+1680-VDCWW,,,
+3638-WEABW,,,
+6322-HRPFA,,,
+6865-JZNKO,,,
+5248-YGIJN,,,
+6827-IEAUQ,,,
+7310-EGVHZ,,,
+6234-RAAPL,,,
+6572-ADKRS,,,
+8865-TNMNX,,,
+9489-DEDVP,,,
+9867-JCZSP,,,
+4671-VJLCL,,,
+4080-IIARD,,,
+3714-NTNFO,,,
+5948-UJZLF,,,
+7639-LIAYI,,,
+2954-PIBKO,,,
+8769-KKTPH,,,
+3957-SQXML,,,
+5954-BDFSG,,,
+0434-CSFON,,,
+1215-FIGMP,,,
+0526-SXDJP,,,
+0557-ASKVU,,,
+5122-CYFXA,,,
+8627-ZYGSZ,,,
+3410-YOQBQ,,,
+3170-NMYVV,,,
+7410-OIEDU,,,
+2273-QCKXA,,,
+0731-EBJQB,,,
+8028-PNXHQ,,,
+5630-AHZIL,,,
+6416-JNVRK,,,
+5590-ZSKRV,,,
+3887-PBQAO,,,
+8108-UXRQN,,,
+9919-YLNNG,,,
+0318-ZOPWS,,,
+4445-ZJNMU,,,
+4808-YNLEU,,,
+1862-QRWPE,,,
+2796-NNUFI,,,
+3016-KSVCP,,,
+4767-HZZHQ,,,
+7233-PAHHL,,,
+6067-NGCEU,,,
+9848-JQJTX,,,
+9803-FTJCG,,,
+3212-KXOCR,,,
+6380-ARCEH,,,
+3679-XASPY,,,
+7123-WQUHX,,,
+6180-YBIQI,,,
+6728-DKUCO,,,
+9750-BOOHV,,,
+8597-CWYHH,,,
+2848-YXSMW,,,
+4549-ZDQYY,,,
+5712-AHQNN,,,
+5256-SKJGO,,,
+3071-VBYPO,,,
+9560-BBZXK,,,
+8402-OOOHJ,,,
+9445-ZUEQE,,,
+1091-SOZGA,,,
+2928-HLDBA,,,
+6497-TILVL,,,
+7219-TLZHO,,,
+4622-YNKIJ,,,
+6734-PSBAW,,,
+3930-ZGWVE,,,
+2876-GZYZC,,,
+8587-XYZSF,,,
+7799-LGRDP,,,
+7850-VWJUU,,,
+3774-VBNXY,,,
+6217-KDYWC,,,
+1095-WGNGG,,,
+2636-SJDOU,,,
+5716-EZXZN,,,
+6837-BJYDQ,,,
+6440-DKQGE,,,
+3466-BYAVD,,,
+3780-YVMFA,,,
+1679-JRFBR,,,
+9073-ZZIAY,,,
+3077-RSNTJ,,,
+6551-GNYDG,,,
+9167-APMXZ,,,
+2749-CTKAJ,,,
+6371-NZYEG,,,
+7554-NEWDD,,,
+8992-VONJD,,,
+4482-EWFMI,,,
+4648-YPBTM,,,
+2907-ILJBN,,,
+6345-FZOQH,,,
+5997-OPVFA,,,
+1159-WFSGR,,,
+7654-YWJUF,,,
+6727-IOTLZ,,,
+5918-VUKWP,,,
+1744-JHKYS,,,
+5947-SGKCL,,,
+3712-PKXZA,,,
+6582-OIVSP,,,
+5524-KHNJP,,,
+4827-USJHP,,,
+8167-GJLRN,,,
+0956-SYCWG,,,
+8017-UVSZU,,,
+7100-FQPRV,,,
+2984-RGEYA,,,
+9680-NIAUV,,,
+2146-EGVDT,,,
+2604-IJPDU,,,
+9178-JHUVJ,,,
+6168-YBYNP,,,
+7255-SSFBC,,,
+3645-DEYGF,,,
+9323-HGFWY,,,
+8544-GOQSH,,,
+3363-DTIVD,,,
+7018-WBJNK,,,
+9142-KZXOP,,,
+7674-YTAFD,,,
+6348-SNFUS,,,
+1347-KTTTA,,,
+4195-NZGTA,,,
+7157-SMCFK,,,
+4709-LKHYG,,,
+0699-NDKJM,,,
+9286-BHDQG,,,
+0230-WEQUW,,,
+2040-LDIWQ,,,
+6496-JDSSB,,,
+4443-EMBNA,,,
+6469-MRVET,,,
+5961-VUSRV,,,
+6778-JFCMK,,,
+6341-JVQGF,,,
+4811-JBUVU,,,
+0945-TSONX,,,
+2651-ZCBXV,,,
+3316-UWXUY,,,
+7083-MIOPC,,,
+1984-GPTEH,,,
+0621-JFHOL,,,
+9903-LYSAB,,,
+9227-UAQFT,,,
+7301-ABVAD,,,
+6614-FHDBO,,,
+7576-ASEJU,,,
+0303-UNCIP,,,
+0959-WHOKV,,,
+4075-JFPGR,,,
+3282-ZISZV,,,
+3675-YDUPJ,,,
+4111-BNXIF,,,
+7017-VFHAY,,,
+6655-LHBYW,,,
+7605-BDWDC,,,
+1950-KSVVJ,,,
+0123-CRBRT,,,
+6292-TOSSS,,,
+7014-ZZXAW,,,
+7633-MVPUY,,,
+8645-KWHJO,,,
+4130-MZLCC,,,
+0314-TKOSI,,,
+8229-MYEJZ,,,
+2080-SRCDE,,,
+9577-WJVCQ,,,
+6202-DYYFX,,,
+3808-HFKDE,,,
+3727-OWVYD,,,
+2294-SALNE,,,
+1563-IWQEX,,,
+8203-XJZRC,,,
+6556-DBKZF,,,
+2985-JUUBZ,,,
+0895-LMRSF,,,
+8266-VBFQL,,,
+8181-YHCMF,,,
+2240-HSJQD,,,
+1248-DYXUB,,,
+4115-BNPJY,,,
+4091-TVOCN,,,
+1098-TDVUQ,,,
+7277-OZCGZ,,,
+1557-EMYVT,,,
+5027-YOCXN,,,
+3973-SKMLN,,,
+6745-JEFZB,,,
+9880-TDQAC,,,
+8705-WZCYL,,,
+7102-JJVTX,,,
+8626-PTQGE,,,
+4983-CLMLV,,,
+9385-EHGDO,,,
+9498-FIMXL,,,
+2379-GYFLQ,,,
+2088-IEBAU,,,
+7982-VCELR,,,
+6885-PKOAM,,,
+7520-HQWJU,,,
+9639-BUJXT,,,
+5924-SNGKP,,,
+8966-SNIZF,,,
+6243-OZGFH,,,
+0513-RBGPE,,,
+5160-UXJED,,,
+8984-EYLLL,,,
+9833-TGFHX,,,
+9294-TDIPC,,,
+5229-DTFYB,,,
+0104-PPXDV,,,
+5176-LMJXE,,,
+3583-KRKMD,,,
+9069-LGEUL,,,
+7302-ZHMHP,,,
+9571-EDEBV,,,
+3520-FJGCV,,,
+6563-VRERX,,,
+6122-EFVKN,,,
+2805-EDJPQ,,,
+6862-CQUMB,,,
+7156-MXBJE,,,
+6158-HDPXZ,,,
+2863-IMQDR,,,
+5686-CMAWK,,,
+5651-CRHKQ,,,
+6583-SZVGP,,,
+1708-PBBOA,,,
+8782-LKFPK,,,
+5522-JBWMO,,,
+3597-MVHJT,,,
+9967-ATRFS,,,
+2977-CEBSX,,,
+5876-QMYLD,,,
+2277-AXSDC,,,
+9442-JTWDL,,,
+3067-SVMTC,,,
+5495-GPSRW,,,
+7606-BPHHN,,,
+4742-DRORA,,,
+4163-NCJAK,,,
+5233-AOZUF,,,
+5973-EJGDP,,,
+7916-VCCPB,,,
+4686-GEFRM,,,
+5249-QYHEX,,,
+2233-FAGXV,,,
+5605-IYGFG,,,
+7663-ZTEGJ,,,
+3935-TBRZZ,,,
+8111-BKVDS,,,
+8734-DKSTZ,,,
+4360-PNRQB,,,
+6152-ONASV,,,
+7781-HVGMK,,,
+2181-UAESM,,,
+6048-NJXHX,,,
+2320-SLKMB,,,
+4980-URKXC,,,
+4376-KFVRS,,,
+5886-VLQVU,,,
+3577-AMVUX,,,
+0771-WLCLA,,,
+0206-TBWLC,,,
+2937-FTHUR,,,
+1910-FMXJM,,,
+0732-OCQOC,,,
+5168-MSWXT,,,
+1090-ESELR,,,
+8592-PLTMQ,,,
+8847-GEOOQ,,,
+4785-FCIFB,,,
+8313-NDOIA,,,
+5149-CUZUJ,,,
+0942-KOWSM,,,
+4237-CLSMM,,,
+1452-VOQCH,,,
+4719-UMSIY,,,
+6614-VBEGU,,,
+2996-XAUVF,,,
+5968-XQIVE,,,
+8896-RAZCR,,,
+1304-BCCFO,,,
+4104-PVRPS,,,
+4431-EDMIQ,,,
+0486-LGCCH,,,
+5168-MQQCA,,,
+7971-HLVXI,,,
+9094-AZPHK,,,
+3649-JPUGY,,,
+4472-LVYGI,,,
+3552-CTCYF,,,
+6778-YSNIH,,,
+6579-JPICP,,,
+4134-BSXLX,,,
+0505-SPOOW,,,
+4374-YMUSQ,,,
+3957-HHLMR,,,
+7803-XOCCZ,,,
+5736-YEJAX,,,
+8981-FJGLA,,,
+1135-LMECX,,,
+8535-SFUTN,,,
+8677-HDZEE,,,
+2475-MROZF,,,
+3482-ABPKK,,,
+7531-GQHME,,,
+5174-ITUMV,,,
+0913-XWSCN,,,
+0750-EBAIU,,,
+3571-DPYUH,,,
+7601-GNDYK,,,
+8067-NIOYM,,,
+1403-GYAFU,,,
+4234-XTNEA,,,
+5348-CAGXB,,,
+0621-HJWXJ,,,
+5844-QVTAT,,,
+8905-IAZPF,,,
+5394-MEITZ,,,
+6859-QNXIQ,,,
+2782-LFZVW,,,
+2866-IKBTM,,,
+7129-AZJDE,,,
+2560-PPCHE,,,
+8138-EALND,,,
+3580-HYCSP,,,
+1352-HNSAW,,,
+2075-PUEPR,,,
+1982-FEBTD,,,
+5791-KAJFD,,,
+2654-VBVPB,,,
+1154-HYWWO,,,
+2501-XWWTZ,,,
+3716-UVSPD,,,
+6815-ABQFQ,,,
+7343-EOBEU,,,
+3701-SFMUH,,,
+6103-LIANB,,,
+7319-VENRZ,,,
+5846-NEQVZ,,,
+6967-QIQRV,,,
+5781-RFZRP,,,
+0308-IVGOK,,,
+7293-LSCDV,,,
+5756-JYOJT,,,
+9548-LIGTA,,,
+5150-LJNSR,,,
+8270-RKSAP,,,
+2640-LYMOV,,,
+1423-BMPBQ,,,
+2393-DIVAI,,,
+4568-KNYWR,,,
+8752-IMQOS,,,
+0742-LAFQK,,,
+0795-LAFGP,,,
+0619-OLYUR,,,
+5512-IDZEI,,,
+0459-SPZHJ,,,
+0215-BQKGS,,,
+9244-ZVAPM,,,
+8208-EUMTE,,,
+5172-MIGPM,,,
+1710-RCXUS,,,
+0374-FIUCA,,,
+5839-SUYVZ,,,
+5173-ZXXXL,,,
+1096-ADRUX,,,
+2001-MCUUW,,,
+2731-GJRDG,,,
+4723-BEGSG,,,
+6516-NKQBO,,,
+8672-OAUPW,,,
+8207-DMRVL,,,
+2804-ETQDK,,,
+7138-GIRSH,,,
+9396-ZSFLL,,,
+6464-KEXXH,,,
+5240-CAOYT,,,
+4059-IIEBK,,,
+0516-UXRMT,,,
+4851-BQDNX,,,
+5148-HKFIR,,,
+3003-CMDUU,,,
+5016-IBERQ,,,
+9931-KGHOA,,,
+1775-KWJKQ,,,
+7665-VIGUD,,,
+9411-TPQQV,,,
+7954-MLBUN,,,
+2077-DDHJK,,,
+9574-BOSMD,,,
+8404-VLQFB,,,
+2391-IPLOP,,,
+5845-BZZIB,,,
+1140-UKVZG,,,
+5183-SNMJQ,,,
+8100-PNJMH,,,
+7838-LAZFO,,,
+2085-JVGAD,,,
+8095-WANWK,,,
+3030-ZKIWL,,,
+9565-FLVCG,,,
+8755-OGKNA,,,
+2800-VEQXM,,,
+5533-RJFTJ,,,
+0214-JHPFW,,,
+5642-MHDQT,,,
+3088-FVYWK,,,
+9092-GDZKO,,,
+2324-AALNO,,,
+5760-IFJOZ,,,
+2826-UWHIS,,,
+7501-IWUNG,,,
+4957-TREIR,,,
+8040-MNRTF,,,
+1536-HBSWP,,,
+5313-FPXWG,,,
+0946-FKYTX,,,
+5076-YVXCM,,,
+8262-COGGB,,,
+6663-JOCQO,,,
+9620-QJREV,,,
+2480-JZOSN,,,
+0078-XZMHT,,,
+8338-QIUNR,,,
+1525-LNLOJ,,,
+9450-TRJUU,,,
+1766-GKNMI,,,
+6942-LBFDP,,,
+1456-TWCGB,,,
+7596-ZYWBB,,,
+3014-WJKSM,,,
+3347-YJZZE,,,
+7929-DMBCV,,,
+9661-JALZV,,,
+5433-KYGHE,,,
+4312-KFRXN,,,
+5575-TPIZQ,,,
+0114-IGABW,,,
+9944-AEXBM,,,
+1853-ARAAQ,,,
+4697-LUPSU,,,
+8434-VGEQQ,,,
+4950-HKQTE,,,
+6786-OBWQR,,,
+2753-JMMCV,,,
+6621-YOBKI,,,
+1216-JWVUX,,,
+7564-GHCVB,,,
+1173-NOEYG,,,
+7595-EHCDL,,,
+6647-ZEDXT,,,
+2521-NPUZR,,,
+4381-MHQDC,,,
+6923-JHPMP,,,
+4018-PPNDW,,,
+1635-FJFCC,,,
+6425-JWTDV,,,
+8405-IGQFX,,,
+8224-IVVPA,,,
+9477-LGWQI,,,
+1410-RSCMR,,,
+3115-CZMZD,,,
+0139-IVFJG,,,
+5730-DBDSI,,,
+0030-FNXPP,,,
+5684-FJVYR,,,
+4013-GUXND,,,
+1266-NZYUI,,,
+7969-FFOWG,,,
+4718-DHSMV,,,
+5175-WLYXL,,,
+7817-OMJNA,,,
+8728-SKJLR,,,
+3137-NYQQI,,,
+7706-DZNKK,,,
+8823-RLPWL,,,
+9505-SQFSW,,,
+3758-CKOQL,,,
+5676-CFLYY,,,
+7521-AFHAB,,,
+0285-INHLN,,,
+5125-CNDSP,,,
+4992-LTJNE,,,
+2202-OUTMO,,,
+0810-BDHAW,,,
+0229-LFJAF,,,
+7131-ZQZNK,,,
+3442-ZHHCC,,,
+5726-CVNYA,,,
+9871-ELEYA,,,
+4257-GAESD,,,
+5173-WXOQV,,,
+2040-OBMLJ,,,
+6286-ZHAOK,,,
+3807-XHCJH,,,
+8859-AXJZP,,,
+3174-AKMAS,,,
+9926-PJHDQ,,,
+7382-DFJTU,,,
+2798-NYLMZ,,,
+8098-TDCBU,,,
+3551-GAEGL,,,
+3196-NVXLZ,,,
+0036-IHMOT,,,
+4178-EGMON,,,
+4220-TINQT,,,
+5318-YKDPV,,,
+7975-TZMLR,,,
+0295-QVKPB,,,
+4335-BSMJS,,,
+9146-JRIOX,,,
+5337-IIWKZ,,,
+9650-VBUOG,,,
+3487-EARAT,,,
+2672-TGEFF,,,
+8184-WMOFI,,,
+6092-QZVPP,,,
+4625-LAMOB,,,
+0392-BZIUW,,,
+6549-NNDYT,,,
+0422-OHQHQ,,,
+6916-HIJSE,,,
+2316-ESMLS,,,
+9778-OGKQZ,,,
+7408-OFWXJ,,,
+6007-TCTST,,,
+2252-NKNSI,,,
+8713-IGZSO,,,
+7905-TVXTA,,,
+7695-PKLCZ,,,
+8374-UULRV,,,
+3224-DFQNQ,,,
+5275-PMFUT,,,
+4795-UXVCJ,,,
+9777-IQHWP,,,
+0979-MOZQI,,,
+2732-ISEZX,,,
+0323-XWWTN,,,
+1937-OTUKY,,,
+1573-LGXBA,,,
+1764-VUUMT,,,
+4713-ZBURT,,,
+3050-GBUSH,,,
+7876-AEHIG,,,
+7945-HLKEA,,,
+9342-VNIMQ,,,
+3199-NPKCN,,,
+5170-PTRKA,,,
+4661-NJEUX,,,
+0048-LUMLS,,,
+5898-IGSLP,,,
+7997-EASSD,,,
+0730-KOAVE,,,
+8975-SKGRX,,,
+0678-RLHVP,,,
+2267-FPIMA,,,
+1051-GEJLJ,,,
+5285-MVEHD,,,
+0379-DJQHR,,,
+5543-QDCRY,,,
+0297-RBCSG,,,
+4694-PHWFW,,,
+0835-JKADZ,,,
+3865-YIOTT,,,
+5993-BQHEA,,,
+6024-RUGGH,,,
+4079-WWQQQ,,,
+6103-BOCOU,,,
+5149-TGWDZ,,,
+7471-WNSUF,,,
+8942-DBMHZ,,,
+4301-VVZKA,,,
+9199-PWQVC,,,
+5393-HJZSM,,,
+0862-PRCBS,,,
+8812-ZRHFP,,,
+5146-CBVOE,,,
+0454-OKRCT,,,
+5787-KXGIY,,,
+4198-VFOEA,,,
+5709-LVOEQ,,,
+2692-AQCPF,,,
+0347-UBKUZ,,,
+0835-DUUIQ,,,
+0811-GSDTP,,,
+7567-ECMCM,,,
+6115-ZTBFQ,,,
+6353-BRMMA,,,
+6231-WFGFH,,,
+6169-PPETC,,,
+8584-KMVXD,,,
+8467-WYNSR,,,
+0851-DFJKB,,,
+5382-SOYZL,,,
+3261-CQXOL,,,
+8388-FYNPZ,,,
+4002-BQWPQ,,,
+5651-YLPRD,,,
+4378-BZYFP,,,
+7764-BDPEE,,,
+3429-IFLEM,,,
+5002-GCQFH,,,
+0556-FJEGU,,,
+0604-THJFP,,,
+5879-SESNB,,,
+6461-PPAXN,,,
+3318-ISQFQ,,,
+1106-HRLKZ,,,
+2483-XSSMZ,,,
+8165-ZJRNM,,,
+2604-XVDAM,,,
+3717-OFRTN,,,
+9046-JBFWA,,,
+3280-NMUVX,,,
+1206-EHBDD,,,
+8361-LBRDI,,,
+4883-KCPZJ,,,
+9108-EQPNQ,,,
+7277-KAMWT,,,
+2545-LXYVJ,,,
+3234-VKACU,,,
+8120-JDCAM,,,
+8917-FAEMR,,,
+7047-YXDMZ,,,
+0929-HYQEW,,,
+6614-YOLAC,,,
+7426-RHZGU,,,
+4065-JJAVA,,,
+7649-SIJJF,,,
+9361-YNQWJ,,,
+3748-FVMZZ,,,
+9391-TTOYH,,,
+1452-XRSJV,,,
+3422-WJOYD,,,
+7147-AYBAA,,,
+6732-FZUGP,,,
+8329-GWVPJ,,,
+1352-VHKAJ,,,
+2632-TACXW,,,
+8146-QQKZH,,,
+1767-CJKBA,,,
+6445-TNRXS,,,
+4581-LNWUM,,,
+4869-EPIUS,,,
+1915-OAKWD,,,
+7296-PIXQY,,,
+3354-OADJP,,,
+3524-WQDSG,,,
+0810-DHDBD,,,
+4026-SKKHW,,,
+2829-HYVZP,,,
+3845-JHAMY,,,
+7013-PSXHK,,,
+3486-NPGST,,,
+6100-FJZDG,,,
+1730-VFMWO,,,
+7143-BQIBA,,,
+3800-LYTRK,,,
+9646-NMHXE,,,
+7030-NJVDP,,,
+7771-ZONAT,,,
+2111-DWYHN,,,
+4194-WHFCB,,,
+4121-AGSIN,,,
+0455-XFASS,,,
+0301-KOBTQ,,,
+4367-NUYAO,,,
+9170-ARBTB,,,
+7241-AJHFS,,,
+4546-FOKWR,,,
+9036-CSKBW,,,
+5832-TRLPB,,,
+8590-YFFQO,,,
+8659-IOOPU,,,
+1338-CECEE,,,
+7439-DKZTW,,,
+4646-QZXTF,,,
+9742-XOKTS,,,
+6921-OZMFH,,,
+9578-FOMUK,,,
+4712-UYOOI,,,
+7722-CVFXN,,,
+8717-VCTXJ,,,
+7363-QTBIW,,,
+4159-NAAIX,,,
+0971-QIFJK,,,
+9397-TZSHA,,,
+3391-JSQEW,,,
+0343-QLUZP,,,
+3312-UUMZW,,,
+1271-UODNO,,,
+8461-EFQYM,,,
+6900-RBKER,,,
+6891-JPYFF,,,
+1459-QNFQT,,,
+1047-NNCBF,,,
+3696-XRIEN,,,
+0074-HDKDG,,,
+8791-GFXLZ,,,
+9330-DHBFL,,,
+0098-BOWSO,,,
+5859-HZYLF,,,
+3156-QLHBO,,,
+2208-NQBCT,,,
+6621-NRZAK,,,
+0831-JNISG,,,
+0774-IFUVM,,,
+9553-DLCLU,,,
+1641-BYBTK,,,
+2446-ZKVAF,,,
+3522-CDKHF,,,
+1430-SFQSA,,,
+0411-EZJZE,,,
+8807-ARQET,,,
+8992-CEUEN,,,
+4320-QMLLA,,,
+8777-PVYGU,,,
+8292-ITGYJ,,,
+6870-ZWMNX,,,
+0621-CXBKL,,,
+5334-JLAXU,,,
+9359-UGBTK,,,
+6479-OAUSD,,,
+7129-ACFOG,,,
+4189-NAKJS,,,
+5562-BETPV,,,
+9127-FHJBZ,,,
+6994-ORCWG,,,
+1346-UFHAX,,,
+2933-XEUJM,,,
+4835-YSJMR,,,
+3164-YAXFY,,,
+0887-WBJVH,,,
+4660-IRIBM,,,
+7670-ZBPOQ,,,
+0080-OROZO,,,
+3916-NRPAP,,,
+6807-SIWJI,,,
+8221-HVAYI,,,
+5232-NXPAY,,,
+8967-SZQAS,,,
+0455-ENTCR,,,
+8944-AILEF,,,
+5542-NKVRU,,,
+7126-RBHSD,,,
+5370-IIVVL,,,
+6789-HJBWG,,,
+9087-EYCPR,,,
+6791-YBNAK,,,
+6077-BDPXA,,,
+0013-MHZWF,,,
+8268-YDIXR,,,
+4291-SHSBH,,,
+6980-IMXXE,,,
+0040-HALCW,,,
+0784-GTUUK,,,
+2294-DMMUS,,,
+0872-JCPIB,,,
+3055-MJDSB,,,
+9091-WTUUY,,,
+7115-IRDHS,,,
+8496-DMZUK,,,
+2040-VZIKE,,,
+9068-VPWQQ,,,
+0178-SZBHO,,,
+0384-RVBPI,,,
+1299-AURJA,,,
+4525-VZCZG,,,
+2788-CJQAQ,,,
+0319-QZTCO,,,
+2120-SMPEX,,,
+0096-FCPUF,,,
+0668-OGMHD,,,
+9408-HRXRK,,,
+5593-SUAOO,,,
+6766-HFKLA,,,
+7617-EYGLW,,,
+2226-ICFDO,,,
+5529-GIBVH,,,
+9992-UJOEL,,,
+4741-WWJQZ,,,
+6625-UTXEW,,,
+6244-BESBM,,,
+2612-PHGOX,,,
+8480-PPONV,,,
+8780-IHCRN,,,
+4598-ZADCK,,,
+1257-SXUXQ,,,
+7182-OVLBJ,,,
+5095-ETBRJ,,,
+4821-WQOYN,,,
+4730-AWNAU,,,
+3452-FLHYD,,,
+9531-NSBMR,,,
+6260-ONULR,,,
+4389-UEFCZ,,,
+8711-LOBKY,,,
+8985-OOPOS,,,
+8800-ZKRFW,,,
+2616-FLVQC,,,
+9968-FFVVH,,,
+8390-FESFV,,,
+3022-BEXHZ,,,
+6248-TKCQV,,,
+6198-ZFIOJ,,,
+5989-OMNJE,,,
+1291-CUOCY,,,
+9795-SHUHB,,,
+3230-IUALN,,,
+0042-RLHYP,,,
+4945-RVMTE,,,
+1866-NXPSP,,,
+3941-XTSKM,,,
+1661-CZBAU,,,
+5158-RIVOP,,,
+9788-YTFGE,,,
+9277-JOOMO,,,
+1907-YLNYW,,,
+8947-YRTDV,,,
+3161-ONRWK,,,
+0114-RSRRW,,,
+4565-NLZBV,,,
+6682-VCIXC,,,
+6475-VHUIZ,,,
+3910-MRQOY,,,
+0661-WCQNQ,,,
+7537-RBWEA,,,
+4656-CAURT,,,
+0121-SNYRK,,,
+3733-LSYCE,,,
+6265-FRMTQ,,,
+1371-DWPAZ,,,
+2017-CCBLH,,,
+7690-KPNCU,,,
+0536-BGFMZ,,,
+2293-IJWPS,,,
+5469-NUJUR,,,
+2625-TRCZQ,,,
+4102-HLENU,,,
+7266-GSSJX,,,
+7722-VJRQD,,,
+7073-QETQY,,,
+5624-RYAMH,,,
+0196-JTUQI,,,
+7130-YXBRO,,,
+9272-LSVYH,,,
+3084-DOWLE,,,
+1084-MNSMJ,,,
+6250-CGGUN,,,
+5478-JJVZK,,,
+7596-IIWYC,,,
+9793-WECQC,,,
+4291-HPAXL,,,
+8999-YPYBV,,,
+1839-FBNFR,,,
+3071-MVJCD,,,
+1697-BCSHV,,,
+0562-KBDVM,,,
+1131-SUEKT,,,
+3717-OEAUQ,,,
+4538-WNTMJ,,,
+9432-RUVSL,,,
+8060-HIWJJ,,,
+7684-XSZIY,,,
+9089-UOWJG,,,
+8039-ACLPL,,,
+9885-AIBVB,,,
+1934-MKPXS,,,
+2592-YKDIF,,,
+2272-JKMSI,,,
+8714-CTZJW,,,
+3569-EDBPQ,,,
+3131-NWVFJ,,,
+7521-YXVZY,,,
+2373-NTKOD,,,
+1970-KKFWL,,,
+9337-SRRNI,,,
+0895-UADGO,,,
+5678-VFNEQ,,,
+5977-CKHON,,,
+1830-GGFNM,,,
+5302-BDJNT,,,
+5223-UZAVK,,,
+4859-ZSRDZ,,,
+9350-VLHMB,,,
+3498-LZGQZ,,,
+8785-CJSHH,,,
+3870-SPZSI,,,
+7560-QRBXH,,,
+7077-XJMET,,,
+4652-ODEVH,,,
+6510-UPNKS,,,
+6718-BDGHG,,,
+9046-DQMTP,,,
+6439-LAJXL,,,
+1666-JZPZT,,,
+5777-KJIRB,,,
+7677-SJJJK,,,
+3253-HKOKL,,,
+7055-HNEOJ,,,
+5514-YQENT,,,
+3211-AAPKX,,,
+8445-DNBAE,,,
+2958-NHPPS,,,
+1735-XMJVH,,,
+6890-PFRQX,,,
+5899-OUVKV,,,
+8681-ICONS,,,
+1621-YNCJH,,,
+6362-QHAFM,,,
+3070-BDOQC,,,
+6234-PFPXL,,,
+9824-QCJPK,,,
+4283-IVYCI,,,
+1866-OBPNR,,,
+8205-MQUGY,,,
+8970-ANWXO,,,
+9480-BQJEI,,,
+6979-TNDEU,,,
+9777-WJJPR,,,
+9495-SKLKD,,,
+5067-DGXLL,,,
+6281-FKEWS,,,
+8898-KASCD,,,
+9242-TKFSV,,,
+0743-HNPFG,,,
+5035-PGZXH,,,
+8695-WDYEA,,,
+6543-JXSOO,,,
+8605-ITULD,,,
+6416-YJTTB,,,
+4472-VESGY,,,
+3195-TQDZX,,,
+3128-YOVTD,,,
+7041-TXQJH,,,
+5014-GSOUQ,,,
+5724-BIDBU,,,
+1769-GRUIK,,,
+8819-WFGGJ,,,
+7427-AUFPY,,,
+7898-PDWQE,,,
+9972-EWRJS,,,
+9314-IJWSQ,,,
+5799-JRCZO,,,
+1921-KYSAY,,,
+6198-RTPMF,,,
+2924-KHUVI,,,
+1925-GMVBW,,,
+6184-DYUOB,,,
+9207-ZPANB,,,
+9327-QSDED,,,
+1656-DRSMG,,,
+3012-VFFMN,,,
+2984-AFWNC,,,
+0640-YJTPY,,,
+8096-LOIST,,,
+9764-REAFF,,,
+7107-UBYKY,,,
+4881-GQJTW,,,
+7876-DNYAP,,,
+2882-WDTBA,,,
+2091-GPPIQ,,,
+5071-FBJFS,,,
+2796-UUZZO,,,
+2429-AYKKO,,,
+9798-OPFEM,,,
+3794-NFNCH,,,
+5193-QLVZB,,,
+7114-AEOZE,,,
+5522-NYKPB,,,
+6518-KZXCB,,,
+2245-ADZFJ,,,
+7776-QGYJC,,,
+9313-QOLTZ,,,
+4672-FOTSD,,,
+9818-XQCUV,,,
+7338-ERIVA,,,
+8259-NFJTV,,,
+6968-GMKPR,,,
+4751-ERMAN,,,
+1436-ZMJAN,,,
+0799-DDIHE,,,
+3070-FNFZQ,,,
+2812-SFXMJ,,,
+5014-WUQMG,,,
+5312-TSZVC,,,
+2782-JEEBU,,,
+5127-BZENZ,,,
+2720-FVBQP,,,
+4522-XRWWI,,,
+3766-EJLFL,,,
+5939-SXWHM,,,
+7643-RCHXS,,,
+8246-SHFGA,,,
+0620-XEFWH,,,
+6485-QXWWE,,,
+7321-VGNKU,,,
+5327-CNLUQ,,,
+7552-KEYGT,,,
+5816-JMLGY,,,
+2927-QRRQV,,,
+6265-SXWBU,,,
+7941-RCJOW,,,
+2387-KDZQY,,,
+3584-WKTTW,,,
+3399-BMLVW,,,
+1971-DTCZB,,,
+3374-PZLXD,,,
+3813-DHBBB,,,
+2812-REYAT,,,
+6518-PPLMZ,,,
+4939-KYYPY,,,
+5930-GBIWP,,,
+6022-KOUQO,,,
+2361-UPSND,,,
+6035-RIIOM,,,
+9504-DSHWM,,,
+5035-BVCXS,,,
+3533-UVMOM,,,
+1478-VPOAD,,,
+9995-HOTOH,,,
+2988-PLAHS,,,
+1371-OJCEK,,,
+4999-IEZLT,,,
+8883-ANODQ,,,
+2351-RRBUE,,,
+5980-BDHPY,,,
+1498-DQNRX,,,
+9469-WEJBT,,,
+2581-VKIRT,,,
+2851-MMUTZ,,,
+3307-TLCUD,,,
+6625-FLENO,,,
+2967-MXRAV,,,
+8189-HBVRW,,,
+4163-KIUHY,,,
+3500-NSDOA,,,
+1171-TYKUR,,,
+1219-NNDDO,,,
+8388-DMKAE,,,
+4403-BWPAY,,,
+9659-QEQSY,,,
+5405-ZMYXQ,,,
+1442-OKRJE,,,
+4737-AQCPU,,,
+2808-CHTDM,,,
+0793-TWELN,,,
+3283-WCWXT,,,
+5451-MHQOF,,,
+4836-WNFNO,,,
+9225-BZLNZ,,,
+0354-VXMJC,,,
+4422-QVIJA,,,
+8332-OSJDW,,,
+4735-BJKOU,,,
+0274-JKUJR,,,
+5740-YHGTW,,,
+8917-SZTTJ,,,
+1696-MZVAU,,,
+7359-WWYJV,,,
+4906-ZHGPK,,,
+3795-GWTRD,,,
+1298-PHBTI,,,
+6223-DHJGV,,,
+6961-MJKBO,,,
+8158-WPEZG,,,
+0727-BNRLG,,,
+6435-SRWBJ,,,
+9964-WBQDJ,,,
+6303-KFWSL,,,
+1702-CCFNJ,,,
+8932-CZHRQ,,,
+0386-CWRGM,,,
+5515-RUGKN,,,
+0404-AHASP,,,
+7279-NMVJC,,,
+2081-VEYEH,,,
+9060-HJJRW,,,
+2587-YNLES,,,
+7398-SKNQZ,,,
+1958-RNRKS,,,
+5136-RGMZO,,,
+8345-MVDYC,,,
+8226-BXGES,,,
+1015-OWJKI,,,
+2040-XBAVJ,,,
+8887-IPQNC,,,
+8646-JCOMS,,,
+1222-KJNZD,,,
+0106-GHRQR,,,
+3768-VHXQO,,,
+8952-WCVCD,,,
+2418-TPEUN,,,
+3963-RYFNS,,,
+8540-ZQGEA,,,
+4137-JOPHL,,,
+7801-CEDNV,,,
+3658-QQJYD,,,
+1803-BGNBD,,,
+6950-TWMYB,,,
+5848-FHRFC,,,
+2243-FNMMI,,,
+2511-MORQY,,,
+5356-KZCKT,,,
+9470-XCCEM,,,
+6519-CFDBX,,,
+3902-MIVLE,,,
+0409-WTMPL,,,
+8763-KIAFH,,,
+3669-WHAFY,,,
+3055-VTCGS,,,
+3144-KMTWZ,,,
+2007-QVGAW,,,
+5207-PLSTK,,,
+2155-AMQRX,,,
+6181-AXXYF,,,
+5091-HFAZW,,,
+1568-LJSZU,,,
+7416-CKTEP,,,
+2586-CWXVV,,,
+2348-KCJLT,,,
+8401-EMUWF,,,
+4193-IBKSW,,,
+5377-NDTOU,,,
+2474-LCNUE,,,
+0839-QNXME,,,
+3506-OVLKD,,,
+6650-VJONK,,,
+2178-PMGCJ,,,
+7492-TAFJD,,,
+2773-MADBQ,,,
+6016-LVTJQ,,,
+7860-KSUGX,,,
+8966-KZXXA,,,
+5149-QYTTU,,,
+2085-BOJKI,,,
+0817-HSUSE,,,
+5442-PPTJY,,,
+1927-QEWMY,,,
+1663-MHLHE,,,
+4450-MDZFX,,,
+6701-DHKWQ,,,
+7554-AKDQF,,,
+0794-YVSGE,,,
+5423-BHIXO,,,
+6908-VVYHM,,,
+2959-EEXWB,,,
+1839-UMACK,,,
+3030-YDNRM,,,
+7321-KKSDU,,,
+8286-AFUYI,,,
+8356-WUAOJ,,,
+9350-ZXYJC,,,
+8958-JPTRR,,,
+6959-GQEGV,,,
+3173-WSSUE,,,
+1265-HVPZB,,,
+4115-UMJFQ,,,
+7369-TRPFD,,,
+1098-KFQEC,,,
+7190-XHTWJ,,,
+5296-BFCYD,,,
+9359-JANWS,,,
+3279-DYZQM,,,
+9575-IWCAZ,,,
+7940-UQQUG,,,
+3961-SXAXY,,,
+7010-BRBUU,,,
+3566-HJGPK,,,
+3062-ICYZQ,,,
+9938-PRCVK,,,
+0973-KYVNF,,,
+5129-HHMZC,,,
+9637-CDTKZ,,,
+3946-JEWRQ,,,
+7873-CVMAW,,,
+0463-WZZKO,,,
+4524-QCSSM,,,
+5832-EXGTT,,,
+2039-JONDJ,,,
+7217-JYHOQ,,,
+6695-FRVEC,,,
+9894-QMIMJ,,,
+8069-YQQAJ,,,
+3466-WAESX,,,
+9281-PKKZE,,,
+3638-VBZTA,,,
+7459-IMVYU,,,
+8563-OYMQY,,,
+0754-EEBDC,,,
+5777-ZPQNC,,,
+1951-IEYXM,,,
+3318-NMQXL,,,
+1022-RKXDR,,,
+2361-FJWNO,,,
+2272-UOINI,,,
+8232-UTFOZ,,,
+3750-YHRYO,,,
+6637-KYRCV,,,
+5668-MEISB,,,
+0129-QMPDR,,,
+7188-CBBBA,,,
+5356-CSVSQ,,,
+3221-CJMSG,,,
+2801-NISEI,,,
+4623-ZKHLY,,,
+6732-VAILE,,,
+8201-AAXCB,,,
+7696-CFTAT,,,
+2123-VSCOT,,,
+2018-QKYGT,,,
+2792-VPPET,,,
+7409-JURKQ,,,
+3247-MHJKM,,,
+1964-SVLEA,,,
+7297-DVYGA,,,
+2239-CGBUZ,,,
+0854-UYHZD,,,
+7243-LCGGZ,,,
+8267-KFGYD,,,
+4890-VMUAV,,,
+9261-WDCAF,,,
+3764-MNMOI,,,
+7442-YGZFK,,,
+8229-BUJHX,,,
+7449-HVPIV,,,
+5504-WSIUR,,,
+8466-PZBLH,,,
+8735-IJJEG,,,
+0564-MUUQK,,,
+0701-RFGFI,,,
+0019-EFAEP,,,
+5619-PTMIK,,,
+3737-XBQDD,,,
+5882-CMAZQ,,,
+5846-QFDFI,,,
+4445-KWOKW,,,
+3511-APPBJ,,,
+7967-HYCDE,,,
+2430-RRYUW,,,
+5447-WZAFP,,,
+5110-CHOPY,,,
+4425-OWHWB,,,
+7892-QVYKW,,,
+9675-ICXCT,,,
+4703-MQYKT,,,
+0602-DDUML,,,
+2208-MPXIO,,,
+1960-UYCNN,,,
+3190-FZATL,,,
+7336-RLLRH,,,
+7710-JSYOA,,,
+9885-MFVSU,,,
+0607-MVMGC,,,
+3365-SAIGS,,,
+8022-BECSI,,,
+9993-LHIEB,,,
+0266-CLZKZ,,,
+3977-QCRSL,,,
+0017-DINOC,,,
+7639-OPLNG,,,
+1492-QGCLU,,,
+7328-OWMOM,,,
+4418-LZMSV,,,
+5155-AZQPB,,,
+1087-GRUYI,,,
+2546-KZAAT,,,
+0181-RITDD,,,
+5989-PGKJB,,,
+8272-ONJLV,,,
+1488-PBLJN,,,
+3778-FOAQW,,,
+4452-ROHMO,,,
+3090-LETTY,,,
+5349-AZPEW,,,
+9720-JJJOR,,,
+8100-HZZLJ,,,
+7398-HPYZQ,,,
+3546-GHEAE,,,
+2550-QHZGP,,,
+7519-JTWQH,,,
+2538-OIMXF,,,
+8543-MSDMF,,,
+1170-SASML,,,
+4872-JCVCA,,,
+5346-BZCHP,,,
+2038-LLMLM,,,
+1216-BGTSP,,,
+4138-NAXED,,,
+0744-BIKKF,,,
+7483-IQWIB,,,
+5248-KWLAR,,,
+7996-MHXLW,,,
+7833-PKIHD,,,
+7061-OVMIM,,,
+5153-RTHKF,,,
+1852-QSWCD,,,
+9079-LWTFD,,,
+3392-EHMNK,,,
+5986-WWXDV,,,
+3061-BCKYI,,,
+7228-PAQPD,,,
+7746-QYVCO,,,
+5804-HYIEZ,,,
+5934-TSSAU,,,
+3486-KHMLI,,,
+6784-XYJAE,,,
+3933-DQPWX,,,
+6661-EIPZC,,,
+8957-THMOA,,,
+2251-PYLPB,,,
+5555-RNPGT,,,
+1057-FOGLZ,,,
+8087-LGYHQ,,,
+4137-BTIKL,,,
+2190-BCXEC,,,
+6227-FBDXH,,,
+2911-WDXMV,,,
+4547-FZJWE,,,
+7422-WNBTY,,,
+0842-IWYCP,,,
+3521-HTQTV,,,
+3744-ZBHON,,,
+3373-DIUUN,,,
+8383-SGHJU,,,
+7607-QKKTJ,,,
+7707-PYBBH,,,
+8984-HPEMB,,,
+4139-DETXS,,,
+9779-DPNEJ,,,
+9805-FILKB,,,
+5793-YOLJN,,,
+0673-IGUQO,,,
+4123-FCVCB,,,
+8819-IMISP,,,
+8311-UEUAB,,,
+5858-EAFCZ,,,
+1163-ONYEY,,,
+5656-MJEFC,,,
+6082-OQFBA,,,
+8974-OVACP,,,
+4010-YLMVT,,,
+1379-FRVEB,,,
+8612-GXIDD,,,
+6288-CHQJB,,,
+8160-HOWOX,,,
+6648-INWPS,,,
+4223-BKEOR,,,
+1763-WQFUK,,,
+1391-UBDAR,,,
+8894-JVDCV,,,
+2023-VQFDL,,,
+1345-GKDZZ,,,
+2014-MKGMH,,,
+5628-FCGYG,,,
+2560-WBWXF,,,
+0248-IPDFW,,,
+7978-DKUQH,,,
+4335-UPJSI,,,
+1784-EZDKJ,,,
+9297-FVVDH,,,
+8007-YYPWD,,,
+7101-HRBLJ,,,
+6635-CPNUN,,,
+5453-YBTWV,,,
+5039-LZRQT,,,
+6418-PIQSP,,,
+8220-OCUFY,,,
+3995-WFCSM,,,
+1895-QTKDO,,,
+2038-OEQZH,,,
+1178-PZGAB,,,
+2626-VEEWG,,,
+1657-DYMBM,,,
+7311-MQJCH,,,
+1136-XGEQU,,,
+2530-FMFXO,,,
+6844-DZKRF,,,
+5970-GHJAW,,,
+8879-XUAHX,,,
+3689-MOZGR,,,
+4195-PNGZS,,,
+5003-XZWWO,,,
+6922-NCEDI,,,
+9891-NQDBD,,,
+6131-IUNXN,,,
+8548-AWOFC,,,
+9798-DRYDS,,,
+8532-UEFWH,,,
+6296-DDOOR,,,
+7951-VRDVK,,,
+4815-YOSUK,,,
+4365-MSDYN,,,
+7036-TYDEC,,,
+5802-ADBRC,,,
+8076-FEZKJ,,,
+5197-YPYBZ,,,
+4312-GVYNH,,,
+0839-JTCUD,,,
+5494-WOZRZ,,,
+2234-EOFPT,,,
+8619-IJNDK,,,
+8378-LKJAF,,,
+1153-GNOLC,,,
+3298-QEICA,,,
+0788-DXBFY,,,
+3496-LFSZU,,,
+5242-UOWHD,,,
+6479-SZPLM,,,
+8097-VBQTZ,,,
+4500-HKANN,,,
+9917-KWRBE,,,
+2212-LYASK,,,
+1393-IMKZG,,,
+8069-RHUXK,,,
+2908-WGAXL,,,
+3378-AJRAO,,,
+6050-FFXES,,,
+0362-RAOQO,,,
+9554-DFKIC,,,
+5527-ACHSO,,,
+0829-DDVLK,,,
+1399-UBQIU,,,
+1813-JLKWR,,,
+9537-VHDTA,,,
+4957-TIALW,,,
+2054-PJOCK,,,
+9150-HEPMB,,,
+9030-QGZNL,,,
+3126-WQMGH,,,
+7176-WRTNX,,,
+9239-GZHZE,,,
+7205-BAIAD,,,
+8064-RAVOH,,,
+0219-QAERP,,,
+8963-JLGJT,,,
+2135-DQWAQ,,,
+4056-QHXHZ,,,
+7401-JIXNM,,,
+9339-FIIJL,,,
+6670-MFRPK,,,
+6177-PEVRA,,,
+4813-HQMGZ,,,
+7579-KKLOE,,,
+8402-EIVQS,,,
+4947-DSMXK,,,
+7245-NIIWQ,,,
+0002-ORFBO,,,
+3324-OIRTO,,,
+5414-OFQCB,,,
+4967-WPNCF,,,
+8499-BRXTD,,,
+9154-QDGTH,,,
+8197-BFWVU,,,
+2577-GVSIL,,,
+9367-OIUXP,,,
+6770-UAYGJ,,,
+6463-HHXJR,,,
+7928-VJYAB,,,
+1187-WILMM,,,
+1306-RPWXZ,,,
+3097-PYWXL,,,
+2266-SJNAT,,,
+2972-YDYUW,,,
+1104-FEJAM,,,
+2809-ILCYT,,,
+5499-ECUTN,,,
+4981-FLTMF,,,
+3113-IWHLC,,,
+4277-BWBML,,,
+0234-TEVTT,,,
+4304-TSPVK,,,
+1552-AAGRX,,,
+2637-FKFSY,,,
+7874-ECPQJ,,,
+0020-INWCK,,,
+7089-RKVSZ,,,
+2683-JXWQQ,,,
+9548-ZMVTX,,,
+8739-XNIKG,,,
+9755-JHNMN,,,
+3981-QSVQI,,,
+2789-HQBOU,,,
+9424-CMPOG,,,
+5067-WJEUN,,,
+3450-WXOAT,,,
+9251-WNSOD,,,
+6974-DAFLI,,,
+2616-UUTFK,,,
+7064-JHXCE,,,
+7989-AWGEH,,,
+4373-VVHQL,,,
+4559-UWIHT,,,
+6650-BWFRT,,,
+9570-KYEUA,,,
+6993-YGFJV,,,
+2712-SYWAY,,,
+0730-BGQGF,,,
+5498-IBWPI,,,
+9101-NTIXF,,,
+9314-QDMDW,,,
+9308-ANMVE,,,
+3413-DHLPB,,,
+7649-PHJVR,,,
+6114-TCFID,,,
+3787-TRIAL,,,
+5156-UMKOW,,,
+1247-QBVSH,,,
+6734-GMPVK,,,
+9822-OAOVB,,,
+6161-ERDGD,,,
+1226-JZNKR,,,
+7318-EIVKO,,,
+3771-PZOBW,,,
+8231-BSWXX,,,
+7389-KBFIT,,,
+7176-WIONM,,,
+5141-ZUVBH,,,
+7623-HKYRK,,,
+0310-SUCIN,,,
+5197-PYEPU,,,
+6619-RPLQZ,,,
+3275-RHRNE,,,
+3503-TYDAY,,,
+6901-GOGZG,,,
+7021-XSNYE,,,
+9621-OUPYD,,,
+8982-NHAVY,,,
+4307-KWMXE,,,
+2450-ZKEED,,,
+3694-DELSO,,,
+3893-JRNFS,,,
+1133-KXCGE,,,
+0142-GVYSN,,,
+1049-FYSYG,,,
+1821-BUCWY,,,
+8314-DPQHL,,,
+1465-WCZVT,,,
+9481-SFCQY,,,
+0567-GGCAC,,,
+8884-MRNSU,,,
+2171-UDMFD,,,
+9802-CAQUT,,,
+0187-WZNAB,,,
+1475-VWVDO,,,
+1357-MVDOZ,,,
+7602-MVRMB,,,
+5406-KGRMX,,,
+5968-HYJRZ,,,
+7140-ADSMJ,,,
+2230-XTUWL,,,
+7706-YLMQA,,,
+2585-KTFRE,,,
+7994-UYIVZ,,,
+7717-BICXI,,,
+6559-RAKOZ,,,
+4716-MRVEN,,,
+2143-LJULT,,,
+3200-MNQTF,,,
+6164-HXUGH,,,
+5630-IXDXV,,,
+0320-DWVTU,,,
+9135-MGVPY,,,
+1212-GLHMD,,,
+7878-JGDKK,,,
+1088-AUUZZ,,,
+9588-OZDMQ,,,
+6476-EPYZR,,,
+1174-FGIFN,,,
+6620-HVDUJ,,,
+1032-MAELW,,,
+7641-TQFHN,,,
+1552-TKMXS,,,
+8622-ZLFKO,,,
+6188-UXBBR,,,
+2333-KWEWW,,,
+5702-SKUOB,,,
+1134-YWTYF,,,
+6061-GWWAV,,,
+0679-TDGAK,,,
+6585-WCEWR,,,
+9067-YGSCA,,,
+9067-SQTNS,,,
+1776-SPBWV,,,
+9668-PUGNU,,,
+9405-GPBBG,,,
+1926-QUZNN,,,
+5829-NVSQN,,,
+9565-AXSMR,,,
+8869-LIHMK,,,
+0447-RXSGD,,,
+4927-WWOOZ,,,
+5788-YPOEG,,,
+0661-KBKPA,,,
+9081-WWXKP,,,
+0784-ZQJZX,,,
+3133-PZNSR,,,
+0722-SVSFK,,,
+3612-YVGSJ,,,
+5397-NSKQG,,,
+8565-HBFNN,,,
+8670-ERCJH,,,
+7758-UJWYS,,,
+2050-ONYDQ,,,
+7055-JCGNI,,,
+0739-UUAJR,,,
+4826-DXMUP,,,
+7285-KLOTR,,,
+0654-PQKDW,,,
+7175-NTIXE,,,
+7963-SHNDT,,,
+0188-GWFLE,,,
+8129-GMVGI,,,
+2882-DDZPG,,,
+3547-LQRIK,,,
+5843-TTHGI,,,
+1849-RJYIG,,,
+8868-GAGIO,,,
+4061-UKJWL,,,
+5380-XPJNZ,,,
+8263-QMNTJ,,,
+3230-JCNZS,,,
+0277-ORXQS,,,
+7996-BPXHY,,,
+3227-WLKLI,,,
+2266-FUBDZ,,,
+8237-ULIXL,,,
+8216-AZUUZ,,,
+9153-BTBVV,,,
+5186-PEIZU,,,
+1074-AMIOH,,,
+4361-FEBGN,,,
+0380-ZCSBI,,,
+7145-FEJWU,,,
+3969-JQABI,,,
+9624-EGDEQ,,,
+1051-EQPZR,,,
+5849-ASHZJ,,,
+5780-INQIK,,,
+8384-FZBJK,,,
+3750-RNQKR,,,
+0962-CQPWQ,,,
+3096-YXENJ,,,
+1265-BCFEO,,,
+5837-LXSDN,,,
+5945-AZYHT,,,
+8325-QRPZR,,,
+6384-VMJHP,,,
+2262-SLNVK,,,
+7730-CLDSV,,,
+1135-HIORI,,,
+0164-APGRB,,,
+6481-ESCNL,,,
+1790-NESIO,,,
+1550-EENBN,,,
+8198-RKSZG,,,
+9297-EONCV,,,
+1069-QJOEE,,,
+7799-DSEWS,,,
+8766-PAFNE,,,
+3130-ICDUP,,,
+0820-FNRNX,,,
+0880-FVFWF,,,
+4611-ANLQC,,,
+4213-HKBJO,,,
+2792-LSHWX,,,
+0014-BMAQU,,,
+9018-PCIOK,,,
+4837-QUSFT,,,
+9953-ZMKSM,,,
+7665-NKLAV,,,
+4391-LNRXK,,,
+8562-GHPPI,,,
+5893-PYOLZ,,,
+4986-MXSFP,,,
+6131-FOYAS,,,
+3027-YNWZU,,,
+5609-IMCGG,,,
+4727-MCYZG,,,
+9481-WHGWY,,,
+4328-VUFWD,,,
+3301-LSLWQ,,,
+7473-ZBDSN,,,
+3166-PNEOF,,,
+5639-NTUPK,,,
+8780-YRMTT,,,
+5140-FOMCQ,,,
+6242-SGYTS,,,
+8414-OOEEL,,,
+8454-AATJP,,,
+4531-AUZNK,,,
+4191-XOVOM,,,
+2150-OEGBV,,,
+4878-BUNFV,,,
+1872-EBWSC,,,
+7026-YMSBE,,,
+6997-UVGOX,,,
+9674-EHPPG,,,
+5440-VHLUL,,,
+5781-BKHOP,,,
+5213-TWWJU,,,
+7629-WIXZF,,,
+5445-GLVOT,,,
+3976-HXHCE,,,
+2466-NEJOJ,,,
+0254-KCJGT,,,
+5472-CVMDX,,,
+6461-SZMCV,,,
+8150-QUDFX,,,
+2346-DJQTB,,,
+1697-LYYYX,,,
+1942-OQFRW,,,
+9640-ZSLDC,,,
+4231-LZUYM,,,
+3594-BDSOA,,,
+5133-VRSAB,,,
+5996-DAOQL,,,
+6838-YAUVY,,,
+0484-JPBRU,,,
+7883-ROJOC,,,
+0244-LGNFY,,,
+7274-CGTOD,,,
+4635-EJYPD,,,
+1866-ZSLJM,,,
+4636-TVXVG,,,
+4236-UJPWO,,,
+9392-XBGTD,,,
+6402-SSEJG,,,
+1169-SAOCL,,,
+1110-KYLGQ,,,
+9929-PLVPA,,,
+3518-PZXZQ,,,
+2371-JUNGC,,,
+5074-FBGHB,,,
+2351-BKRZW,,,
+4455-BFSPD,,,
+3948-KXDUF,,,
+2323-ARSVR,,,
+0815-MFZGM,,,
+5480-XTFFL,,,
+8295-FHIVV,,,
+9086-YJYXS,,,
+1179-INLAT,,,
+7909-FIOIY,,,
+6351-SCJKT,,,
+5468-BPMMO,,,
+0197-PNKNK,,,
+2439-QKJUL,,,
+1194-SPVSP,,,
+9534-NSXEM,,,
+8929-KSWIH,,,
+2250-IVBWA,,,
+1810-MVMAI,,,
+9506-UXUSK,,,
+1229-RCALF,,,
+3572-UOLYZ,,,
+1429-UYJSV,,,
+6366-XIVKZ,,,
+3470-OBUET,,,
+2770-NSVDG,,,
+9375-MHRRS,,,
+4860-YZGZM,,,
+6599-GZWCM,,,
+7037-MTYVW,,,
+4760-THGOT,,,
+4016-BJKTZ,,,
+6584-VQMYT,,,
+9838-BFCQT,,,
+2790-XUYMV,,,
+0581-MDMPW,,,
+1023-BQXZE,,,
+9163-GHAYE,,,
+3904-UKFRE,,,
+5353-WILCI,,,
+0058-EVZWM,,,
+7009-PCARS,,,
+0519-DRGTI,,,
+1017-FBQMM,,,
+1985-MBRYP,,,
+9372-TXXPS,,,
+3259-QMXUN,,,
+1015-JPFYW,,,
+6645-MXQJT,,,
+5804-JMYIO,,,
+6484-LATFU,,,
+7599-NTMDP,,,
+0536-ACXIP,,,
+0936-NQLJU,,,
+1575-KRZZE,,,
+3251-YMVWZ,,,
+4884-LEVMQ,,,
+8857-CUPFQ,,,
+7610-TVOPG,,,
+3638-DIMPH,,,
+1845-ZLLIG,,,
+8559-WNQZS,,,
+1699-UOTXU,,,
+0635-WKOLD,,,
+5993-JSUWV,,,
+4518-FZBSX,,,
+6988-CJEYV,,,
+3097-FQTVJ,,,
+5465-BUBFA,,,
+7299-GNVPL,,,
+9743-DQKQW,,,
+1215-VFYVK,,,
+9371-BITHB,,,
+9093-FPDLG,,,
+0541-FITGH,,,
+6985-HAYWX,,,
+7508-KBIMB,,,
+6838-HVLXG,,,
+1897-OKVMW,,,
+5485-ITNPC,,,
+0233-FTHAV,,,
+4644-PIZRT,,,
+8922-NPKBJ,,,
+2740-TVLFN,,,
+7771-CFQRQ,,,
+9512-PHSMG,,,
+4146-SVFUD,,,
+1564-HJUVY,,,
+3617-XLSGQ,,,
+7517-LDMPS,,,
+7244-KXYZN,,,
+5226-NOZFC,,,
+1400-WIVLL,,,
+8148-NLEGT,,,
+8347-GDTMP,,,
+6746-WAUWT,,,
+0428-IKYCP,,,
+2187-PKZAY,,,
+4003-OCTMP,,,
+6652-YFFJO,,,
+7225-IILWY,,,
+3170-GWYKC,,,
+9830-ECLEN,,,
+2668-TZSPS,,,
+7446-SFAOA,,,
+9522-ZSINC,,,
+8234-GSZYK,,,
+6505-OZNPG,,,
+6164-HAQTX,,,
+7765-LWVVH,,,
+0953-LGOVU,,,
+4692-NNQRU,,,
+7742-MYPGI,,,
+9619-GSATL,,,
+5622-UEJFI,,,
+6203-HBZPA,,,
+0484-FFVBJ,,,
+0301-FIDRB,,,
+4139-JPIAM,,,
+2181-TIDSV,,,
+1936-CZAKF,,,
+9453-PATOS,,,
+4402-FTBXC,,,
+2931-XIQBR,,,
+0106-UGRDO,,,
+5542-TBBWB,,,
+1930-QPBVZ,,,
+2606-PKWJB,,,
+5322-ZSMZY,,,
+5220-AGAAX,,,
+0208-BPQEJ,,,
+9435-JMLSX,,,
+3352-ALMCK,,,
+5312-IRCFR,,,
+5294-IMHHT,,,
+6176-YJWAS,,,
+5310-NOOVA,,,
+4526-EXKKN,,,
+5311-IHLEI,,,
+3987-KQDDU,,,
+3404-JNXAX,,,
+5131-PONJI,,,
+3489-VSFRD,,,
+3345-JHUEO,,,
+5815-HGGHV,,,
+5260-UMPWX,,,
+5649-RXQTV,,,
+2674-MIAHT,,,
+2576-HXMPA,,,
+7587-AOVVU,,,
+6898-MDLZW,,,
+4707-YNOQA,,,
+9357-UJRUN,,,
+7663-CUXZB,,,
+0258-NOKBL,,,
+1163-VIPRI,,,
+9348-ROUAI,,,
+9443-JUBUO,,,
+3043-TYBNO,,,
+4830-FAXFM,,,
+5906-BFOZT,,,
+2960-NKRSO,,,
+5598-IKHQQ,,,
+0397-ZXWQF,,,
+5266-PFRQK,,,
+4674-HGNUA,,,
+6765-MBQNU,,,
+9786-IJYDL,,,
+1303-SRDOK,,,
+3769-MHZNV,,,
+6295-OSINB,,,
+3308-MHOOC,,,
+4177-JPDFU,,,
+2239-CFOUJ,,,
+8046-DNVTL,,,
+2209-XADXF,,,
+6620-JDYNW,,,
+4770-UEZOX,,,
+1038-RQOST,,,
+4568-TTZRT,,,
+9513-DXHDA,,,
+8084-OIVBS,,,
+8896-BQTTI,,,
+3352-RICWQ,,,
+2160-GPFXD,,,
+2065-MMKGR,,,
+1498-NHTLT,,,
+1402-PTHGN,,,
+5199-FPUSP,,,
+6377-KSLXC,,,
+1796-JANOW,,,
+0238-WHBIQ,,,
+8735-NBLWT,,,
+6651-RLGGM,,,
+1614-JBEBI,,,
+5696-EXCYS,,,
+5795-KTGUD,,,
+4702-HDRKD,,,
+8512-WIWYV,,,
+1406-PUQVY,,,
+9114-AAFQH,,,
+8715-KKTFG,,,
+1728-BQDMA,,,
+5117-ZSMHQ,,,
+5151-HQRDG,,,
+0960-HUWBM,,,
+6465-GSRCL,,,
+0263-FJTQO,,,
+7319-ZNRTR,,,
+7503-EPSZW,,,
+7089-XXAYG,,,
+1666-JXLKU,,,
+7855-DIWPO,,,
+5133-POWUA,,,
+5652-MSDEY,,,
+1810-BOHSY,,,
+1784-BXEFA,,,
+7351-MHQVU,,,
+9224-VTYID,,,
+9500-IWPXQ,,,
+5762-TJXGK,,,
+4504-YOULA,,,
+5569-IDSEY,,,
+7284-ZZLOH,,,
+1777-JYQPJ,,,
+3401-URHDA,,,
+1599-EAHXY,,,
+8631-XVRZL,,,
+3853-LYGAM,,,
+5751-USDBL,,,
+5680-LQOGP,,,
+8189-DUKMV,,,
+9931-DCEZH,,,
+1898-JSNDC,,,
+0315-LVCRK,,,
+3911-RSNHI,,,
+2410-CIYFZ,,,
+5505-OVWQW,,,
+7271-AJDTL,,,
+1867-TJHTS,,,
+4429-WYGFR,,,
+2817-LVCPP,,,
+5038-ETMLM,,,
+5056-FIMPT,,,
+4521-WFJAI,,,
+6569-KTMDU,,,
+8809-XKHMD,,,
+0396-YCHWO,,,
+0867-LDTTC,,,
+2122-SZZZD,,,
+3148-AOIQT,,,
+6692-YQHXC,,,
+3889-VWBID,,,
+5222-JCXZT,,,
+9754-CLVZW,,,
+2739-CCZMB,,,
+7080-TNUWP,,,
+0496-AHOOK,,,
+2468-SJFLM,,,
+3181-VTHOE,,,
+7168-HDQHG,,,
+4567-AKPIA,,,
+7901-HXJVA,,,
+5924-IFQTT,,,
+7968-QUXNS,,,
+8903-WMRNW,,,
+2452-SNHFZ,,,
+3629-WEAAM,,,
+6029-CSMJE,,,
+7993-NQLJE,,,
+9909-DFRJA,,,
+9099-FTUHS,,,
+4962-CHQPW,,,
+9467-ROOLM,,,
+2253-KPMNB,,,
+1345-ZUKID,,,
+6429-SHBCB,,,
+2603-HVKCG,,,
+1834-WULEG,,,
+9097-ZUBYC,,,
+5148-ORICT,,,
+4893-GYUJU,,,
+4578-PHJYZ,,,
+7272-QDCKA,,,
+8908-SLFCJ,,,
+9766-HGEDE,,,
+6968-MHOMU,,,
+5044-XDPYX,,,
+1814-WFGVS,,,
+3721-WKIIL,,,
+6734-CKRSM,,,
+1265-ZFOSD,,,
+6568-POCUI,,,
+5197-LQXXH,,,
+3457-PQBYH,,,
+7682-AZNDK,,,
+5384-ZTTWP,,,
+3745-HRPHI,,,
+1231-YNDEK,,,
+1407-DIGZV,,,
+0570-BFQHT,,,
+4393-OBCRR,,,
+8564-LDKFL,,,
+3696-DFHHB,,,
+4717-GHADL,,,
+5501-TVMGM,,,
+5879-HMFFH,,,
+6772-WFQRD,,,
+3810-DVDQQ,,,
+6972-SNKKW,,,
+3694-GLTJM,,,
+8550-XSXUQ,,,
+9055-MOJJJ,,,
+4359-INNWN,,,
+0585-EGDDA,,,
+4032-RMHCI,,,
+3481-JHUZH,,,
+3594-IVHJZ,,,
+6869-FGJJC,,,
+3896-ZVNET,,,
+8205-VSLRB,,,
+5960-MVTUK,,,
+6817-WTYHE,,,
+3082-VQXNH,,,
+4931-TRZWN,,,
+0750-EKNGL,,,
+7669-LCRSD,,,
+3567-PQTSO,,,
+8043-PNYSD,,,
+9938-EKRGF,,,
+2703-AMTUL,,,
+8173-RXAYP,,,
+4825-XJGDM,,,
+5402-HTOTQ,,,
+6734-JDTTV,,,
+7850-THJMU,,,
+3890-RTCMS,,,
+3717-FDJFU,,,
+3665-JATSN,,,
+7966-YOTQW,,,
+8853-TZDGH,,,
+4324-BZCKL,,,
+6924-TDGMT,,,
+1536-YHDOE,,,
+8123-QBNAZ,,,
+7711-YIJWC,,,
+5482-VXSXJ,,,
+7365-BVCJH,,,
+9620-ENEJV,,,
+2378-YIZKA,,,
+0689-DSXGL,,,
+6818-DJXAA,,,
+0464-WJTKO,,,
+8902-ZEOVF,,,
+6778-EICRF,,,
+2662-NNTDK,,,
+4132-KALRO,,,
+2874-YXVVA,,,
+1245-HARPS,,,
+4323-ELYYB,,,
+4293-ETKAP,,,
+6064-PUPMC,,,
+6504-VBLFL,,,
+6322-PJJDJ,,,
+0330-BGYZE,,,
+1085-LDWAM,,,
+7586-ZATGZ,,,
+7197-VOJMM,,,
+1843-TLSGD,,,
+9626-VFRGG,,,
+7075-BNDVQ,,,
+9143-CANJF,,,
+7284-BUYEC,,,
+2041-JIJCI,,,
+4900-MSOMT,,,
+2229-VWQJH,,,
+9194-GFVOI,,,
+1336-EZFZY,,,
+4282-MSACW,,,
+1403-LKLIK,,,
+9643-AVVWI,,,
+0253-ZTEOB,,,
+2706-QZIHY,,,
+6061-PQHMK,,,
+6137-MFAJN,,,
+9122-UMROB,,,
+4232-JGKIY,,,
+2402-TAIRZ,,,
+9139-TWBAS,,,
+6685-GBWJZ,,,
+3913-RDSJZ,,,
+4203-QGNZA,,,
+5043-TRZWM,,,
+9494-BDNNC,,,
+1640-PLFMP,,,
+5366-OBVMR,,,
+7644-OMVMY,,,
+4573-JKNAE,,,
+9817-APLHW,,,
+8380-MQINP,,,
+0840-DFEZH,,,
+8690-ZVLCL,,,
+0384-LPITE,,,
+4616-EWBNJ,,,
+1335-HQMKX,,,
+6923-AQONU,,,
+4536-PLEQY,,,
+7029-IJEJK,,,
+8871-JLMHM,,,
+5447-VYTKW,,,
+3623-FQBOX,,,
+3474-BAFSJ,,,
+3865-ZFZIB,,,
+1855-AGAWH,,,
+7109-CQYUZ,,,
+1370-GGAWX,,,
+5307-UVGNB,,,
+3642-BYHDO,,,
+9629-NHXFW,,,
+2696-RZVZW,,,
+5766-FTRTS,,,
+0396-HUJBP,,,
+8879-ZKJOF,,,
+6285-FTQBF,,,
+1474-JUWSM,,,
+3530-CRZSB,,,
+8498-XXGWA,,,
+9617-INGJY,,,
+0621-TSSMU,,,
+7234-KMNRQ,,,
+7636-PEPNS,,,
+4683-WYDOU,,,
+9052-DHNKM,,,
+6794-HKIAJ,,,
+5578-NKCXI,,,
+1642-HMARX,,,
+3096-WPXBT,,,
+8434-PNQZX,,,
+5950-AAAGJ,,,
+4299-OPXEJ,,,
+9618-LFJRU,,,
+6693-DJWTY,,,
+0744-GKNGE,,,
+6447-EGDIV,,,
+4854-SSLTN,,,
+5294-DMSFH,,,
+4837-PZTIC,,,
+0603-OLQDC,,,
+3272-VUHPV,,,
+4176-FXYBO,,,
+1063-DHQJF,,,
+8663-UPDGF,,,
+6719-FGEDO,,,
+1837-YQUCE,,,
+0369-ZGOVK,,,
+9919-KNPOO,,,
+7872-BAAZR,,,
+9391-LMANN,,,
+8174-TBVCF,,,
+1698-XFZCI,,,
+1877-HKBQX,,,
+4450-DLLMH,,,
+0428-AXXLJ,,,
+2746-DIJLO,,,
+3508-VLHCZ,,,
+4086-ATNFV,,,
+0468-YRPXN,,,
+3739-YBWAB,,,
+7047-FWEYA,,,
+2000-MPKCA,,,
+9762-YAQAA,,,
+5473-KHBPS,,,
+8950-MTZNV,,,
+0326-VDYXE,,,
+0436-TWFFZ,,,
+8566-YPRGL,,,
+6609-MXJHJ,,,
+2669-OIDSD,,,
+8400-WZICQ,,,
+9576-SYUHJ,,,
+0410-IPFTY,,,
+2831-EBWRN,,,
+9430-NKQLY,,,
+0247-SLUJI,,,
+6483-OATDN,,,
+1293-HHSHJ,,,
+8610-ZIKJJ,,,
+7801-KICAO,,,
+7673-LPRNY,,,
+6060-QBMGV,,,
+7339-POGZN,,,
+2828-SLQPF,,,
+4465-VDKIQ,,,
+2558-BUOZZ,,,
+9257-AZMTZ,,,
+0003-MKNFE,,,
+0975-UYDTX,,,
+4682-BLBUC,,,
+0975-VOOVL,,,
+5968-VXZLG,,,
+5201-FRKKS,,,
+5443-SCMKX,,,
+8295-KMENE,,,
+6738-ISCBM,,,
+9821-BESNZ,,,
+3678-MNGZX,,,
+1335-NTIUC,,,
+2916-BQZLN,,,
+4558-CGYCZ,,,
+2368-GAKKQ,,,
+8710-YGLWG,,,
+3199-XGZCY,,,
+3785-KTYSH,,,
+4063-EIKNQ,,,
+6993-YCOBK,,,
+5206-HPJKM,,,
+8393-JMVMB,,,
+6036-TTFYU,,,
+2550-AEVRU,,,
+0969-RGKCU,,,
+0378-CJKPV,,,
+1703-MGIAB,,,
+4311-QTTAI,,,
+4318-RAJVY,,,
+3612-YUNGG,,,
+2254-DLXRI,,,
+5062-CJJKH,,,
+9028-LIHRP,,,
+1053-MXTTK,,,
+1530-ZTDOZ,,,
+1301-LOPVR,,,
+0853-TWRVK,,,
+6212-ATMLK,,,
+8200-LGKSR,,,
+0670-ANMUU,,,
+6897-RWMUB,,,
+6999-CHVCF,,,
+6134-KWTBV,,,
+1077-HUUJM,,,
+0895-LNKRC,,,
+8417-GSODA,,,
+5171-EPLKN,,,
+4452-QIIEB,,,
+7820-ZYGNY,,,
+9677-AVKED,,,
+2227-JRSJX,,,
+9847-HNVGP,,,
+6696-YDAYZ,,,
+8980-WQFWL,,,
+6506-EYCNH,,,
+4634-JLRJT,,,
+9501-UKKNL,,,
+2560-QTSBS,,,
+4795-WRNVT,,,
+6080-TCMYC,,,
+7860-UXCRM,,,
+6357-JJPQT,,,
+2292-XQWSV,,,
+9552-TGUZV,,,
+9643-YBLUR,,,
+8734-FNWVH,,,
+9447-YPTBX,,,
+9026-LHEVG,,,
+7011-CVEUC,,,
+7925-PNRGI,,,
+1552-CZCLL,,,
+3038-PQIUY,,,
+9313-CDOGY,,,
+8148-BPLZQ,,,
+2623-DRYAM,,,
+9987-LUTYD,,,
+4488-KQFDT,,,
+5693-PIPCS,,,
+0491-KAPQG,,,
+8039-EQPIM,,,
+3209-ZPKFI,,,
+6479-VDGRK,,,
+3569-JFODW,,,
+1591-XWLGB,,,
+0396-UKGAI,,,
+3243-ZHOHY,,,
+5186-EJEGL,,,
+7527-QNRUS,,,
+2203-GHNWN,,,
+5296-PSYVW,,,
+6319-QSUSR,,,
+0487-CRLZF,,,
+9451-WLYRI,,,
+8219-VYBVI,,,
+1991-VOPLL,,,
+9738-QLWTP,,,
+9419-IPPBE,,,
+0174-QRVVY,,,
+8106-GWQOK,,,
+8751-EDEKA,,,
+6878-GGDWG,,,
+8450-LUGUK,,,
+3604-WLABM,,,
+0795-GMVQO,,,
+2259-OUUSZ,,,
+1142-IHLOO,,,
+4633-MKHYU,,,
+6257-RJOHI,,,
+1545-JFUML,,,
+1353-GHZOS,,,
+2587-EKXTS,,,
+5442-BXVND,,,
+9753-OYLBX,,,
+2364-UFROM,,,
+6656-JWRQX,,,
+6473-ULUHT,,,
+7688-AWMDX,,,
+2842-BCQGE,,,
+7244-QWYHG,,,
+5312-UXESG,,,
+2150-WLKUW,,,
+7159-FVYPK,,,
+7032-LMBHI,,,
+6088-BXMRG,,,
+4821-SJHJV,,,
+7346-MEDWM,,,
+1137-DGOWI,,,
+3812-LRZIR,,,
+9483-GCPWE,,,
+4227-OJHAL,,,
+9220-CXRSC,,,
+4993-JCRGJ,,,
+9537-JALFH,,,
+6698-OXETB,,,
+2103-ZRXFN,,,
+3724-BSCVH,,,
+4877-TSOFF,,,
+9209-NWPGU,,,
+7306-YDSOI,,,
+0655-YDGFJ,,,
+8468-EHYJA,,,
+6823-SIDFQ,,,
+1097-FSPVW,,,
+8328-SKJNO,,,
+7010-ZMVBF,,,
+5201-CBWYG,,,
+6352-GIGGQ,,,
+3635-QQRQD,,,
+2897-DOVND,,,
+3082-YVEKW,,,
+0191-EQUUH,,,
+3489-HHPFY,,,
+2926-JEJJC,,,
+4950-BDEUX,,,
+5789-LDFXO,,,
+0508-OOLTO,,,
+2984-TBYKU,,,
+9822-WMWVG,,,
+9040-KZVWO,,,
+1548-ARAGG,,,
+6339-RZCBJ,,,
+2522-AHJXR,,,
+0412-UCCNP,,,
+1816-FLZDK,,,
+7096-UCLNH,,,
+4615-PIVVU,,,
+8885-QSQBX,,,
+8617-ENBDS,,,
+9385-NXKDA,,,
+0430-IHCDJ,,,
+6674-KVJHG,,,
+1814-DKOLC,,,
+9351-HXDMR,,,
+3537-HPKQT,,,
+2129-ALKBS,,,
+5821-MMEIL,,,
+6968-URWQU,,,
+4742-TXUEX,,,
+9631-XEYKE,,,
+1335-MXCSE,,,
+8873-TMKGR,,,
+8800-JOOCF,,,
+1469-LBJQJ,,,
+0064-YIJGF,,,
+2386-OWURY,,,
+0310-VQXAM,,,
+3453-RTHJQ,,,
+6278-FEPBZ,,,
+4280-DLSHD,,,
+1508-DFXCU,,,
+7868-BGSZA,,,
+2800-QQUSO,,,
+7973-DZRKH,,,
+7698-YFGEZ,,,
+9773-PEQBZ,,,
+7785-RDVIG,,,
+9602-WCXPI,,,
+2903-YYTBW,,,
+3620-MWJNE,,,
+8573-JGCZW,,,
+6837-HAEVO,,,
+6701-YVNQG,,,
+9504-YAZWB,,,
+8819-ZBYNA,,,
+6174-NRBTZ,,,
+6137-NICCO,,,
+9065-ZCPQX,,,
+6402-EJMWF,,,
+3620-EHIMZ,,,
+3213-VVOLG,,,
+6870-ECSHE,,,
+8747-UDCOI,,,
+4626-OZDTJ,,,
+9169-BSVIN,,,
+8194-PEEBY,,,
+6872-HXFNF,,,
+7714-YXSMB,,,
+8387-UGUSU,,,
+1194-HVAIF,,,
+1767-TGTKO,,,
+8439-LTUGF,,,
+8805-JNRAZ,,,
+6418-HNFED,,,
+0206-OYVOC,,,
+7291-CDTMJ,,,
+7128-GGCNO,,,
+0237-YFUTL,,,
+7691-KGKGP,,,
+6710-HSJRD,,,
+3675-EQOZA,,,
+0840-DCNZE,,,
+1732-FEKLD,,,
+9862-KJTYK,,,
+0479-HMSWA,,,
+5854-KSRBJ,,,
+0365-BZUWY,,,
+5701-SVCWR,,,
+3129-AAQOU,,,
+4922-CVPDX,,,
+1357-BIJKI,,,
+1099-BTKWT,,,
+2018-PZKMU,,,
+7340-KEFQE,,,
+4570-QHXHL,,,
+7392-YYPYJ,,,
+2223-GDSHL,,,
+9470-RTWDV,,,
+2176-OSJUV,,,
+9348-YVOMK,,,
+8104-OSKWT,,,
+4521-YEEHE,,,
+4090-KPJIP,,,
+2592-HODOV,,,
+7995-ZHHNZ,,,
+3824-RHKVR,,,
+5989-AXPUC,,,
+4979-HPRFL,,,
+8590-OHDIW,,,
+8015-IHCGW,,,
+2332-TODQS,,,
+8008-OTEZX,,,
+2773-OVBPK,,,
+5999-LCXAO,,,
+5206-XZZQI,,,
+4803-LBYPN,,,
+2139-FQHLM,,,
+1093-YSWCA,,,
+3882-IYOIJ,,,
+8749-TZYEC,,,
+1755-FZQEC,,,
+3115-JPJDD,,,
+5600-KTXFM,,,
+6339-TBELP,,,
+7964-YESJC,,,
+9938-ZREHM,,,
+7950-XWOVN,,,
+4647-MUZON,,,
+9702-AIUJO,,,
+8849-PRIQJ,,,
+8851-RAGOV,,,
+5396-IZEPB,,,
+1729-VLAZJ,,,
+8285-ABVLB,,,
+0701-TJSEF,,,
+5712-VBOXD,,,
+6629-LADHQ,,,
+1559-DTODC,,,
+4797-MIWUM,,,
+4537-CIBHB,,,
+4324-AHJKS,,,
+4355-CVPVS,,,
+4495-LHSSK,,,
+5915-ANOEI,,,
+9861-PDSZP,,,
+6704-UTUKK,,,
+2019-HDCZY,,,
+8788-DOXSU,,,
+7404-JLKQG,,,
+7421-ZLUPA,,,
+3274-NSDWE,,,
+2632-IVXVF,,,
+8915-NNTRC,,,
+5914-GXMDA,,,
+7463-IFMQU,,,
+2920-RNCEZ,,,
+2541-YGPKE,,,
+5382-TEMLV,,,
+3441-CGZJH,,,
+9592-ERDKV,,,
+4778-IZARL,,,
+0432-CAJZV,,,
+7008-LZVOZ,,,
+9365-CSLBQ,,,
+5884-FBCTL,,,
+6242-FEGFD,,,
+6194-HBGQN,,,
+7634-WSWDB,,,
+6986-IXNDM,,,
+2987-BJXIK,,,
+9769-TSBZE,,,
+1395-WSWXR,,,
+6023-GSSXW,,,
+6752-APNJL,,,
+7446-KQISO,,,
+9823-EALYC,,,
+0582-AVCLN,,,
+5803-NQJZO,,,
+2607-DHDAK,,,
+1073-XXCZD,,,
+0743-HRVFF,,,
+4006-HKYHO,,,
+3727-JEZTU,,,
+8143-ETQTI,,,
+9667-TKTVZ,,,
+8570-KLJYJ,,,
+7754-IXRMC,,,
+9473-CBZOP,,,
+2969-WGHQO,,,
+5863-OOKCL,,,
+1686-STUHN,,,
+1329-VHWNP,,,
+0266-GMEAO,,,
+5574-NXZIU,,,
+0019-GFNTW,,,
+4256-ZWTZI,,,
+8309-PPCED,,,
+5196-WPYOW,,,
+4608-LCIMN,,,
+1485-YDHMM,,,
+4054-CUMIA,,,
+0603-TPMIB,,,
+2525-GVKQU,,,
+8161-QYMTT,,,
+9581-GVBXT,,,
+5862-BRIXZ,,,
+5404-GGUKR,,,
+2126-GSEGL,,,
+0440-QEXBZ,,,
+2434-EEVDB,,,
+6762-QVYJO,,,
+8152-VETUR,,,
+4676-WLUHT,,,
+7980-MHFLQ,,,
+0757-WCUUZ,,,
+1629-DQQVB,,,
+0374-AACSZ,,,
+4872-VXRIL,,,
+9140-CZQZZ,,,
+3423-HHXAO,,,
+9938-TKDGL,,,
+6537-QLGEX,,,
+3160-TYXLT,,,
+1325-USMEC,,,
+5606-AMZBO,,,
+6199-IPCAO,,,
+5640-CAXOA,,,
+2235-EZAIK,,,
+3847-BAERP,,,
+1453-RZFON,,,
+8263-OKETD,,,
+0670-KDOMA,,,
+2476-YGEFM,,,
+8687-BAFGU,,,
+0641-EVBOJ,,,
+0829-XXPLX,,,
+9974-JFBHQ,,,
+6624-JDRDS,,,
+0608-JDVEC,,,
+9780-FKVVF,,,
+1919-RTPQD,,,
+5214-NLTIT,,,
+3345-PBBFH,,,
+5055-BRMNE,,,
+2190-PHBHR,,,
+2650-GYRYL,,,
+5208-FVQKB,,,
+7184-LRUUR,,,
+6627-CFOSN,,,
+3982-JGSFD,,,
+1574-DYCWE,,,
+7247-XOZPB,,,
+2466-FCCPT,,,
+6211-WWLTF,,,
+4826-TZEVA,,,
+6016-NXBNJ,,,
+9138-EFSMO,,,
+4632-XJMEX,,,
+2716-GFZOR,,,
+3724-UCSHY,,,
+8626-XHBIE,,,
+3192-LNKRK,,,
+4439-YRNVD,,,
+2208-UGTGR,,,
+3005-TYFRD,,,
+8670-MEFCP,,,
+3079-BCHLN,,,
+7777-UNYHB,,,
+2969-VAPYH,,,
+7181-OQCUT,,,
+8474-UMLNT,,,
+9142-XMYJH,,,
+2649-HWLYB,,,
+5214-CHIWJ,,,
+2465-BLLEU,,,
+1685-VAYJF,,,
+8874-EJNSR,,,
+5049-MUBWG,,,
+0769-MURVM,,,
+9253-VIFJQ,,,
+7030-FZTFM,,,
+9741-YLNTD,,,
+5120-ZBLAI,,,
+1194-BHJYC,,,
+0906-QVPMS,,,
+1905-OEILC,,,
+7858-GTZSP,,,
+6248-BSHKG,,,
+4685-TFLLS,,,
+3470-BTGQO,,,
+1209-VFFOC,,,
+4553-DVPZG,,,
+6917-IAYHD,,,
+8620-RJPZN,,,
+7572-KPVKK,,,
+2642-MAWLJ,,,
+7103-ZGVNT,,,
+2027-WKXMW,,,
+7137-NAXML,,,
+2428-ZMCTB,,,
+2961-VNFKL,,,
+6963-KQYQB,,,
+5934-RMPOV,,,
+1207-BLKSA,,,
+8316-BBQAY,,,
+1166-PQLGG,,,
+3146-JTQHR,,,
+4291-YZODP,,,
+6427-FEFIG,,,
+0017-IUDMW,,,
+8706-HRADD,,,
+9955-QOPOY,,,
+4385-ZKVNW,,,
+9031-ZVQPT,,,
+2990-IAJSV,,,
+9027-YFHQJ,,,
+5176-LDKUH,,,
+4644-OBGFZ,,,
+7926-IJOOU,,,
+6480-YAGIY,,,
+4029-HPFVY,,,
+7602-DBTOU,,,
+5345-BMKWB,,,
+5457-COLHT,,,
+7998-WNZEM,,,
+4664-NJCMS,,,
+0307-BCOPK,,,
+2542-HYGIQ,,,
+5016-LIPDW,,,
+6481-LXPWL,,,
+6124-ACRHJ,,,
+9362-MWODR,,,
+9975-GPKZU,,,
+9625-RZFUK,,,
+5153-LXKDT,,,
+5161-UBZXI,,,
+1020-JPQOW,,,
+7919-ZODZZ,,,
+0565-JUPYD,,,
+6867-ACCZI,,,
+5939-XAIXZ,,,
+9054-FOWNV,,,
+8207-VVMYB,,,
+9732-EQMWY,,,
+5269-NRGDP,,,
+6195-MELTI,,,
+2121-JAFOM,,,
+1227-UDMZR,,,
+5198-HQAEN,,,
+2167-FQSTQ,,,
+2819-GWENI,,,
+3572-UUHRS,,,
+2692-PFYTJ,,,
+5955-EPOAZ,,,
+6821-JPCDC,,,
+8815-LMFLX,,,
+9135-HSWOC,,,
+8582-KRHPJ,,,
+5811-IWXYM,,,
+1506-YJTYT,,,
+4123-DVHPH,,,
+2228-BZDEE,,,
+2789-CZANW,,,
+7596-LDUXP,,,
+2192-OZITF,,,
+5651-CPDND,,,
+1131-ALZWV,,,
+7729-XBTWX,,,
+9134-WYRVP,,,
+3284-SVCRO,,,
+9732-OUYRN,,,
+0559-CKHUS,,,
+2931-SVLTV,,,
+7504-UWHNB,,,
+2582-FFFZR,,,
+8908-NMQTX,,,
+1431-AIDJQ,,,
+6288-LBEAR,,,
+8413-YNHNV,,,
+5808-TOTXO,,,
+4369-NYSCF,,,
+6333-YDVLT,,,
+5324-KTGCG,,,
+7394-LWLYN,,,
+6873-UDNLD,,,
+2700-LUEVA,,,
+0958-YHXGP,,,
+1101-SSWAG,,,
+5743-KHMNA,,,
+4194-FJARJ,,,
+5325-UWTWJ,,,
+3969-GYXEL,,,
+6992-TKNYO,,,
+4468-YDOVK,,,
+2200-DSAAL,,,
+4302-ZYFEL,,,
+9351-LZYGF,,,
+4366-CTOUZ,,,
+1518-OMDIK,,,
+6671-NGWON,,,
+0595-ITUDF,,,
+1955-IBMMB,,,
+0096-BXERS,,,
+3806-YAZOV,,,
+7998-ZLXWN,,,
+6253-WRFHY,,,
+9133-AYJZG,,,
+8680-CGLTP,,,
+8430-TWCBX,,,
+5018-GWURO,,,
+6741-QRLUP,,,
+4737-HOBAX,,,
+8200-KLNYW,,,
+3372-CDXFJ,,,
+4781-ZXYGU,,,
+7632-YUTXB,,,
+2718-YSKCS,,,
+9896-UYMIE,,,
+0853-NWIFK,,,
+8212-CRQXP,,,
+6980-CDGFC,,,
+7691-XVTZH,,,
+2520-SGTTA,,,
+1088-CNNKB,,,
+1930-BZLHI,,,
+5868-YTYKS,,,
+3525-DVKFN,,,
+1482-OXZSY,,,
+0377-JBKKT,,,
+5778-BVOFB,,,
+3373-YZZYM,,,
+0228-MAUWC,,,
+7663-YJHSN,,,
+4915-BFSXL,,,
+3086-RUCRN,,,
+5215-LNLDJ,,,
+0257-KXZGU,,,
+1307-ATKGB,,,
+3714-XPXBW,,,
+1850-AKQEP,,,
+2824-DXNKN,,,
+0848-ZGQIJ,,,
+3621-CHYVB,,,
+8042-RNLKO,,,
+5372-FBKBN,,,
+0420-TXVSG,,,
+6217-TOWGS,,,
+1045-LTCYT,,,
+1544-JJMYL,,,
+4636-JGAAI,,,
+6874-SGLHU,,,
+5951-AOFIH,,,
+3059-NGMXB,,,
+8652-YHIYU,,,
+5278-PNYOX,,,
+3486-HOOGQ,,,
+5061-PBXFW,,,
+8630-FJLIB,,,
+3891-NLXJB,,,
+4749-OJKQU,,,
+0577-WHMEV,,,
+5453-AXEPF,,,
+3639-XJHKQ,,,
+3716-LRGXK,,,
+2263-SFSQZ,,,
+9950-MTGYX,,,
+3397-AVTKU,,,
+4825-FUREZ,,,
+2672-OJQZP,,,
+3134-DSHVC,,,
+7821-DPRQE,,,
+2001-EWBQU,,,
+6695-AMZUF,,,
+8410-BGQXN,,,
+1619-YWUBB,,,
+7611-YKYTC,,,
+0365-GXEZS,,,
+0082-OQIQY,,,
+3606-SBKRY,,,
+0667-NSRGI,,,
+6893-ODYYE,,,
+8242-JSVBO,,,
+9541-ZPSEA,,,
+1139-WUOAH,,,
+4693-VWVBO,,,
+6937-GCDGQ,,,
+0988-JRWWP,,,
+5075-JSDKI,,,
+8644-XYTSV,,,
+3873-WOSBC,,,
+7465-ZZRVX,,,
+7975-JMZNT,,,
+7251-XFOIL,,,
+4116-IQRFR,,,
+8259-DZLIZ,,,
+7853-WNZSY,,,
+3120-FAZKD,,,
+8606-OEGQZ,,,
+0225-ZORZP,,,
+9489-JMTTN,,,
+0967-BMLBD,,,
+2830-LEWOA,,,
+5006-MXVRN,,,
+8327-WKMIE,,,
+6917-FIJHC,,,
+7797-EJMDP,,,
+3530-VWVGU,,,
+6368-NWMCE,,,
+3633-CDBUW,,,
+3956-MGXOG,,,
+9274-UARKJ,,,
+4077-HWUYD,,,
+0103-CSITQ,,,
+8671-KKKOS,,,
+7305-ZWMAJ,,,
+6578-KRMAW,,,
+4860-IJUDE,,,
+9688-YGXVR,,,
+1945-XISKS,,,
+5360-LJCNJ,,,
+2607-FBDFF,,,
+1100-DDVRV,,,
+6728-WYQBC,,,
+7216-KAOID,,,
+6145-NNPNO,,,
+5339-TJFEK,,,
+2074-GUHPQ,,,
+4625-XMOYM,,,
+5827-MWCZK,,,
+1385-TQOZW,,,
+5914-XRFQB,,,
+4329-YPDDQ,,,
+4804-NCPET,,,
+5944-UGLLK,,,
+7787-BNTZM,,,
+2252-ISRNH,,,
+9415-TPKRV,,,
+5322-TEUJK,,,
+1866-DIOQZ,,,
+8375-KVTHK,,,
+2697-NQBPF,,,
+3709-OIJEA,,,
+1386-ZIKUV,,,
+0599-XNYDO,,,
+6377-WHAOX,,,
+6855-VLGOS,,,
+8746-OQQRW,,,
+3181-MIZBN,,,
+7766-CLTIC,,,
+5650-YLIBA,,,
+0825-CPPQH,,,
+9084-OAYKL,,,
+6122-LJADA,,,
+2400-XIWIO,,,
+7569-NMZYQ,,,
+5201-USSQZ,,,
+2105-PHWON,,,
+1494-EJZDW,,,
+8003-EWNDZ,,,
+1897-RCFUM,,,
+9256-JTBNZ,,,
+2211-RMNHO,,,
+2432-TFSMK,,,
+4929-ROART,,,
+1834-ABKHQ,,,
+1741-WTPON,,,
+3932-IJWDZ,,,
+1240-HCBOH,,,
+3594-KADLU,,,
+3796-ENZGF,,,
+1734-ZMNTZ,,,
+2853-CWQFQ,,,
+0813-TAXXS,,,
+2519-TWKFS,,,
+0626-QXNGV,,,
+6723-CEGQI,,,
+4732-RRJZC,,,
+9499-XPZXM,,,
+4338-EYCER,,,
+3007-FDPEA,,,
+8513-OLYGY,,,
+0311-QYWSS,,,
+8705-DWKTI,,,
+3680-CTHUH,,,
+1202-KKGFU,,,
+6112-KTHFQ,,,
+1852-XEMDW,,,
+1820-DJFPH,,,
+9426-SXNHE,,,
+9068-FHQHD,,,
+1269-FOYWN,,,
+9895-VFOXH,,,
+1230-QAJDW,,,
+5701-ZIKJE,,,
+5032-MIYKT,,,
+7396-VJUZB,,,
+9717-QEBGU,,,
+5172-RKOCB,,,
+6509-TSGWN,,,
+3178-CIFOT,,,
+4530-NDRKU,,,
+5985-TBABQ,,,
+9800-ONTFE,,,
+6743-HHQPF,,,
+8455-HIRAQ,,,
+6616-AALSR,,,
+9415-ZNBSX,,,
+4018-KJYUY,,,
+3884-UEBXB,,,
+8780-RSYYU,,,
+5537-UXXVS,,,
+1791-PQHBB,,,
+8701-DGLVH,,,
+8741-LQOBK,,,
+8082-GHXOP,,,
+0980-FEXWF,,,
+3011-WQKSZ,,,
+8218-FFJDS,,,
+9360-OMDZZ,,,
+0345-XMMUG,,,
+2832-SCUCO,,,
+7036-ZZKBD,,,
+0265-PSUAE,,,
+0463-TXOAK,,,
+0594-UFTUL,,,
+9509-MPYOD,,,
+9128-CPXKI,,,
+0129-KPTWJ,,,
+5855-EIBDE,,,
+5365-LLFYV,,,
+1928-BXYIV,,,
+5760-FXFVO,,,
+0961-ZWLVI,,,
+5181-OABFK,,,
+7816-VGHTO,,,
+5871-DGTXZ,,,
+7550-WIQVA,,,
+7544-ZVIKX,,,
+0016-QLJIS,,,
+7508-DQAKK,,,
+5176-OLSKT,,,
+9356-AXGMP,,,
+3556-BVQGL,,,
+7581-EBBOU,,,
+5073-RZGBK,,,
+2192-CKRLV,,,
+3154-HMWUU,,,
+6119-SPUDB,,,
+6522-OIQSX,,,
+8748-HFWBO,,,
+1052-QJIBV,,,
+1319-YLZJG,,,
+0723-FDLAY,,,
+3050-RLLXC,,,
+9298-WGMRW,,,
+3088-LHEFH,,,
+8544-JNBOX,,,
+6681-ZSEXG,,,
+6116-RFVHN,,,
+8884-FEEWR,,,
+3125-RAHBV,,,
+0373-AIVNJ,,,
+1682-VCOIO,,,
+2072-ZVJJX,,,
+8849-AYPTR,,,
+9518-IMLHK,,,
+3646-ITDGM,,,
+3569-VLDHH,,,
+8224-KDLKN,,,
+4001-TSBTV,,,
+8727-XDPUD,,,
+1043-UXOVO,,,
+1064-FBXNK,,,
+2878-DHMIN,,,
+7762-ONLJY,,,
+5795-BKOYE,,,
+7402-PWYJJ,,,
+0018-NYROU,,,
+7501-VTYLJ,,,
+7608-RGIRO,,,
+0480-BIXDE,,,
+5895-QSXOD,,,
+9814-AOUDH,,,
+6175-IRFIT,,,
+1622-HSHSF,,,
+6749-UTDVX,,,
+5542-DHSXL,,,
+9102-OXKFY,,,
+7808-DVWEP,,,
+2284-VFLKH,,,
+0366-NQSHS,,,
+3807-BPOMJ,,,
+3892-NXAZG,,,
+4182-BGSIQ,,,
+0988-AADSA,,,
+9972-NKTFD,,,
+3717-LNXKW,,,
+5734-EJKXG,,,
+2207-RYYRL,,,
+6729-FZWSY,,,
+9695-IDRZR,,,
+8144-DGHXP,,,
+7814-LEEVE,,,
+8631-WUXGY,,,
+5906-DVAPM,,,
+6654-QGBZZ,,,
+5641-DMBFJ,,,
+9200-NLNPD,,,
+2664-XJZNO,,,
+0921-OHLVP,,,
+8350-NYMVI,,,
+1600-DILPE,,,
+0536-ESJEP,,,
+4654-GGUII,,,
+6478-HRRCZ,,,
+8510-BBWMU,,,
+6857-TKDJV,,,
+2360-RDGRO,,,
+0584-BJQGZ,,,
+1360-XFJMR,,,
+9058-MJLZC,,,
+0902-XKXPN,,,
+5177-RVZNU,,,
+0056-EPFBG,,,
+8993-IZEUX,,,
+8190-ZTQFB,,,
+0931-MHTEM,,,
+0440-UEDAI,,,
+1337-BOZWO,,,
+0868-VJRDR,,,
+6344-SFJVH,,,
+3950-VPYJB,,,
+7321-ZNSLA,,,
+8727-JQFHV,,,
+9475-NNDGC,,,
+1355-KUSBG,,,
+3688-FTHLT,,,
+0899-LIIBW,,,
+1384-RCUXW,,,
+5825-XJOCM,,,
+6848-YLDFR,,,
+8125-QPFJD,,,
+2320-YKQBO,,,
+4973-RLZVI,,,
+7869-ZYDST,,,
+1215-EXRMO,,,
+2305-MRGLV,,,
+8404-VIOMB,,,
+2359-KLTEK,,,
+2673-ZALNP,,,
+9184-GALIL,,,
+4393-RYCRE,,,
+9746-MDMBK,,,
+3162-ZJZFU,,,
+8404-GFGCZ,,,
+3521-MNKLV,,,
+2533-TIBIX,,,
+5092-STPKP,,,
+0114-PEGZZ,,,
+3359-DSRKA,,,
+8639-NHQEI,,,
+7161-DFHUF,,,
+3720-DBRWL,,,
+4994-OBRSZ,,,
+0562-FGDCR,,,
+2436-QBZFP,,,
+3420-YJLQT,,,
+6040-CGACY,,,
+6582-PLFUU,,,
+8242-PDSGJ,,,
+0264-CNITK,,,
+0089-IIQKO,,,
+7839-NUIAA,,,
+6075-QMNRR,,,
+5966-EMAZU,,,
+0440-EKDCF,,,
+4774-HHGGS,,,
+8180-AKMJV,,,
+4298-OYIFC,,,
+5566-SOEZD,,,
+9842-EFSYY,,,
+2272-WUSPA,,,
+0930-EHUZA,,,
+9975-SKRNR,,,
+4973-MGTON,,,
+3682-YEUWS,,,
+1223-UNPKS,,,
+3446-QDSZF,,,
+7379-FNIUJ,,,
+1627-AFWVJ,,,
+4486-EFAEB,,,
+0060-FUALY,,,
+6954-OOYZZ,,,
+7088-FBAWU,,,
+8313-AFGBW,,,
+3097-IDVPU,,,
+2303-PJYHN,,,
+9795-VOWON,,,
+1237-WIYYZ,,,
+1987-AUELQ,,,
+4822-LPTYJ,,,
+8165-CBKXO,,,
+6527-PZFPV,,,
+9593-CVZKR,,,
+5236-XMZJY,,,
+4827-DPADN,,,
+2694-CIUMO,,,
+5846-ABOBJ,,,
+1439-LCGVL,,,
+0909-SDHNU,,,
+4647-XXZAM,,,
+7740-KKCXF,,,
+5360-XGYAZ,,,
+3557-HTYWR,,,
+1699-TLDLZ,,,
+5600-PDUJF,,,
+0567-XRHCU,,,
+2067-QYTCF,,,
+7407-SUJIZ,,,
+9150-KPBJQ,,,
+0052-DCKON,,,
+3654-ARMGP,,,
+9367-TCUYN,,,
+0708-SJDIS,,,
+2073-QBVBI,,,
+6928-ONTRW,,,
+5231-FIQPA,,,
+6617-WLBQC,,,
+2599-CIPQE,,,
+8774-GSBUN,,,
+7326-RIGQZ,,,
+1401-FTHFQ,,,
+0254-FNMCI,,,
+1848-LBZHY,,,
+8118-TJAFG,,,
+5429-LWCMV,,,
+7298-IZWLY,,,
+3955-JBZZM,,,
+4815-TUMEQ,,,
+9909-IDLEK,,,
+4092-OFQZS,,,
+1561-BWHIN,,,
+9927-DSWDF,,,
+9500-LTVBP,,,
+7252-NTGSS,,,
+8149-AIQCG,,,
+0899-WZRSD,,,
+3255-GRXMG,,,
+4828-FAZPK,,,
+6094-ZIVKX,,,
+3262-EIDHV,,,
+7354-OIJLX,,,
+1376-HHBDV,,,
+6133-OZILE,,,
+7191-ADRGF,,,
+5018-LXQQG,,,
+6892-BOGQE,,,
+1746-TGTWV,,,
+8050-WYBND,,,
+2821-WARNZ,,,
+4879-GZLFH,,,
+8314-HTWVE,,,
+9402-ROUMJ,,,
+2507-QZPQS,,,
+7159-NOKYQ,,,
+5707-ZMDJP,,,
+8779-YIQQA,,,
+7136-IHZJA,,,
+8966-OIQHG,,,
+7074-STDCN,,,
+8739-QOTTN,,,
+1399-OUPJN,,,
+0277-BKSQP,,,
+5774-XZTQC,,,
+2676-SSLTO,,,
+6266-QHOJZ,,,
+7269-JISCY,,,
+0363-SVHYR,,,
+8547-NSBBO,,,
+6591-QGOYB,,,
+9070-BCKQP,,,
+6421-SZVEM,,,
+1328-EUZHC,,,
+8878-RYUKI,,,
+9633-DENPU,,,
+7811-JIVPF,,,
+7113-HIPFI,,,
+8541-QVFKM,,,
+9258-CNWAC,,,
+6374-AFWOX,,,
+5317-FLPJF,,,
+7621-VPNET,,,
+6034-YMTOB,,,
+4903-CNOZC,,,
+4353-HYOJD,,,
+7267-FRMJW,,,
+4188-FRABG,,,
+0620-DLSLK,,,
+3850-OKINF,,,
+1156-ZFYDO,,,
+5549-ZGHFB,,,
+7577-SWIFR,,,
+0303-WMMRN,,,
+6408-OTUBZ,,,
+5204-HMGYF,,,
+3727-OVPRY,,,
+3797-FKOGQ,,,
+7622-NXQZR,,,
+6196-HBOBZ,,,
+3970-XGJDU,,,
+7017-VFULY,,,
+5562-YJQGT,,,
+8807-OPMBM,,,
+8294-UIMBA,,,
+8109-YUOHE,,,
+5840-NVDCG,,,
+8092-NLTGF,,,
+5928-QLDHB,,,
+9840-EFJQB,,,
+0696-UKTOX,,,
+4801-KFYKL,,,
+3472-OAOOR,,,
+6135-OZQVA,,,
+2252-JHJGE,,,
+4188-PCPIG,,,
+7105-BENQF,,,
+7721-DVEKZ,,,
+3566-VVORZ,,,
+9507-HSMMZ,,,
+2480-SQIOB,,,
+7813-TKCVO,,,
+0128-MKWSG,,,
+4350-ZTLPI,,,
+0361-HJRDX,,,
+5727-MYATE,,,
+3823-KYNQY,,,
+7570-WELNY,,,
+3021-VLNRJ,,,
+6907-FLBER,,,
+5982-PSMKW,,,
+3507-GASNP,,,
+7096-ZNBZI,,,
+1676-MQAOA,,,
+7566-DSRLQ,,,
+7245-JMTTQ,,,
+6050-IJRHS,,,
+6202-JVYEU,,,
+8591-TKMZH,,,
+0734-OXWBT,,,
+0365-TRTPY,,,
+7349-ALMUX,,,
+6502-KUGLL,,,
+1841-YSJGV,,,
+3511-BFTJW,,,
+5018-HEKFO,,,
+2923-ARZLG,,,
+3976-NLDEZ,,,
+2282-YGNOR,,,
+6854-EXGSF,,,
+1241-EZFMJ,,,
+5376-PCKNB,,,
+8044-BGWPI,,,
+4060-LDNLU,,,
+3589-PPVKW,,,
+5887-IKKYO,,,
+1755-RMCXH,,,
+3858-XHYJO,,,
+4299-SIMNS,,,
+7025-IWFHT,,,
+6261-LHRTG,,,
+7841-FCRQD,,,
+2056-EVGZL,,,
+7753-USQYQ,,,
+7661-CPURM,,,
+6233-HXJMX,,,
+5902-WBLSE,,,
+3239-TPHPZ,,,
+5115-GZDEL,,,
+3338-CVVEH,,,
+4393-GEADV,,,
+8486-AYEQH,,,
+2495-KZNFB,,,
+4560-WQAQW,,,
+4274-DRSQT,,,
+2027-DNKIV,,,
+2885-HIJDH,,,
+5424-RLQLC,,,
+6507-DTJZV,,,
+7673-BQGKU,,,
+2725-IWWBA,,,
+1061-PNTHC,,,
+0394-YONDK,,,
+6574-MCOEH,,,
+7399-QHBJS,,,
+0997-YTLNY,,,
+9479-HYNYL,,,
+9708-KFDBY,,,
+3642-GKTCT,,,
+0774-RMNUW,,,
+1334-PDUKM,,,
+0756-MPZRL,,,
+2242-MFOTG,,,
+2927-CVULT,,,
+8745-PVESG,,,
+7647-GYYKX,,,
+9700-ISPUP,,,
+9839-ETQOE,,,
+9027-TMATR,,,
+1941-HOSAM,,,
+9110-HSGTV,,,
+0704-VCUMB,,,
+6171-ZTVYB,,,
+1935-IMVBB,,,
+2535-PBCGC,,,
+1470-PSXNM,,,
+2498-XLDZR,,,
+5338-YHWYT,,,
+7718-UPSKJ,,,
+8731-WBBMB,,,
+1448-CYWKC,,,
+7901-IIDQV,,,
+2690-DVRVK,,,
+1270-XKUCC,,,
+0334-ZFJSR,,,
+5583-EJXRD,,,
+4565-EVZMJ,,,
+3327-YBAKM,,,
+9441-QHEVC,,,
+6705-LNMDD,,,
+2580-ASVVY,,,
+3370-GQEAL,,,
+5032-USPKF,,,
+4254-QPEDE,,,
+6283-GITPX,,,
+0771-CHWSK,,,
+9788-HNGUT,,,
+9495-REDIY,,,
+5375-XLDOF,,,
+1172-VIYBP,,,
+6559-PDZLR,,,
+8992-OBVDG,,,
+4273-MBHYA,,,
+4724-WXVWF,,,
+5701-GUXDC,,,
+1460-UZPRJ,,,
+6082-GLJIX,,,
+2495-TTHBQ,,,
+0485-ZBSLN,,,
+3810-PJUHR,,,
+0847-HGRML,,,
+8232-CTLKO,,,
+9227-YBAXE,,,
+9860-LISIZ,,,
+0112-QAWRZ,,,
+4043-MKDTV,,,
+9229-RQABD,,,
+8313-KTIHG,,,
+5320-BRKGK,,,
+6284-KMNUF,,,
+6229-UOLQL,,,
+3137-LUPIX,,,
+6143-JQKEA,,,
+8676-OOQEJ,,,
+9701-CDXHR,,,
+8124-NZVGJ,,,
+2162-FRZAA,,,
+5118-MUEYH,,,
+5627-TVBPP,,,
+3936-QQFLL,,,
+2589-AYCRP,,,
+4067-HLYQI,,,
+5124-EOGYE,,,
+5057-RKGLH,,,
+0292-WEGCH,,,
+8910-ICHIU,,,
+4097-YODCF,,,
+9715-WZCLW,,,
+9786-YWNHU,,,
+6407-GSJNL,,,
+4049-ZPALD,,,
+6833-JMZYP,,,
+1310-QRITU,,,
+8961-QDZZJ,,,
+9715-SBVSU,,,
+7929-SKFGK,,,
+2300-RQGOI,,,
+3563-SVYLG,,,
+4998-IKFSE,,,
+8630-QSGXK,,,
+2455-USLMV,,,
+9488-FVZCC,,,
+5995-WWKKG,,,
+7879-CGSFV,,,
+9921-EZKBY,,,
+7432-FFVAR,,,
+7246-ZGQDF,,,
+4456-RHSNB,,,
+2481-SBOYW,,,
+7109-MFBYV,,,
+1833-TCXKK,,,
+1832-PEUTS,,,
+8660-BUETV,,,
+0580-PIQHM,,,
+5696-CEIQJ,,,
+1696-HXOWK,,,
+3026-ATZYV,,,
+4012-YCFAI,,,
+9970-QBCDA,,,
+9496-IVVRP,,,
+2657-VPXTA,,,
+6551-VLJMV,,,
+1221-GHZEP,,,
+9289-LBQVU,,,
+3458-IDMFK,,,
+6933-FHBZC,,,
+0221-NAUXK,,,
+9770-KXGQU,,,
+6538-POCHL,,,
+3002-WQZWT,,,
+4277-UDIEF,,,
+1208-NBVFH,,,
+4912-PIGUY,,,
+2725-TTRIQ,,,
+3374-TTZTK,,,
+8990-ZXLSU,,,
+2275-RBYQS,,,
+4419-UJMUS,,,
+7794-JASDG,,,
+7609-YBPXG,,,
+5519-TEEUH,,,
+0804-XBFBV,,,
+2676-OXPPQ,,,
+3703-TTEPD,,,
+2799-TSLAG,,,
+2208-NKVVH,,,
+7139-JZFVG,,,
+4987-GQWPO,,,
+1757-TCATG,,,
+4776-XSKYQ,,,
+8048-DSDFQ,,,
+5753-QQWPW,,,
+6010-DDPPW,,,
+6693-FRIRW,,,
+6586-MYGKD,,,
+3173-NVMPX,,,
+0623-GDISB,,,
+2892-GESUL,,,
+2043-WVTQJ,,,
+8034-RYTVV,,,
+3863-QSTYI,,,
+5044-LRQAQ,,,
+1716-LSAMB,,,
+1333-PBMXB,,,
+6546-OPBBH,,,
+9127-QRZMH,,,
+5919-VCZYM,,,
+9644-KVCNC,,,
+2137-DQMEV,,,
+8174-LNWMW,,,
+7964-VEXDG,,,
+2404-JIBFC,,,
+4632-PAOYU,,,
+2990-OGYTD,,,
+7880-XSOJX,,,
+4589-IUAJB,,,
+8457-XIGKN,,,
+6072-NUQCB,,,
+8838-GPHZP,,,
+8750-QWZAJ,,,
+6918-UMQCG,,,
+0675-NCDYU,,,
+6339-DKLMK,,,
+1346-PJWTK,,,
+5088-QZLRL,,,
+4397-FRLTA,,,
+3057-VJJQE,,,
+2302-OUZXB,,,
+2270-CHBFN,,,
+5982-FPVQN,,,
+9107-UKCKY,,,
+4654-ULTTN,,,
+5546-BYZSM,,,
+1492-KGETH,,,
+4163-HFTUK,,,
+8215-NGSPE,,,
+8859-YSTWS,,,
+7601-DHFWZ,,,
+1998-VHJHK,,,
+0487-VVUVK,,,
+5063-IUOKK,,,
+4508-OEBEY,,,
+0027-KWYKW,,,
+2308-STERM,,,
+5982-XMDEX,,,
+6051-PTVNS,,,
+2877-VDUER,,,
+9152-AMKAK,,,
+9432-VOFYX,,,
+8049-WJCLQ,,,
+6586-PSJOX,,,
+9705-ZJBCG,,,
+9670-BPNXF,,,
+3913-FCUUW,,,
+3301-VKTGC,,,
+9555-SAHUZ,,,
+0816-TSPHQ,,,
+9932-WBWIK,,,
+5286-YHCVC,,,
+9115-YQHGA,,,
+8963-MQVYN,,,
+2458-EOMRE,,,
+6542-LWGXJ,,,
+5567-GZKQY,,,
+1222-LRYKO,,,
+2087-QAREY,,,
+4423-JWZJN,,,
+6490-FGZAT,,,
+7452-FOLON,,,
+2320-TZRRH,,,
+4942-VZZOM,,,
+7502-BNYGS,,,
+6147-CBCRA,,,
+6047-SUHPR,,,
+9752-ZNQUT,,,
+5666-MBJPT,,,
+7312-XSBAT,,,
+3096-GKWEB,,,
+2371-JQHZZ,,,
+0674-GCDXG,,,
+1121-QSIVB,,,
+4396-KLSEH,,,
+2824-MYYBN,,,
+6345-HOVES,,,
+8318-LCNBW,,,
+6469-QJKZW,,,
+6370-ZVHDV,,,
+5915-DGNVC,,,
+6260-XLACS,,,
+3566-CAAYU,,,
+4983-CCWMC,,,
+9103-CXVOK,,,
+2896-TBNBE,,,
+3841-CONLJ,,,
+4475-NVTLU,,,
+9386-LDCZR,,,
+9585-KKMFD,,,
+5399-ZIMKF,,,
+0336-KXKFK,,,
+5619-XZZKR,,,
+3948-FVVRP,,,
+0983-TATYJ,,,
+1813-JYWTO,,,
+6719-OXYBR,,,
+6476-YHMGA,,,
+0168-XZKBB,,,
+3785-NRHYR,,,
+4537-DKTAL,,,
+5602-BVFMK,,,
+6297-NOOPG,,,
+8204-TIFGJ,,,
+8903-XEBGX,,,
+1089-XZWHH,,,
+2325-WINES,,,
+6064-ZATLR,,,
+7824-PANSQ,,,
+9648-BCHKM,,,
+2888-ADFAO,,,
+8707-HOEDG,,,
+4072-IPYLT,,,
+7167-PCEYD,,,
+4936-YPJNK,,,
+4817-KEQSP,,,
+6408-WHTEF,,,
+9251-AWQGT,,,
+8749-CLJXC,,,
+7989-VCQOH,,,
+8882-TLVRW,,,
+3580-GICBM,,,
+9730-DRTMJ,,,
+4686-UXDML,,,
+0932-YIXYU,,,
+7480-SPLEF,,,
+7636-XUHWW,,,
+1431-CYWMH,,,
+6349-JDHQP,,,
+5847-MXBEO,,,
+1116-FRYVH,,,
+9633-XQABV,,,
+1183-CANVH,,,
+1972-XMUWV,,,
+8679-LZBMD,,,
+3407-JMJQQ,,,
+6252-DFGTK,,,
+1539-LNKHM,,,
+8645-KOMJQ,,,
+0289-IVARM,,,
+9761-XUJWD,,,
+4057-FKCZK,,,
+4291-TPNFG,,,
+6087-YPWHO,,,
+3090-QFUVD,,,
+1722-LDZJS,,,
+1818-ESQMW,,,
+7401-RUBNK,,,
+0506-YLVKJ,,,
+8661-BOYNW,,,
+4815-GBTCD,,,
+2805-AUFQN,,,
+0980-PVMRC,,,
+7233-DRTRF,,,
+3873-NFTGI,,,
+7048-GXDAY,,,
+8571-ZCMCX,,,
+1169-WCVAK,,,
+7129-CAKJW,,,
+3570-YUEKJ,,,
+1555-HAPSU,,,
+8464-EETCQ,,,
+2419-FSORS,,,
+8132-YPVBX,,,
+6754-LZUKA,,,
+8099-MZPUJ,,,
+0787-LHDYT,,,
+0374-IOEGQ,,,
+3197-NNYNB,,,
+3396-DKDEL,,,
+1752-OZXFY,,,
+9066-QRSDU,,,
+9867-NNXLC,,,
+5321-NTRKC,,,
+3161-GETRM,,,
+0402-OAMEN,,,
+6933-VLYFX,,,
+6754-WKSHP,,,
+5055-MGMGF,,,
+4641-FROLU,,,
+2862-JVEOY,,,
+2969-QWUBZ,,,
+9822-BIIGN,,,
+1534-OULXE,,,
+2971-SGAFL,,,
+2905-KFQUV,,,
+3370-HXOPH,,,
+9391-YZEJW,,,
+9958-MEKUC,,,
+0281-CNTZX,,,
+9114-VEPUF,,,
+7876-BEUTG,,,
+2338-BQEZT,,,
+9873-MNDKV,,,
+8241-JUIQO,,,
+2194-IIQOF,,,
+9631-RXVJM,,,
+9584-EXCDZ,,,
+5093-FEGLU,,,
+2621-UDNLU,,,
+7526-IVLYU,,,
+9214-EKVXR,,,
+3410-MHHUM,,,
+2122-YWVYA,,,
+2296-DKZFP,,,
+8909-BOLNL,,,
+6603-YRDCJ,,,
+3229-USWAR,,,
+2138-VFAPZ,,,
+6131-JLWZM,,,
+0269-XFESX,,,
+1709-EJDOX,,,
+4316-XCSLJ,,,
+0383-CLDDA,,,
+2709-UQGNP,,,
+3549-ZTMNH,,,
+8033-ATFAS,,,
+0562-HKHML,,,
+8277-RVRSV,,,
+7054-ENNGU,,,
+1455-HFBXA,,,
+9402-CXWPL,,,
+1628-BIZYP,,,
+0082-LDZUE,,,
+5343-SGUBI,,,
+0856-NAOES,,,
+1976-AZZPJ,,,
+6156-UZDLF,,,
+3099-OONVS,,,
+9500-WBGRP,,,
+5183-KLYEM,,,
+5144-PQCDZ,,,
+8514-VZHEB,,,
+6625-IUTTT,,,
+0068-FIGTF,,,
+5965-GGPRW,,,
+8035-PWSEV,,,
+2236-HILPA,,,
+1840-BIUOG,,,
+1356-MKYSK,,,
+6080-LNESI,,,
+1830-IPXVJ,,,
+8398-TBIYD,,,
+9418-RUKPH,,,
+4712-AUQZO,,,
+9711-FJTBX,,,
+2908-ZTPNF,,,
+1414-YADCW,,,
+8756-RDDLT,,,
+2862-PFNIK,,,
+5816-QVHRX,,,
+4430-YHXGG,,,
+6888-SBYAI,,,
+7395-XWZOY,,,
+7169-YWAMK,,,
+6859-RKMZJ,,,
+2729-VNVAP,,,
+2049-BAFNW,,,
+3842-QTGDL,,,
+7163-OCEQI,,,
+9782-LGXMC,,,
+5975-BAICR,,,
+4673-KKSLS,,,
+4853-OITSN,,,
+9800-OUIGR,,,
+2324-EFHVG,,,
+7094-MSZAO,,,
+6907-CQGPN,,,
+0780-XNZFN,,,
+0239-OXEXL,,,
+2675-IJRGJ,,,
+7049-GKVZY,,,
+8577-QSOCG,,,
+3721-CNZHX,,,
+0212-ISBBF,,,
+3585-YNADK,,,
+1099-GODLO,,,
+6828-HMKWP,,,
+1472-TNCWL,,,
+2080-GKCWQ,,,
+2193-SFWQW,,,
+5656-JAMLX,,,
+3462-BJQQA,,,
+0442-TDYUO,,,
+6733-LRIZX,,,
+9503-XJUME,,,
+4367-NHWMM,,,
+3779-OSWCF,,,
+6736-DHUQI,,,
+1360-RCYRT,,,
+2724-FJDYW,,,
+4451-RWASJ,,,
+3460-TJBWI,,,
+5917-HBSDW,,,
+0956-ACVZC,,,
+2325-NBPZG,,,
+4482-FTFFX,,,
+8859-DZTGQ,,,
+0440-MOGPM,,,
+0020-JDNXP,,,
+3752-CQSJI,,,
+5025-GOOKI,,,
+2887-JPYLU,,,
+4770-QAZXN,,,
+4896-CPRPF,,,
+9714-EDSUC,,,
+7353-YOWFP,,,
+8008-ESFLK,,,
+3363-EWLGO,,,
+1689-YQBYY,,,
+4487-ZYJZK,,,
+2959-FENLU,,,
+0708-LGSMF,,,
+7634-HLQJR,,,
+0487-RPVUM,,,
+4079-ULGFR,,,
+2516-XSJKX,,,
+0057-QBUQH,,,
+6599-SFQVE,,,
+8331-ZXFOE,,,
+4003-FUSHP,,,
+0356-ERHVT,,,
+7325-ENZFI,,,
+3920-HIHMQ,,,
+0613-WUXUM,,,
+4458-KVRBJ,,,
+1397-XKKWR,,,
+8097-OMULG,,,
+6013-BHCAW,,,
+0401-WDBXM,,,
+3387-PLKUI,,,
+6096-EGVTU,,,
+5081-NWSUP,,,
+2580-ATZSQ,,,
+8085-MSNLK,,,
+9691-HKOVS,,,
+9881-VCZEP,,,
+8757-TFHHJ,,,
+5119-KEPFY,,,
+0916-KNFAJ,,,
+8319-QBEHW,,,
+9625-QNLUX,,,
+4024-CSNBY,,,
+7110-BDTWG,,,
+7493-GVFIO,,,
+0690-SRQID,,,
+9114-DPSIA,,,
+4700-UBQMV,,,
+7711-GQBZC,,,
+9795-NREXC,,,
+8573-CGOCC,,,
+7356-AYNJP,,,
+6286-SUUWT,,,
+4819-HJPIW,,,
+8654-DHAOW,,,
+5438-QMDDL,,,
+9812-GHVRI,,,
+1228-ZLNBX,,,
+4226-KKDON,,,
+3831-YCPUO,,,
+7445-WMRBW,,,
+3308-DGHKL,,,
+9924-JPRMC,,,
+0080-EMYVY,,,
+6218-KNUBD,,,
+7337-CINUD,,,
+7609-NRNCA,,,
+0623-EJQEG,,,
+7153-CHRBV,,,
+6198-PNNSZ,,,
+3317-VLGQT,,,
+4132-POCZS,,,
+5614-DNZCE,,,
+3896-RCYYE,,,
+9638-JIQYA,,,
+3726-TBHQT,,,
+3190-ITQXP,,,
+3039-MJSLN,,,
+0178-CIIKR,,,
+5774-QPLTF,,,
+5010-IPEAQ,,,
+8990-YOZLV,,,
+3069-SSVSN,,,
+5222-IMUKT,,,
+6685-XSHHU,,,
+8901-UPRHR,,,
+3845-FXCYS,,,
+5857-XRECV,,,
+0725-CXOTM,,,
+4343-EJVQB,,,
+3427-GGZZI,,,
+3154-CFSZG,,,
+2220-IAHLS,,,
+4377-VDHYI,,,
+4937-QPZPO,,,
+2925-VDZHY,,,
+6981-TDRFT,,,
+3413-CSSTH,,,
+8033-VCZGH,,,
+0224-NIJLP,,,
+7542-CYDDM,,,
+4718-WXBGI,,,
+5716-LIBJC,,,
+2868-LLSKM,,,
+2988-QRAJY,,,
+0071-NDAFP,,,
+7328-ZJAJO,,,
+1090-PYKCI,,,
+3058-WQDRE,,,
+2279-AXJJK,,,
+0909-SELIE,,,
+3417-TSCIC,,,
+1042-HFUCW,,,
+6537-OTKMY,,,
+8999-EXMNO,,,
+6725-TPKJO,,,
+7162-WPHPM,,,
+1599-MMYRQ,,,
+8821-KVZKQ,,,
+6434-TTGJP,,,
+0042-JVWOJ,,,
+0130-SXOUN,,,
+2330-PQGDQ,,,
+1452-UZOSF,,,
+2097-YVPKN,,,
+8597-CTXVJ,,,
+6631-HMANX,,,
+9962-BFPDU,,,
+6394-HHHZM,,,
+5995-LFTLE,,,
+0665-XHDJU,,,
+8265-HKSOW,,,
+3544-FBCAS,,,
+4759-PXTAN,,,
+7054-DMVAS,,,
+3428-MMGUB,,,
+6549-BTYPG,,,
+7823-JSOAG,,,
+3705-RHRFR,,,
+9374-YOLBJ,,,
+9074-KGVOX,,,
+6128-DAFVY,,,
+9933-QRGTX,,,
+5066-GFJMM,,,
+2661-GKBTK,,,
+0458-HEUZG,,,
+7268-WNTCP,,,
+0824-VWDPO,,,
+8409-WQJUX,,,
+2578-JQPHZ,,,
+3278-FSIXX,,,
+9746-UGFAC,,,
+2946-KIQSP,,,
+0625-AFOHS,,,
+4636-OLWOE,,,
+4685-ERGHK,,,
+0885-HMGPY,,,
+5003-OKNNK,,,
+7208-PSIHR,,,
+4012-ZTHBR,,,
+0489-WMEMG,,,
+7435-ZNUYY,,,
+1354-YZFNB,,,
+2985-FMWYF,,,
+2812-ENYMO,,,
+2717-HVIZY,,,
+3422-GALYP,,,
+2890-WFBHU,,,
+0327-WFZSY,,,
+7977-HXJKU,,,
+7033-CLAMM,,,
+0864-FVJNJ,,,
+7356-IWLFW,,,
+9541-PWTWO,,,
+3967-VQOGC,,,
+6308-CQRBU,,,
+0186-CAERR,,,
+3043-SUDUA,,,
+5442-BHQNG,,,
+2169-RRLFW,,,
+5872-OEQNH,,,
+8873-GLDMH,,,
+5696-JVVQY,,,
+8946-BFWSG,,,
+0547-HURJB,,,
+8845-LWKGE,,,
+0691-NIKRI,,,
+5022-JNQEQ,,,
+3249-VHRIP,,,
+3736-BLEPA,,,
+4701-LKOZD,,,
+6603-QWSPR,,,
+9921-QFQUL,,,
+1929-ZCBHE,,,
+4378-MYPGO,,,
+4129-LYCOI,,,
+7798-JVXYM,,,
+8647-SDTWQ,,,
+2696-ECXKC,,,
+2081-KJSQF,,,
+3323-CPBWR,,,
+3384-CTMSF,,,
+0902-RFHOF,,,
+7718-RXDGG,,,
+1025-FALIX,,,
+3451-VAWLI,,,
+3407-QGWLG,,,
+2347-WKKAE,,,
+8735-DCXNF,,,
+3214-IYUUQ,,,
+1936-UAFEH,,,
+3587-PMCOY,,,
+1027-LKKQQ,,,
+7148-XZPHA,,,
+5309-TAIKL,,,
+6856-RAURS,,,
+8778-LMWTJ,,,
+9717-IOAAF,,,
+2845-KDHVX,,,
+0848-SOMKO,,,
+1535-VTJOQ,,,
+6368-TZZDT,,,
+0943-ZQPXH,,,
+1293-BSEUN,,,
+1302-TPUBN,,,
+0927-CNGRH,,,
+8608-OZTLB,,,
+2335-GSODA,,,
+1952-DVVSW,,,
+6656-GULJQ,,,
+9853-JFZDU,,,
+3777-XROBG,,,
+6994-FGRHH,,,
+4000-VGMQP,,,
+3999-WRNGR,,,
+3466-RITXD,,,
+2680-XKKNJ,,,
+2101-RANCD,,,
+7921-BEPCI,,,
+8510-TMWYB,,,
+3258-ZKPAI,,,
+1428-IEDPR,,,
+4450-YOOHP,,,
+6728-CZFEI,,,
+3653-NCRDJ,,,
+6519-ZHPXP,,,
+3472-QPRCH,,,
+8224-UAXBZ,,,
+9610-WCESF,,,
+2486-WYVVE,,,
+1422-DGUBX,,,
+2999-AANRQ,,,
+8668-KNZTI,,,
+0480-KYJVA,,,
+9746-YKGXB,,,
+3926-YZVVX,,,
+6000-UKLWI,,,
+6332-FBZRI,,,
+2096-XOTMO,,,
+3266-FTKHB,,,
+8221-EQDGL,,,
+2346-LOCWC,,,
+0298-XACET,,,
+7560-QJAVJ,,,
+2995-YWTCD,,,
+9137-UIYPG,,,
+2809-ZMYOQ,,,
+5084-OOVCJ,,,
+0254-WWRKD,,,
+7727-SHVZV,,,
+5339-PXDVH,,,
+8782-NUUOL,,,
+7601-WFVZV,,,
+4609-KNNWG,,,
+9529-OFXHY,,,
+2669-QVCRG,,,
+2478-EEWWM,,,
+9174-IHETN,,,
+2233-TXSIU,,,
+9644-UMGQA,,,
+0419-YAAPX,,,
+0872-CASZJ,,,
+8164-OCKUJ,,,
+3094-JOJAI,,,
+9494-MRNYX,,,
+2599-CZABP,,,
+7945-PRBVF,,,
+4544-RXFMG,,,
+0859-YGKFW,,,
+1150-FTQGN,,,
+7196-LIWRH,,,
+5448-VWNAM,,,
+1177-XZBJL,,,
+9330-VOFSZ,,,
+0939-EREMR,,,
+9389-ACWBI,,,
+3644-QXEHN,,,
+2911-IJORQ,,,
+5921-NGYRH,,,
+5998-DZLYR,,,
+3985-HOYPM,,,
+9548-LERKT,,,
+6576-FBXOJ,,,
+4310-KEDTB,,,
+4062-HBMOS,,,
+2676-ISHSF,,,
+9236-NDUCW,,,
+4753-PADAS,,,
+6103-QCKFX,,,
+7781-EWARA,,,
+7018-FPXHH,,,
+0572-ZJKLT,,,
+5135-RDDQL,,,
+1353-LJWEM,,,
+1794-SWWKL,,,
+6166-YIPFO,,,
+9332-GYWLO,,,
+4184-VODJZ,,,
+1092-WPIVQ,,,
+7233-IOQNP,,,
+2834-JKOOW,,,
+2400-FEQME,,,
+4957-SREEC,,,
+4923-ADWXJ,,,
+3439-GVUSX,,,
+5949-HGVJL,,,
+5203-XEHAX,,,
+1635-HDGFT,,,
+8050-XGRVL,,,
+9828-QHFBK,,,
+5012-YSPJJ,,,
+6728-VOIFY,,,
+4891-NLUBA,,,
+8969-PRHFK,,,
+0661-KQHNK,,,
+8709-KRDVL,,,
+1427-VERSM,,,
+9801-NOSHQ,,,
+6339-YPSAH,,,
+2159-TURXX,,,
+1548-FEHVL,,,
+3795-CAWEX,,,
+6215-NQCPY,,,
+5647-URDKA,,,
+2229-DPMBI,,,
+9626-WEQRM,,,
+2188-SXWVT,,,
+6258-PVZWJ,,,
+1094-BKOSX,,,
+2978-XXSOG,,,
+2342-CKIAO,,,
+6953-PBDIN,,,
+3898-BSJYF,,,
+3938-YFPXD,,,
+7696-AMHOD,,,
+9558-IHEZX,,,
+9617-UDPEU,,,
+6340-DACFT,,,
+4955-VCWBI,,,
+6813-GZQCG,,,
+3389-KTRXV,,,
+3118-UHVVQ,,,
+3205-MXZRA,,,
+8317-BVKSO,,,
+5702-KVQRD,,,
+0083-PIVIK,,,
+6169-PGNCD,,,
+4657-FWVFY,,,
+2257-BOVXD,,,
+7729-JTEEC,,,
+9696-RMYBA,,,
+8690-UPCZI,,,
+9770-LXDBK,,,
+4086-WITJG,,,
+8344-WFMFH,,,
+8822-KNBHV,,,
+8404-FYDIB,,,
+2791-SFVEW,,,
+6762-NSODU,,,
+9888-ZCUMM,,,
+1074-WVEVG,,,
+9979-RGMZT,,,
+2108-GLPQB,,,
+5474-LAMUQ,,,
+3468-DRVQJ,,,
+1122-YJBCS,,,
+4990-ALDGW,,,
+4816-OKWNX,,,
+3315-IKYZQ,,,
+4747-LCAQL,,,
+0898-XCGTF,,,
+8006-PYCSW,,,
+8249-THVEC,,,
+8722-PRFDV,,,
+2164-SOQXL,,,
+4020-KIUDI,,,
+5850-BDWCY,,,
+2038-YSEZE,,,
+0827-ITJPH,,,
+8799-OXZMD,,,
+1705-GUHPV,,,
+4779-ZGICK,,,
+0048-PIHNL,,,
+3967-KXAPS,,,
+3704-IEAXF,,,
+6810-VCAEX,,,
+0674-EYYZV,,,
+4480-MBMLB,,,
+1395-OFUWC,,,
+2832-KJCRD,,,
+4075-WKNIU,,,
+5090-EMGTC,,,
+2346-CZYIL,,,
+6258-NGCNG,,,
+4186-ZBUEW,,,
+5274-XHAKY,,,
+1442-BQPVU,,,
+3978-YNKDD,,,
+4940-KHCWD,,,
+9589-ABEPT,,,
+9388-ZEYVT,,,
+0305-SQECB,,,
+7605-SNLQG,,,
+4670-TABXH,,,
+0064-SUDOG,,,
+8561-NMTBD,,,
+5161-XEUVX,,,
+8292-FRFZQ,,,
+8591-NXRCV,,,
+7895-VONWT,,,
+4526-RMTLL,,,
+6253-GNHWH,,,
+4566-NECEV,,,
+8080-POTJR,,,
+6906-MPARY,,,
+3662-FXJFO,,,
+8107-RZLNV,,,
+0516-OOHAR,,,
+2027-CWDNU,,,
+9912-OMZDS,,,
+3733-ZEECP,,,
+7878-RTCZG,,,
+7103-IPXPJ,,,
+4342-HFXWS,,,
+3545-CNWRG,,,
+1785-BPHTP,,,
+7315-WYOAW,,,
+1173-XZPYF,,,
+2509-TFPJU,,,
+9530-GRMJG,,,
+6898-RBTLU,,,
+2068-WWXQZ,,,
+2061-VVFST,,,
+2380-DAMQP,,,
+2256-YLYLP,,,
+1272-ILHFG,,,
+0164-XAIRP,,,
+5666-CYCYZ,,,
+4011-ARPHK,,,
+6365-HITVU,,,
+7558-IMLMT,,,
+9488-FYQAU,,,
+3590-TCXTB,,,
+6994-KERXL,,,
+1960-UOTYM,,,
+2740-JFBOK,,,
+6500-JVEGC,,,
+5245-VDBUR,,,
+8469-SNFFH,,,
+2144-ESWKO,,,
+1241-FPMOF,,,
+9928-BZVLZ,,,
+4114-QMKVN,,,
+2775-SEFEE,,,
+9003-CPATH,,,
+7956-XQWGU,,,
+2369-FEVNO,,,
+5115-SQAAU,,,
+9845-QOMAD,,,
+7672-VFMXZ,,,
+9739-JLPQJ,,,
+9916-AYHTC,,,
+3855-ONCAR,,,
+1488-SYSFC,,,
+0970-QXPXW,,,
+9572-WUKSB,,,
+5893-KCLGT,,,
+0076-LVEPS,,,
+3640-JQGJG,,,
+1596-OQSPS,,,
+9867-XOBQA,,,
+9546-KDTRB,,,
+3174-RKMOW,,,
+1760-CAZHT,,,
+8441-SHIPE,,,
+1320-GVNHT,,,
+1047-RNXZV,,,
+3541-ZNUHK,,,
+8725-JEDFD,,,
+7562-UXTPG,,,
+8071-SBTRN,,,
+6668-CNMFP,,,
+5626-MGTUK,,,
+5681-LLOEI,,,
+8212-DJRCH,,,
+4933-BSAIP,,,
+2030-BTZRO,,,
+1116-DXXDF,,,
+0270-THENM,,,
+4707-MAXGU,,,
+2710-WYVXG,,,
+6300-BWMJX,,,
+7009-LGECI,,,
+5022-KVDQT,,,
+7976-CICYS,,,
+1036-GUDCL,,,
+2005-DWQZJ,,,
+8148-WOCMK,,,
+7815-PDTHL,,,
+9173-IVZVP,,,
+3635-JBPSG,,,
+7964-ZRKKG,,,
+1724-IQWNM,,,
+8217-QYOHV,,,
+5546-QUERU,,,
+6897-UUBNU,,,
+8930-XOTDP,,,
+5916-QEWPT,,,
+5060-TQUQN,,,
+0531-XBKMM,,,
+8465-SBRXP,,,
+2408-PSJVE,,,
+9700-ZCLOT,,,
+8738-JOKAR,,,
+4534-WGCIR,,,
+1930-WNXSB,,,
+3508-CFVZL,,,
+0657-DOGUM,,,
+8792-AOROI,,,
+5146-YYFRZ,,,
+3452-SRFEG,,,
+4070-OKWVH,,,
+5297-MDOIR,,,
+6369-MCAKO,,,
+4926-UMJZD,,,
+6848-HJTXY,,,
+6341-AEVKX,,,
+0682-USIXD,,,
+6976-BWGLQ,,,
+7078-NVFAM,,,
+2133-TSRRM,,,
+2511-ALLCS,,,
+3191-CSNMG,,,
+7952-OBOYL,,,
+7470-DYNOE,,,
+7853-OETYL,,,
+1545-ACTAS,,,
+5126-RCXYW,,,
+2363-BJLSL,,,
+1956-YIFGE,,,
+2925-MXLSX,,,
+9609-BENEA,,,
+4459-BBGHE,,,
+9945-PSVIP,,,
+9108-EJFJP,,,
+0530-IJVDB,,,
+0508-SQWPL,,,
+2215-ZAFGX,,,
+8213-TAZPM,,,
+1304-SEGFY,,,
+7242-EDTYC,,,
+2904-GGUAZ,,,
+5136-GFPMB,,,
+2595-KIWPV,,,
+5243-SAOTC,,,
+9398-MMQTO,,,
+7619-PLRLP,,,
+6508-NJYRO,,,
+4710-NKCAW,,,
+5306-BVTKJ,,,
+0357-NVCRI,,,
+2371-KFUOG,,,
+0463-ZSDNT,,,
+6257-DTAYD,,,
+4616-ULAOA,,,
+7746-AWNQW,,,
+5996-EBTKM,,,
+2758-RNWXS,,,
+2314-TNDJQ,,,
+2405-LBMUW,,,
+9039-ZVJDC,,,
+9013-AQORL,,,
+2898-MRKPI,,,
+2750-BJLSB,,,
+3648-GZPHF,,,
+2075-RMJIK,,,
+9588-YRFHY,,,
+9364-YKUVW,,,
+5392-AKEMH,,,
+3914-FDRHP,,,
+3078-ZKNTS,,,
+1024-KPRBB,,,
+9547-ITEFG,,,
+1264-FUHCX,,,
+6598-KELSS,,,
+0422-UXFAP,,,
+1904-WAJAA,,,
+5130-YPIRV,,,
+2843-CQMEG,,,
+6439-PKTRR,,,
+5351-QESIO,,,
+5568-DMXZS,,,
+8468-FZTOE,,,
+6633-SYEUS,,,
+6447-GORXK,,,
+6967-PEJLL,,,
+1684-FLBGS,,,
+1389-WNUIB,,,
+0376-OIWME,,,
+0218-QNVAS,,,
+0804-YGEQV,,,
+7164-BPTUT,,,
+2523-EWWZL,,,
+0928-XUTSN,,,
+0052-YNYOT,,,
+9586-JGQKH,,,
+4501-VCPFK,,,
+6075-SLNIL,,,
+9347-AERRL,,,
+6691-CCIHA,,,
+1685-BQULA,,,
+9053-EJUNL,,,
+1471-GIQKQ,,,
+4807-IZYOZ,,,
+9710-NJERN,,,
+9837-FWLCH,,,
+7203-OYKCT,,,
+7398-LXGYX,,,
+2823-LKABH,,,
+0550-DCXLH,,,
+9281-CEDRU,,,
+0871-OPBXW,,,
+9767-FFLEM,,,
+8456-QDAVC,,,
+7750-EYXWZ,,,
+2569-WGERO,,,
+6840-RESVB,,,
+2234-XADUH,,,
+4801-JZAZL,,,
+3186-AJIEK,,,
