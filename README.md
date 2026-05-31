@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter_Notebook-F37626.svg)
 ![Machine Learning](https://img.shields.io/badge/Model-XGBoost%20%7C%20K--Means-green.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](替换你的colab连接)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](替换你的nbviewer连接)
 
 ## 📖 1. Project Background & Objective
 In the highly competitive telecommunications industry, customer churn is the primary driver of revenue leakage. The primary objective of this project is to **reduce churn and boost overall revenue** by uncovering the hidden structural drivers of customer attrition.
